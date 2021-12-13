@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Nullable>Enable</Nullable>
+    <LangVersion>9.0</LangVersion>
+	<Version>1.0.0</Version>
+	<!--<TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+	<Authors>alanedwardes</Authors>
+	<Description>Provides wrappers around geocoding</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/alanedwardes/Ae.Geocode</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ae.StringEnum" Version="1.0.0" />
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
