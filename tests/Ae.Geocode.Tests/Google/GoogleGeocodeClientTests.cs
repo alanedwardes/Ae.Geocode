@@ -1,4 +1,5 @@
-﻿using Ae.Geocode.Google.Entities;
+﻿using Ae.Geocode.Google;
+using Ae.Geocode.Google.Entities;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
@@ -7,7 +8,7 @@ using Xunit;
 
 namespace Ae.Geocode.Tests.Google
 {
-    public sealed class GoogleGeocodeClientTests
+    public sealed class GeocodeResponseExtensionsTests
     {
         [Theory]
         [InlineData(1, "Victoria Park,Kingston upon Hull,Hull,England,United Kingdom")]
@@ -51,11 +52,11 @@ namespace Ae.Geocode.Tests.Google
         [InlineData(39, "Oraby,Al Azbakeya,Cairo,Cairo Governorate,Egypt")]
         [InlineData(40, "İstiklal,Bursa,Osmangazi,Turkey")]
         [InlineData(41, "Gyan Kunj,Guru Angad Nagar West,Laxmi Nagar,East Delhi,Delhi,India")]
-        public async Task Test(int file, string expected)
+        public async Task TestGuessMajorLocationParts(int file, string expected)
         {
             using var stream = File.OpenRead("Google/Files/response" + file + ".json");
             var response = await JsonSerializer.DeserializeAsync<GeocodeResponse>(stream, null);
-            var components = string.Join(',', response.GetSimpleLocation().Select(x => x.LongName));
+            var components = string.Join(',', response.GuessMajorLocationParts().Select(x => x.LongName));
             Assert.Equal(expected, components);
         }
     }

@@ -41,7 +41,7 @@ namespace Ae.Geocode.Google
 
             var requestUri = new Uri($"/maps/api/geocode/json" + EncodeQueryComponents(parameters), UriKind.Relative);
             var response = await _httpClient.GetStreamAsync(requestUri);
-            return await JsonSerializer.DeserializeAsync<GeocodeResponse>(response, null, token);
+            return (await JsonSerializer.DeserializeAsync<GeocodeResponse>(response, null, token))!;
         }
     }
 }
