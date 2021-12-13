@@ -1,0 +1,420 @@
+{
+   "plus_code" : {
+      "compound_code" : "3G8C+QGF Newton Stewart, UK",
+      "global_code" : "9C7Q3G8C+QGF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3G8C+QG",
+               "short_name" : "3G8C+QG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3G8C+QG Newton Stewart, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.067,
+                  "lng" : -4.478625
+               },
+               "southwest" : {
+                  "lat" : 55.066875,
+                  "lng" : -4.47875
+               }
+            },
+            "location" : {
+               "lat" : 55.066939,
+               "lng" : -4.478689999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0682864802915,
+                  "lng" : -4.477338519708498
+               },
+               "southwest" : {
+                  "lat" : 55.0655885197085,
+                  "lng" : -4.480036480291502
+               }
+            }
+         },
+         "place_id" : "GhIJ2ekHdZGIS0ARX7Abti3qEcA",
+         "plus_code" : {
+            "compound_code" : "3G8C+QG Newton Stewart, UK",
+            "global_code" : "9C7Q3G8C+QG"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "Dumfries and Galloway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DG8 6SS",
+               "short_name" : "DG8 6SS",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Newton Stewart DG8 6SS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.067574,
+                  "lng" : -4.492961900000001
+               },
+               "southwest" : {
+                  "lat" : 55.0506839,
+                  "lng" : -4.5139324
+               }
+            },
+            "location" : {
+               "lat" : 55.0581572,
+               "lng" : -4.4998054
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.067574,
+                  "lng" : -4.492961900000001
+               },
+               "southwest" : {
+                  "lat" : 55.0506839,
+                  "lng" : -4.5139324
+               }
+            }
+         },
+         "place_id" : "ChIJV3uE2YBgYkgRwDleFacMR_Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DG8 6FA",
+               "short_name" : "DG8 6FA",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newton Stewart DG8 6FA, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1630963,
+                  "lng" : -4.402053
+               },
+               "southwest" : {
+                  "lat" : 55.0449497,
+                  "lng" : -4.5138283
+               }
+            },
+            "location" : {
+               "lat" : 55.0925453,
+               "lng" : -4.4787933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1630963,
+                  "lng" : -4.402053
+               },
+               "southwest" : {
+                  "lat" : 55.0449497,
+                  "lng" : -4.5138283
+               }
+            }
+         },
+         "place_id" : "ChIJ8YFAjtNhYkgRtsg_R4hkMMU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DG8",
+               "short_name" : "DG8",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newton Stewart DG8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.2194794,
+                  "lng" : -4.270613099999999
+               },
+               "southwest" : {
+                  "lat" : 54.6778803,
+                  "lng" : -4.9664021
+               }
+            },
+            "location" : {
+               "lat" : 54.91866109999999,
+               "lng" : -4.591871200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2194794,
+                  "lng" : -4.270613099999999
+               },
+               "southwest" : {
+                  "lat" : 54.6778803,
+                  "lng" : -4.9664021
+               }
+            }
+         },
+         "place_id" : "ChIJhWuDzFAVYkgRvZ_MLP5H1tI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newton Stewart",
+               "short_name" : "Newton Stewart",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newton Stewart, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.20436290000001,
+                  "lng" : -4.2921282
+               },
+               "southwest" : {
+                  "lat" : 54.6767958,
+                  "lng" : -4.9408121
+               }
+            },
+            "location" : {
+               "lat" : 54.91866109999999,
+               "lng" : -4.591871200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.20436290000001,
+                  "lng" : -4.2921282
+               },
+               "southwest" : {
+                  "lat" : 54.6767958,
+                  "lng" : -4.9408121
+               }
+            }
+         },
+         "place_id" : "ChIJY_IUpWxbYkgR1o1M8Kql18c",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumfries and Galloway",
+               "short_name" : "Dumfries and Galloway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dumfries and Galloway, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.46405009999999,
+                  "lng" : -2.8573637
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -5.187653699999999
+               }
+            },
+            "location" : {
+               "lat" : 55.0701073,
+               "lng" : -3.6052581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.46405009999999,
+                  "lng" : -2.8573637
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -5.187653699999999
+               }
+            }
+         },
+         "place_id" : "ChIJNb41SxLKYkgRqoCDQGd-en0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Scotland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            },
+            "location" : {
+               "lat" : 56.49067119999999,
+               "lng" : -4.2026458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            }
+         },
+         "place_id" : "ChIJn6HyA8TiYUgRFAfDCdj6wec",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

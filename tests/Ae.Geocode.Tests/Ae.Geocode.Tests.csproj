@@ -22,4 +22,10 @@
     <ProjectReference Include="..\..\src\Ae.Geocode\Ae.Geocode.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Google\Files\*.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

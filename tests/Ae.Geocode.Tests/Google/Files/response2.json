@@ -1,0 +1,617 @@
+{
+   "plus_code" : {
+      "compound_code" : "69HM+JVX Bakewell, UK",
+      "global_code" : "9C5W69HM+JVX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "69HM+JV",
+               "short_name" : "69HM+JV",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "69HM+JV Bakewell, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.229125,
+                  "lng" : -1.61525
+               },
+               "southwest" : {
+                  "lat" : 53.229,
+                  "lng" : -1.615375
+               }
+            },
+            "location" : {
+               "lat" : 53.229116,
+               "lng" : -1.615255
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2304114802915,
+                  "lng" : -1.613963519708498
+               },
+               "southwest" : {
+                  "lat" : 53.2277135197085,
+                  "lng" : -1.616661480291502
+               }
+            }
+         },
+         "place_id" : "GhIJw35PrFOdSkARKjV7oBXY-b8",
+         "plus_code" : {
+            "compound_code" : "69HM+JV Bakewell, UK",
+            "global_code" : "9C5W69HM+JV"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatsworth House",
+               "short_name" : "Chatsworth House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE45 1PP",
+               "short_name" : "DE45 1PP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chatsworth House, Bakewell DE45 1PP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2285042,
+                  "lng" : -1.6112659
+               },
+               "southwest" : {
+                  "lat" : 53.2269398,
+                  "lng" : -1.6121329
+               }
+            },
+            "location" : {
+               "lat" : 53.2275436,
+               "lng" : -1.6114278
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2290709802915,
+                  "lng" : -1.610350419708498
+               },
+               "southwest" : {
+                  "lat" : 53.2263730197085,
+                  "lng" : -1.613048380291502
+               }
+            }
+         },
+         "place_id" : "ChIJF-dJwvKHeUgRXRyx_gxu4wg",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE45 1PP",
+               "short_name" : "DE45 1PP",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Bakewell DE45 1PP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2293603,
+                  "lng" : -1.6122691
+               },
+               "southwest" : {
+                  "lat" : 53.22822439999999,
+                  "lng" : -1.6159182
+               }
+            },
+            "location" : {
+               "lat" : 53.229147,
+               "lng" : -1.6143709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2301413302915,
+                  "lng" : -1.6122691
+               },
+               "southwest" : {
+                  "lat" : 53.2274433697085,
+                  "lng" : -1.6159182
+               }
+            }
+         },
+         "place_id" : "ChIJBRdry4yHeUgR9sHJQF16huc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DE45 1PP",
+               "short_name" : "DE45 1PP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bakewell DE45 1PP, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2363343,
+                  "lng" : -1.6029075
+               },
+               "southwest" : {
+                  "lat" : 53.2180032,
+                  "lng" : -1.6192404
+               }
+            },
+            "location" : {
+               "lat" : 53.227588,
+               "lng" : -1.6114105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2363343,
+                  "lng" : -1.6029075
+               },
+               "southwest" : {
+                  "lat" : 53.2180032,
+                  "lng" : -1.6192404
+               }
+            }
+         },
+         "place_id" : "ChIJHXbfxfKHeUgRNchwBOI3H7M",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatsworth",
+               "short_name" : "Chatsworth",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DE45",
+               "short_name" : "DE45",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Chatsworth DE45, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.24098679999999,
+                  "lng" : -1.5799527
+               },
+               "southwest" : {
+                  "lat" : 53.2124391,
+                  "lng" : -1.6201603
+               }
+            },
+            "location" : {
+               "lat" : 53.22619299999999,
+               "lng" : -1.5997722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.24098679999999,
+                  "lng" : -1.5799527
+               },
+               "southwest" : {
+                  "lat" : 53.2124391,
+                  "lng" : -1.6201603
+               }
+            }
+         },
+         "place_id" : "ChIJtZ3Im5OHeUgR6Q80i2O3i_4",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DE45",
+               "short_name" : "DE45",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bakewell DE45, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2749763,
+                  "lng" : -1.5634978
+               },
+               "southwest" : {
+                  "lat" : 53.132235,
+                  "lng" : -1.803034
+               }
+            },
+            "location" : {
+               "lat" : 53.1844506,
+               "lng" : -1.6970061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2749763,
+                  "lng" : -1.5634978
+               },
+               "southwest" : {
+                  "lat" : 53.132235,
+                  "lng" : -1.803034
+               }
+            }
+         },
+         "place_id" : "ChIJwUaYn3SHeUgRNm7lauV-Pd0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bakewell",
+               "short_name" : "Bakewell",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bakewell, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2921519,
+                  "lng" : -1.5359985
+               },
+               "southwest" : {
+                  "lat" : 53.1322027,
+                  "lng" : -1.8083599
+               }
+            },
+            "location" : {
+               "lat" : 53.22750749999999,
+               "lng" : -1.6996678
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2921519,
+                  "lng" : -1.5359985
+               },
+               "southwest" : {
+                  "lat" : 53.1322027,
+                  "lng" : -1.8083599
+               }
+            }
+         },
+         "place_id" : "ChIJ31ox-30oekgRW3NUk9Q7muY",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derbyshire Dales District",
+               "short_name" : "Derbyshire Dales District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derbyshire Dales District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3918903,
+                  "lng" : -1.4953681
+               },
+               "southwest" : {
+                  "lat" : 52.86867549999999,
+                  "lng" : -1.9185598
+               }
+            },
+            "location" : {
+               "lat" : 53.1632937,
+               "lng" : -1.6699826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3918903,
+                  "lng" : -1.4953681
+               },
+               "southwest" : {
+                  "lat" : 52.86867549999999,
+                  "lng" : -1.9185598
+               }
+            }
+         },
+         "place_id" : "ChIJIbg1_q8mekgRQOXCu6gcDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derbyshire",
+               "short_name" : "Derbyshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derbyshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5404138,
+                  "lng" : -1.1664888
+               },
+               "southwest" : {
+                  "lat" : 52.6965216,
+                  "lng" : -2.0340978
+               }
+            },
+            "location" : {
+               "lat" : 53.1046782,
+               "lng" : -1.5623885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5404138,
+                  "lng" : -1.1664888
+               },
+               "southwest" : {
+                  "lat" : 52.6965216,
+                  "lng" : -2.0340978
+               }
+            }
+         },
+         "place_id" : "ChIJTRhgylBVd0gRYxzUrCNcT7w",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

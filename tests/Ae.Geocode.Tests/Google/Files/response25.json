@@ -1,0 +1,575 @@
+{
+   "plus_code" : {
+      "compound_code" : "488H+G2H Hobart TAS, Australia",
+      "global_code" : "4R99488H+G2H"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Murray Street",
+               "short_name" : "Murray St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Hobart",
+               "short_name" : "City of Hobart",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "46 Murray St, Hobart TAS 7000, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8835956,
+                  "lng" : 147.3276532
+               },
+               "southwest" : {
+                  "lat" : -42.8837911,
+                  "lng" : 147.3274129
+               }
+            },
+            "location" : {
+               "lat" : -42.8836691,
+               "lng" : 147.3275646
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8823443697085,
+                  "lng" : 147.3288820302915
+               },
+               "southwest" : {
+                  "lat" : -42.8850423302915,
+                  "lng" : 147.3261840697085
+               }
+            }
+         },
+         "place_id" : "ChIJMeBnC4V1bqoRcmmia_cH7aI",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "41-52",
+               "short_name" : "41-52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Murray Street",
+               "short_name" : "Murray St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Hobart",
+               "short_name" : "City of Hobart",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "41-52 Murray St, Hobart TAS 7000, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -42.8837649,
+               "lng" : 147.3275776
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8824159197085,
+                  "lng" : 147.3289265802915
+               },
+               "southwest" : {
+                  "lat" : -42.88511388029149,
+                  "lng" : 147.3262286197085
+               }
+            }
+         },
+         "place_id" : "ChIJzy76xoR1bqoR5b-4CjlPCps",
+         "plus_code" : {
+            "compound_code" : "488H+F2 Hobart TAS, Australia",
+            "global_code" : "4R99488H+F2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "488H+G2",
+               "short_name" : "488H+G2",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "488H+G2 Hobart TAS, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.88362499999999,
+                  "lng" : 147.327625
+               },
+               "southwest" : {
+                  "lat" : -42.88375,
+                  "lng" : 147.3275
+               }
+            },
+            "location" : {
+               "lat" : -42.883679,
+               "lng" : 147.327609
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.88233851970849,
+                  "lng" : 147.3289114802915
+               },
+               "southwest" : {
+                  "lat" : -42.88503648029149,
+                  "lng" : 147.3262135197085
+               }
+            }
+         },
+         "place_id" : "GhIJvJS6ZBxxRcARApzexXtqYkA",
+         "plus_code" : {
+            "compound_code" : "488H+G2 Hobart TAS, Australia",
+            "global_code" : "4R99488H+G2"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "25-27",
+               "short_name" : "25-27",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Murray Street",
+               "short_name" : "Murray St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Hobart",
+               "short_name" : "City of Hobart",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "25-27 Murray St, Hobart TAS 7000, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8835881,
+                  "lng" : 147.3279555
+               },
+               "southwest" : {
+                  "lat" : -42.8837384,
+                  "lng" : 147.3276485
+               }
+            },
+            "location" : {
+               "lat" : -42.88366329999999,
+               "lng" : 147.327802
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8823142697085,
+                  "lng" : 147.3291509802915
+               },
+               "southwest" : {
+                  "lat" : -42.88501223029149,
+                  "lng" : 147.3264530197085
+               }
+            }
+         },
+         "place_id" : "ChIJuVpbCoV1bqoRUnRD4gogV1g",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hobart TAS 7000, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8730457,
+                  "lng" : 147.3415027
+               },
+               "southwest" : {
+                  "lat" : -42.8916347,
+                  "lng" : 147.31561
+               }
+            },
+            "location" : {
+               "lat" : -42.8826055,
+               "lng" : 147.3257197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8730457,
+                  "lng" : 147.3415027
+               },
+               "southwest" : {
+                  "lat" : -42.8916347,
+                  "lng" : 147.31561
+               }
+            }
+         },
+         "place_id" : "ChIJ7c8s5YR1bqoRMBXe0E3JAwU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Glebe",
+               "short_name" : "Glebe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Hobart",
+               "short_name" : "City of Hobart",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glebe TAS 7000, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8559936,
+                  "lng" : 147.3415027
+               },
+               "southwest" : {
+                  "lat" : -42.8937622,
+                  "lng" : 147.2883986
+               }
+            },
+            "location" : {
+               "lat" : -42.8744692,
+               "lng" : 147.3100401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8559936,
+                  "lng" : 147.3415027
+               },
+               "southwest" : {
+                  "lat" : -42.8937622,
+                  "lng" : 147.2883986
+               }
+            }
+         },
+         "place_id" : "ChIJH_--qJZ1bqoRUEusFlHJAxw",
+         "postcode_localities" : [
+            "Glebe",
+            "Hobart",
+            "Mount Stuart",
+            "North Hobart",
+            "Queens Domain",
+            "West Hobart"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "City of Hobart",
+               "short_name" : "City of Hobart",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "City of Hobart, TAS, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.84428279999999,
+                  "lng" : 147.3621331
+               },
+               "southwest" : {
+                  "lat" : -42.943144,
+                  "lng" : 147.1957491
+               }
+            },
+            "location" : {
+               "lat" : -42.89005359999999,
+               "lng" : 147.2814455
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.84428279999999,
+                  "lng" : 147.3621331
+               },
+               "southwest" : {
+                  "lat" : -42.943144,
+                  "lng" : 147.1957491
+               }
+            }
+         },
+         "place_id" : "ChIJ_zyPItp1bqoR-oiprXQnjWg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hobart TAS, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.65537550000001,
+                  "lng" : 147.6133832
+               },
+               "southwest" : {
+                  "lat" : -43.0141226,
+                  "lng" : 147.1336604
+               }
+            },
+            "location" : {
+               "lat" : -42.8826055,
+               "lng" : 147.3257197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.65537550000001,
+                  "lng" : 147.6133832
+               },
+               "southwest" : {
+                  "lat" : -43.0141226,
+                  "lng" : 147.1336604
+               }
+            }
+         },
+         "place_id" : "ChIJp8-59JMKbqoREOfd0E3JAwQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tasmania, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.1919902,
+                  "lng" : 148.5031333
+               },
+               "southwest" : {
+                  "lat" : -43.7429816,
+                  "lng" : 143.8185706
+               }
+            },
+            "location" : {
+               "lat" : -42.0409059,
+               "lng" : 146.8087323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.1919902,
+                  "lng" : 148.5031333
+               },
+               "southwest" : {
+                  "lat" : -43.7429816,
+                  "lng" : 143.8185706
+               }
+            }
+         },
+         "place_id" : "ChIJz_o0fifteqoRZEBAKd2ljyo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.187026399999999,
+                  "lng" : 159.2872223
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            },
+            "location" : {
+               "lat" : -25.274398,
+               "lng" : 133.775136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.187026399999999,
+                  "lng" : 159.2872223
+               },
+               "southwest" : {
+                  "lat" : -54.83376579999999,
+                  "lng" : 110.9510339
+               }
+            }
+         },
+         "place_id" : "ChIJ38WHZwf9KysRUhNblaFnglM",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

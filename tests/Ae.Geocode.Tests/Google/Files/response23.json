@@ -1,0 +1,302 @@
+{
+   "plus_code" : {
+      "compound_code" : "3QC4+J4Q Arthur's Pass, Canterbury, New Zealand",
+      "global_code" : "4V9H3QC4+J4Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3QC4+J4",
+               "short_name" : "3QC4+J4",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Arthur's Pass",
+               "short_name" : "Arthur's Pass",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3QC4+J4 Arthur's Pass, Canterbury, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.928375,
+                  "lng" : 171.755375
+               },
+               "southwest" : {
+                  "lat" : -42.9285,
+                  "lng" : 171.75525
+               }
+            },
+            "location" : {
+               "lat" : -42.928412,
+               "lng" : 171.755361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.9270885197085,
+                  "lng" : 171.7566614802915
+               },
+               "southwest" : {
+                  "lat" : -42.92978648029149,
+                  "lng" : 171.7539635197085
+               }
+            }
+         },
+         "place_id" : "GhIJY5tUNNZ2RcARkPXU6it4ZUA",
+         "plus_code" : {
+            "compound_code" : "3QC4+J4 Arthur's Pass, Canterbury, New Zealand",
+            "global_code" : "4V9H3QC4+J4"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edwards - Hawdon Route",
+               "short_name" : "Edwards - Hawdon Rte",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7580",
+               "short_name" : "7580",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Edwards - Hawdon Route, Canterbury 7580, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.9240599,
+                  "lng" : 171.7484594
+               },
+               "southwest" : {
+                  "lat" : -42.9880214,
+                  "lng" : 171.7385155
+               }
+            },
+            "location" : {
+               "lat" : -42.9558476,
+               "lng" : 171.7468456
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.9240599,
+                  "lng" : 171.7484594
+               },
+               "southwest" : {
+                  "lat" : -42.9880214,
+                  "lng" : 171.7385155
+               }
+            }
+         },
+         "place_id" : "ChIJzTKhCxdSLm0RfJp2pxyVFa4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7580",
+               "short_name" : "7580",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canterbury 7580, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8044417,
+                  "lng" : 172.0835216
+               },
+               "southwest" : {
+                  "lat" : -43.4150965,
+                  "lng" : 171.4307236
+               }
+            },
+            "location" : {
+               "lat" : -43.111276,
+               "lng" : 171.7787021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8044417,
+                  "lng" : 172.0835216
+               },
+               "southwest" : {
+                  "lat" : -43.4150965,
+                  "lng" : 171.4307236
+               }
+            }
+         },
+         "place_id" : "ChIJYSaKQApDLm0RrIXSDXyyeIA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selwyn District",
+               "short_name" : "Selwyn District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Selwyn District, Canterbury, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.7407967,
+                  "lng" : 172.6277688
+               },
+               "southwest" : {
+                  "lat" : -43.9037216,
+                  "lng" : 171.1135103
+               }
+            },
+            "location" : {
+               "lat" : -43.2652165,
+               "lng" : 171.7787021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.7407967,
+                  "lng" : 172.6277688
+               },
+               "southwest" : {
+                  "lat" : -43.9037216,
+                  "lng" : 171.1135103
+               }
+            }
+         },
+         "place_id" : "ChIJJyEeGYkWLm0REFZ5hIbvAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canterbury, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.9073832,
+                  "lng" : 174.2641024
+               },
+               "southwest" : {
+                  "lat" : -45.0809293,
+                  "lng" : 169.5424976
+               }
+            },
+            "location" : {
+               "lat" : -43.7542275,
+               "lng" : 171.1637245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.9073832,
+                  "lng" : 174.2641024
+               },
+               "southwest" : {
+                  "lat" : -45.0809293,
+                  "lng" : 169.5424976
+               }
+            }
+         },
+         "place_id" : "ChIJA9l1eDPYLW0RgeJpMTBkdzM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.03025359999999,
+                  "lng" : -175.548506
+               },
+               "southwest" : {
+                  "lat" : -52.8194172,
+                  "lng" : 165.5563234
+               }
+            },
+            "location" : {
+               "lat" : -40.900557,
+               "lng" : 174.885971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.03025359999999,
+                  "lng" : -175.548506
+               },
+               "southwest" : {
+                  "lat" : -52.8194172,
+                  "lng" : 165.5563234
+               }
+            }
+         },
+         "place_id" : "ChIJh5Z3Fw4gLG0RM0dqdeIY1rE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

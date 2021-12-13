@@ -1,0 +1,626 @@
+{
+   "plus_code" : {
+      "compound_code" : "8523+8MR Alford, UK",
+      "global_code" : "9F528523+8MR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8523+8M",
+               "short_name" : "8523+8M",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8523+8M Alford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.300875,
+                  "lng" : 0.15425
+               },
+               "southwest" : {
+                  "lat" : 53.30075,
+                  "lng" : 0.154125
+               }
+            },
+            "location" : {
+               "lat" : 53.30085200000001,
+               "lng" : 0.1541388
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3021614802915,
+                  "lng" : 0.155536480291502
+               },
+               "southwest" : {
+                  "lat" : 53.2994635197085,
+                  "lng" : 0.152838519708498
+               }
+            }
+         },
+         "place_id" : "GhIJ1nd-UYKmSkARO7iF-NG6wz8",
+         "plus_code" : {
+            "compound_code" : "8523+8M Alford, UK",
+            "global_code" : "9F528523+8M"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B1373",
+               "short_name" : "B1373",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN13 0DD",
+               "short_name" : "LN13 0DD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B1373, Alford LN13 0DD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3014479,
+                  "lng" : 0.1557251
+               },
+               "southwest" : {
+                  "lat" : 53.30127479999999,
+                  "lng" : 0.1556504
+               }
+            },
+            "location" : {
+               "lat" : 53.3013572,
+               "lng" : 0.1556602
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3027103302915,
+                  "lng" : 0.157036730291502
+               },
+               "southwest" : {
+                  "lat" : 53.3000123697085,
+                  "lng" : 0.154338769708498
+               }
+            }
+         },
+         "place_id" : "ChIJnbulJ4HR10cRyFeC8svKvJk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hallside",
+               "short_name" : "Hallside",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodthorpe",
+               "short_name" : "Woodthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Woodthorpe Hall",
+               "short_name" : "Woodthorpe Hall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LN13 0DD",
+               "short_name" : "LN13 0DD",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Hallside, Woodthorpe, Woodthorpe Hall, Alford LN13 0DD, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3019112,
+               "lng" : 0.1578223
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3032601802915,
+                  "lng" : 0.159171280291502
+               },
+               "southwest" : {
+                  "lat" : 53.3005622197085,
+                  "lng" : 0.156473319708498
+               }
+            }
+         },
+         "place_id" : "ChIJn16KI4fR10cRfeSpNEgWsS4",
+         "plus_code" : {
+            "compound_code" : "8525+Q4 Alford, UK",
+            "global_code" : "9F528525+Q4"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LN13 0DD",
+               "short_name" : "LN13 0DD",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Woodthorpe",
+               "short_name" : "Woodthorpe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Woodthorpe, Alford LN13 0DD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.31154,
+                  "lng" : 0.1690456
+               },
+               "southwest" : {
+                  "lat" : 53.2958848,
+                  "lng" : 0.1454978
+               }
+            },
+            "location" : {
+               "lat" : 53.30189000000001,
+               "lng" : 0.157896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.31154,
+                  "lng" : 0.1690456
+               },
+               "southwest" : {
+                  "lat" : 53.2958848,
+                  "lng" : 0.1454978
+               }
+            }
+         },
+         "place_id" : "ChIJC5byI4fR10cRTBa6DOyWr3k",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Withern with Stain",
+               "short_name" : "Withern with Stain",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Withern with Stain, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.347222,
+                  "lng" : 0.2152827
+               },
+               "southwest" : {
+                  "lat" : 53.2949773,
+                  "lng" : 0.1024326
+               }
+            },
+            "location" : {
+               "lat" : 53.3203548,
+               "lng" : 0.1567437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.347222,
+                  "lng" : 0.2152827
+               },
+               "southwest" : {
+                  "lat" : 53.2949773,
+                  "lng" : 0.1024326
+               }
+            }
+         },
+         "place_id" : "ChIJhXXmTTPS10cRaL527SAIaSk",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3612775,
+                  "lng" : 0.3201145
+               },
+               "southwest" : {
+                  "lat" : 53.1941283,
+                  "lng" : 0.0601377
+               }
+            },
+            "location" : {
+               "lat" : 53.2825832,
+               "lng" : 0.1753437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3612775,
+                  "lng" : 0.3201145
+               },
+               "southwest" : {
+                  "lat" : 53.1941283,
+                  "lng" : 0.0601377
+               }
+            }
+         },
+         "place_id" : "ChIJ_UvcmtzR10cRD9edS5kZ3g4",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LN13",
+               "short_name" : "LN13",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Alford",
+               "short_name" : "Alford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alford LN13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.361523,
+                  "lng" : 0.3209108
+               },
+               "southwest" : {
+                  "lat" : 53.1928596,
+                  "lng" : 0.0615007
+               }
+            },
+            "location" : {
+               "lat" : 53.2825832,
+               "lng" : 0.1753437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.361523,
+                  "lng" : 0.3209108
+               },
+               "southwest" : {
+                  "lat" : 53.1928596,
+                  "lng" : 0.0615007
+               }
+            }
+         },
+         "place_id" : "ChIJQXDqn0LF10cRCT2_Qbk8JLs",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Lindsey District",
+               "short_name" : "East Lindsey District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Lindsey District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5348809,
+                  "lng" : 0.3579244
+               },
+               "southwest" : {
+                  "lat" : 53.00109579999999,
+                  "lng" : -0.3174796
+               }
+            },
+            "location" : {
+               "lat" : 53.30423649999999,
+               "lng" : 0.100202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5348809,
+                  "lng" : 0.3579244
+               },
+               "southwest" : {
+                  "lat" : 53.00109579999999,
+                  "lng" : -0.3174796
+               }
+            }
+         },
+         "place_id" : "ChIJ75VA3TbW10cRcOLBu6gcDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lincolnshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6163661,
+                  "lng" : 0.3579244
+               },
+               "southwest" : {
+                  "lat" : 52.6402179,
+                  "lng" : -0.8206513999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.9451889,
+               "lng" : -0.1601246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6163661,
+                  "lng" : 0.3579244
+               },
+               "southwest" : {
+                  "lat" : 52.6402179,
+                  "lng" : -0.8206513999999999
+               }
+            }
+         },
+         "place_id" : "ChIJJ70edCUo1kcRADi1k4LEkXs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,204 @@
+{
+   "plus_code" : {
+      "compound_code" : "W4QJ+G9V Matavao, Niue",
+      "global_code" : "52GGW4QJ+G9V"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W4QJ+G9",
+               "short_name" : "W4QJ+G9",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Matavao",
+               "short_name" : "Matavao",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alofi",
+               "short_name" : "Alofi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Niue",
+               "short_name" : "NU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W4QJ+G9 Matavao, Niue",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.061125,
+                  "lng" : -169.869
+               },
+               "southwest" : {
+                  "lat" : -19.06125,
+                  "lng" : -169.869125
+               }
+            },
+            "location" : {
+               "lat" : -19.061144,
+               "lng" : -169.869073
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.0598385197085,
+                  "lng" : -169.8677135197085
+               },
+               "southwest" : {
+                  "lat" : -19.0625364802915,
+                  "lng" : -169.8704114802915
+               }
+            }
+         },
+         "place_id" : "GhIJvFgYIqcPM8ARxRoucs87ZcA",
+         "plus_code" : {
+            "compound_code" : "W4QJ+G9 Matavao, Niue",
+            "global_code" : "52GGW4QJ+G9"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kavata-Paluki Bush Road",
+               "short_name" : "Kavata-Paluki Bush Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Matavao",
+               "short_name" : "Matavao",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alofi",
+               "short_name" : "Alofi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Niue",
+               "short_name" : "NU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kavata-Paluki Bush Rd, Matavao, Niue",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.0602115,
+                  "lng" : -169.8691652
+               },
+               "southwest" : {
+                  "lat" : -19.0640247,
+                  "lng" : -169.870187
+               }
+            },
+            "location" : {
+               "lat" : -19.0621487,
+               "lng" : -169.8698193
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.0602115,
+                  "lng" : -169.8683271197085
+               },
+               "southwest" : {
+                  "lat" : -19.0640247,
+                  "lng" : -169.8710250802915
+               }
+            }
+         },
+         "place_id" : "ChIJo98MRVc6nXERyHdyjQwx_0Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alofi",
+               "short_name" : "Alofi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Niue",
+               "short_name" : "NU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alofi, Niue",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.0176694,
+                  "lng" : -169.8468305
+               },
+               "southwest" : {
+                  "lat" : -19.0919825,
+                  "lng" : -169.96768
+               }
+            },
+            "location" : {
+               "lat" : -19.065116,
+               "lng" : -169.9080757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.0176694,
+                  "lng" : -169.8468305
+               },
+               "southwest" : {
+                  "lat" : -19.0919825,
+                  "lng" : -169.96768
+               }
+            }
+         },
+         "place_id" : "ChIJZwhlPdg6nXERphKqggwUzfM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niue",
+               "short_name" : "NU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niue",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -18.952625,
+                  "lng" : -169.7743248
+               },
+               "southwest" : {
+                  "lat" : -19.1555668,
+                  "lng" : -169.9500846
+               }
+            },
+            "location" : {
+               "lat" : -19.054445,
+               "lng" : -169.867233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -18.952625,
+                  "lng" : -169.7743248
+               },
+               "southwest" : {
+                  "lat" : -19.1555668,
+                  "lng" : -169.9500846
+               }
+            }
+         },
+         "place_id" : "ChIJO7duNyolnXERGIvcezR4QpE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

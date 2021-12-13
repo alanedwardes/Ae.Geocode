@@ -1,0 +1,307 @@
+{
+   "plus_code" : {
+      "compound_code" : "7XPR+4CW Huahine, French Polynesia",
+      "global_code" : "53MC7XPR+4CW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7XPR+4C",
+               "short_name" : "7XPR+4C",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Huahine",
+               "short_name" : "Huahine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Îles Sous-le-Vent",
+               "short_name" : "Îles Sous-le-Vent",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "7XPR+4C Huahine, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.714625,
+                  "lng" : -151.008875
+               },
+               "southwest" : {
+                  "lat" : -16.71475,
+                  "lng" : -151.009
+               }
+            },
+            "location" : {
+               "lat" : -16.714647,
+               "lng" : -151.008915
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.7133385197085,
+                  "lng" : -151.0075885197085
+               },
+               "southwest" : {
+                  "lat" : -16.7160364802915,
+                  "lng" : -151.0102864802915
+               }
+            }
+         },
+         "place_id" : "GhIJPC8VG_O2MMARNC4cCEngYsA",
+         "plus_code" : {
+            "compound_code" : "7XPR+4C Huahine, French Polynesia",
+            "global_code" : "53MC7XPR+4C"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route sans nom",
+               "short_name" : "Route sans nom",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huahine",
+               "short_name" : "Huahine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Îles Sous-le-Vent",
+               "short_name" : "Îles Sous-le-Vent",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Route sans nom, Huahine, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.698055,
+                  "lng" : -151.0022074
+               },
+               "southwest" : {
+                  "lat" : -16.7014895,
+                  "lng" : -151.0233816
+               }
+            },
+            "location" : {
+               "lat" : -16.7001927,
+               "lng" : -151.0118327
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.698055,
+                  "lng" : -151.0022074
+               },
+               "southwest" : {
+                  "lat" : -16.7014895,
+                  "lng" : -151.0233816
+               }
+            }
+         },
+         "place_id" : "ChIJ_Y2Wyg3Jl3YRGpUGZTyfVHg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maeva",
+               "short_name" : "Maeva",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Huahine",
+               "short_name" : "Huahine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leeward Islands",
+               "short_name" : "Leeward Islands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maeva, Huahine, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.683054,
+                  "lng" : -150.979125
+               },
+               "southwest" : {
+                  "lat" : -16.7269313,
+                  "lng" : -151.0240264
+               }
+            },
+            "location" : {
+               "lat" : -16.7136678,
+               "lng" : -150.9869561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.683054,
+                  "lng" : -150.979125
+               },
+               "southwest" : {
+                  "lat" : -16.7269313,
+                  "lng" : -151.0240264
+               }
+            }
+         },
+         "place_id" : "ChIJNbNUJ7vJl3YRumogpAUu4Ag",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huahine",
+               "short_name" : "Huahine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Îles Sous-le-Vent",
+               "short_name" : "Îles Sous-le-Vent",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huahine, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.683054,
+                  "lng" : -150.9458298
+               },
+               "southwest" : {
+                  "lat" : -16.821554,
+                  "lng" : -151.0471576
+               }
+            },
+            "location" : {
+               "lat" : -16.7024636,
+               "lng" : -151.0293018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.683054,
+                  "lng" : -150.9458298
+               },
+               "southwest" : {
+                  "lat" : -16.821554,
+                  "lng" : -151.0471576
+               }
+            }
+         },
+         "place_id" : "ChIJNyuMnn7Il3YRf90KzRHus2k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leeward Islands",
+               "short_name" : "Leeward Islands",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leeward Islands, French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.7879579,
+                  "lng" : -150.9445799
+               },
+               "southwest" : {
+                  "lat" : -16.918383,
+                  "lng" : -154.6881711
+               }
+            },
+            "location" : {
+               "lat" : -16.7271585,
+               "lng" : -151.4644087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.7879579,
+                  "lng" : -150.9445799
+               },
+               "southwest" : {
+                  "lat" : -16.918383,
+                  "lng" : -154.6881711
+               }
+            }
+         },
+         "place_id" : "ChIJrRTN1N9WvHYRsJocQFHc4WM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "French Polynesia",
+               "short_name" : "PF",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "French Polynesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -6.4682,
+                  "lng" : -134.0551932
+               },
+               "southwest" : {
+                  "lat" : -28.61346,
+                  "lng" : -155.125483
+               }
+            },
+            "location" : {
+               "lat" : -17.679742,
+               "lng" : -149.406843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.4682,
+                  "lng" : -134.0551932
+               },
+               "southwest" : {
+                  "lat" : -28.61346,
+                  "lng" : -155.125483
+               }
+            }
+         },
+         "place_id" : "ChIJTddtfNB1GHQREVfDCXp6wJs",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

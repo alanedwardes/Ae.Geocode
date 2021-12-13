@@ -1,0 +1,773 @@
+{
+   "plus_code" : {
+      "compound_code" : "2QHR+M72 Brecon, UK",
+      "global_code" : "9C4R2QHR+M72"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gwernyfed High School",
+               "short_name" : "Gwernyfed High School",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Three Cocks",
+               "short_name" : "Three Cocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3 0SE",
+               "short_name" : "LD3 0SE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gwernyfed High School, Three Cocks, Brecon LD3 0SE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.029427,
+               "lng" : -3.209033
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0307759802915,
+                  "lng" : -3.207684019708498
+               },
+               "southwest" : {
+                  "lat" : 52.0280780197085,
+                  "lng" : -3.210381980291502
+               }
+            }
+         },
+         "place_id" : "ChIJ4-df7FLUb0gROi6qUaVfChI",
+         "plus_code" : {
+            "compound_code" : "2QHR+Q9 Brecon, UK",
+            "global_code" : "9C4R2QHR+Q9"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gwernyfed Park",
+               "short_name" : "Gwernyfed Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Three Cocks",
+               "short_name" : "Three Cocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3 0SE",
+               "short_name" : "LD3 0SE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "31 Gwernyfed Park, Three Cocks, Brecon LD3 0SE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.028838,
+                  "lng" : -3.2087527
+               },
+               "southwest" : {
+                  "lat" : 52.02875,
+                  "lng" : -3.208895800000001
+               }
+            },
+            "location" : {
+               "lat" : 52.0287954,
+               "lng" : -3.2088327
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03014298029149,
+                  "lng" : -3.207475269708498
+               },
+               "southwest" : {
+                  "lat" : 52.0274450197085,
+                  "lng" : -3.210173230291502
+               }
+            }
+         },
+         "place_id" : "ChIJ7Zll5lLUb0gR2kpC8_G_kWk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gwernyfed Park",
+               "short_name" : "Gwernyfed Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Three Cocks",
+               "short_name" : "Three Cocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3 0SE",
+               "short_name" : "LD3 0SE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "29 Gwernyfed Park, Three Cocks, Brecon LD3 0SE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.02865490000001,
+               "lng" : -3.2089101
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03000388029151,
+                  "lng" : -3.207561119708498
+               },
+               "southwest" : {
+                  "lat" : 52.02730591970851,
+                  "lng" : -3.210259080291502
+               }
+            }
+         },
+         "place_id" : "ChIJ3zI24VLUb0gRlqsdooS-wiI",
+         "plus_code" : {
+            "compound_code" : "2QHR+FC Brecon, UK",
+            "global_code" : "9C4R2QHR+FC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "A438",
+               "short_name" : "A438",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Three Cocks",
+               "short_name" : "Three Cocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3 0SQ",
+               "short_name" : "LD3 0SQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "A438, Three Cocks, Brecon LD3 0SQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.029556,
+                  "lng" : -3.2087195
+               },
+               "southwest" : {
+                  "lat" : 52.0287684,
+                  "lng" : -3.2100009
+               }
+            },
+            "location" : {
+               "lat" : 52.02916219999999,
+               "lng" : -3.2093602
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0305111802915,
+                  "lng" : -3.208011219708498
+               },
+               "southwest" : {
+                  "lat" : 52.0278132197085,
+                  "lng" : -3.210709180291502
+               }
+            }
+         },
+         "place_id" : "ChIJFUvb8VLUb0gR0reKE4TAFk8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2QHR+M7",
+               "short_name" : "2QHR+M7",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2QHR+M7 Brecon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.02925,
+                  "lng" : -3.20925
+               },
+               "southwest" : {
+                  "lat" : 52.029125,
+                  "lng" : -3.209375
+               }
+            },
+            "location" : {
+               "lat" : 52.029149,
+               "lng" : -3.209366
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0305364802915,
+                  "lng" : -3.207963519708498
+               },
+               "southwest" : {
+                  "lat" : 52.0278385197085,
+                  "lng" : -3.210661480291502
+               }
+            }
+         },
+         "place_id" : "GhIJBduIJ7sDSkARmSfXFMisCcA",
+         "plus_code" : {
+            "compound_code" : "2QHR+M7 Brecon, UK",
+            "global_code" : "9C4R2QHR+M7"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LD3 0SE",
+               "short_name" : "LD3 0SE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gwernyfed Park",
+               "short_name" : "Gwernyfed Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Three Cocks",
+               "short_name" : "Three Cocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gwernyfed Park, Three Cocks, Brecon LD3 0SE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.03077769999999,
+                  "lng" : -3.205714200000001
+               },
+               "southwest" : {
+                  "lat" : 52.0228242,
+                  "lng" : -3.2104946
+               }
+            },
+            "location" : {
+               "lat" : 52.0283531,
+               "lng" : -3.2093543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03077769999999,
+                  "lng" : -3.205714200000001
+               },
+               "southwest" : {
+                  "lat" : 52.0228242,
+                  "lng" : -3.2104946
+               }
+            }
+         },
+         "place_id" : "ChIJreub_VLUb0gRbl0NmCTKYuU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Three Cocks",
+               "short_name" : "Three Cocks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LD3",
+               "short_name" : "LD3",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Three Cocks, Brecon LD3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.03430059999999,
+                  "lng" : -3.2004725
+               },
+               "southwest" : {
+                  "lat" : 52.0250897,
+                  "lng" : -3.21646
+               }
+            },
+            "location" : {
+               "lat" : 52.0318659,
+               "lng" : -3.206616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.03430059999999,
+                  "lng" : -3.2004725
+               },
+               "southwest" : {
+                  "lat" : 52.0250897,
+                  "lng" : -3.21646
+               }
+            }
+         },
+         "place_id" : "ChIJI3nEPVHUb0gRJNaI5SYPmC0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gwernyfed",
+               "short_name" : "Gwernyfed",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gwernyfed, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0558486,
+                  "lng" : -3.1300471
+               },
+               "southwest" : {
+                  "lat" : 51.9934591,
+                  "lng" : -3.2260122
+               }
+            },
+            "location" : {
+               "lat" : 52.026547,
+               "lng" : -3.1748044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0558486,
+                  "lng" : -3.1300471
+               },
+               "southwest" : {
+                  "lat" : 51.9934591,
+                  "lng" : -3.2260122
+               }
+            }
+         },
+         "place_id" : "ChIJrf81A5_Vb0gRMMuY1COLDQU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brecon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0843595,
+                  "lng" : -3.1370492
+               },
+               "southwest" : {
+                  "lat" : 51.8384861,
+                  "lng" : -3.726976
+               }
+            },
+            "location" : {
+               "lat" : 51.9302295,
+               "lng" : -3.3988075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0843595,
+                  "lng" : -3.1370492
+               },
+               "southwest" : {
+                  "lat" : 51.8384861,
+                  "lng" : -3.726976
+               }
+            }
+         },
+         "place_id" : "ChIJ70O9hEgzbkgR3f2xSdXm8Js",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LD3",
+               "short_name" : "LD3",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Brecon",
+               "short_name" : "Brecon",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brecon LD3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.108069,
+                  "lng" : -3.1299393
+               },
+               "southwest" : {
+                  "lat" : 51.8315937,
+                  "lng" : -3.7518546
+               }
+            },
+            "location" : {
+               "lat" : 51.9302295,
+               "lng" : -3.3988075
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.108069,
+                  "lng" : -3.1299393
+               },
+               "southwest" : {
+                  "lat" : 51.8315937,
+                  "lng" : -3.7518546
+               }
+            }
+         },
+         "place_id" : "ChIJty81aVIpbkgRp99ECPdDmrY",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Powys, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9015606,
+                  "lng" : -2.9496345
+               },
+               "southwest" : {
+                  "lat" : 51.75274539999999,
+                  "lng" : -3.9293532
+               }
+            },
+            "location" : {
+               "lat" : 52.6464249,
+               "lng" : -3.3260904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9015606,
+                  "lng" : -2.9496345
+               },
+               "southwest" : {
+                  "lat" : 51.75274539999999,
+                  "lng" : -3.9293532
+               }
+            }
+         },
+         "place_id" : "ChIJQ0SL-jBRZUgR1eL1ZLry8Vg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wales, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            },
+            "location" : {
+               "lat" : 52.1306607,
+               "lng" : -3.7837117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            }
+         },
+         "place_id" : "ChIJ7Q8cbLY0ZEgRouilirxxux4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

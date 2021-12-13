@@ -1,0 +1,548 @@
+{
+   "plus_code" : {
+      "compound_code" : "5RFM+74P Skipton, UK",
+      "global_code" : "9C6V5RFM+74P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5RFM+74",
+               "short_name" : "5RFM+74",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "5RFM+74 Skipton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.17325,
+                  "lng" : -2.167125
+               },
+               "southwest" : {
+                  "lat" : 54.173125,
+                  "lng" : -2.16725
+               }
+            },
+            "location" : {
+               "lat" : 54.173207,
+               "lng" : -2.167186
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.17453648029149,
+                  "lng" : -2.165838519708498
+               },
+               "southwest" : {
+                  "lat" : 54.1718385197085,
+                  "lng" : -2.168536480291502
+               }
+            }
+         },
+         "place_id" : "GhIJGTigpSsWS0AR3soSnWVWAcA",
+         "plus_code" : {
+            "compound_code" : "5RFM+74 Skipton, UK",
+            "global_code" : "9C6V5RFM+74"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD23",
+               "short_name" : "BD23",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Skipton BD23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1836709,
+                  "lng" : -2.1688103
+               },
+               "southwest" : {
+                  "lat" : 54.1699575,
+                  "lng" : -2.1839277
+               }
+            },
+            "location" : {
+               "lat" : 54.17722029999999,
+               "lng" : -2.1755354
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1836709,
+                  "lng" : -2.1688103
+               },
+               "southwest" : {
+                  "lat" : 54.1699575,
+                  "lng" : -2.1839277
+               }
+            }
+         },
+         "place_id" : "ChIJ09fMIL1zfEgRqKiEZIb3VC0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BD23 5QL",
+               "short_name" : "BD23 5QL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Litton",
+               "short_name" : "Litton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Litton, Skipton BD23 5QL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.18718579999999,
+                  "lng" : -2.1575619
+               },
+               "southwest" : {
+                  "lat" : 54.1443796,
+                  "lng" : -2.1953828
+               }
+            },
+            "location" : {
+               "lat" : 54.1672108,
+               "lng" : -2.1744095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.18718579999999,
+                  "lng" : -2.1575619
+               },
+               "southwest" : {
+                  "lat" : 54.1443796,
+                  "lng" : -2.1953828
+               }
+            }
+         },
+         "place_id" : "ChIJ_-WjC5pzfEgRV0R04_cz8EA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Litton",
+               "short_name" : "Litton",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BD23",
+               "short_name" : "BD23",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Litton, Skipton BD23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1863907,
+                  "lng" : -2.105136
+               },
+               "southwest" : {
+                  "lat" : 54.14571480000001,
+                  "lng" : -2.1929578
+               }
+            },
+            "location" : {
+               "lat" : 54.1638137,
+               "lng" : -2.1471865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1863907,
+                  "lng" : -2.105136
+               },
+               "southwest" : {
+                  "lat" : 54.14571480000001,
+                  "lng" : -2.1929578
+               }
+            }
+         },
+         "place_id" : "ChIJgQUYDl5zfEgRAp4IBaE1cXg",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BD23",
+               "short_name" : "BD23",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipton BD23, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2579554,
+                  "lng" : -1.7799347
+               },
+               "southwest" : {
+                  "lat" : 53.92066089999999,
+                  "lng" : -2.3904969
+               }
+            },
+            "location" : {
+               "lat" : 54.0239106,
+               "lng" : -2.0426816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2579554,
+                  "lng" : -1.7799347
+               },
+               "southwest" : {
+                  "lat" : 53.92066089999999,
+                  "lng" : -2.3904969
+               }
+            }
+         },
+         "place_id" : "ChIJB9nKSQaGe0gRcSDnwuhjNj8",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skipton",
+               "short_name" : "Skipton",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipton, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2523034,
+                  "lng" : -1.7679513
+               },
+               "southwest" : {
+                  "lat" : 53.9205967,
+                  "lng" : -2.3887917
+               }
+            },
+            "location" : {
+               "lat" : 54.0239106,
+               "lng" : -2.0426816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2523034,
+                  "lng" : -1.7679513
+               },
+               "southwest" : {
+                  "lat" : 53.9205967,
+                  "lng" : -2.3887917
+               }
+            }
+         },
+         "place_id" : "ChIJkYIoG78KfEgRql0P5ccOFVk",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Craven District",
+               "short_name" : "Craven District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Craven District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2571441,
+                  "lng" : -1.8167293
+               },
+               "southwest" : {
+                  "lat" : 53.85012709999999,
+                  "lng" : -2.5647389
+               }
+            },
+            "location" : {
+               "lat" : 54.1091134,
+               "lng" : -2.1562821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2571441,
+                  "lng" : -1.8167293
+               },
+               "southwest" : {
+                  "lat" : 53.85012709999999,
+                  "lng" : -2.5647389
+               }
+            }
+         },
+         "place_id" : "ChIJQ5VMGRCKe0gR4OJs7Z75DAQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.56214379999999,
+                  "lng" : -0.2123533
+               },
+               "southwest" : {
+                  "lat" : 53.6210943,
+                  "lng" : -2.5647389
+               }
+            },
+            "location" : {
+               "lat" : 53.9915028,
+               "lng" : -1.5412015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.56214379999999,
+                  "lng" : -0.2123533
+               },
+               "southwest" : {
+                  "lat" : 53.6210943,
+                  "lng" : -2.5647389
+               }
+            }
+         },
+         "place_id" : "ChIJ8WWY4UDDeEgRt5-VyBki4MM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

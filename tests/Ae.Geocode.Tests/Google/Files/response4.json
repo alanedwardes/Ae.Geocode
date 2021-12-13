@@ -1,0 +1,620 @@
+{
+   "plus_code" : {
+      "compound_code" : "GPM7+8HF Southend-on-Sea, UK",
+      "global_code" : "9F32GPM7+8HF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Never Never Land",
+               "short_name" : "Never Never Land",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "12-14",
+               "short_name" : "12-14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Western Esplanade",
+               "short_name" : "Western Esplanade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS1 1EE",
+               "short_name" : "SS1 1EE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Never Never Land, 12-14 Western Esplanade, Southend-on-Sea SS1 1EE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5334315,
+               "lng" : 0.7134393999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5347804802915,
+                  "lng" : 0.714788380291502
+               },
+               "southwest" : {
+                  "lat" : 51.5320825197085,
+                  "lng" : 0.712090419708498
+               }
+            }
+         },
+         "place_id" : "ChIJ8x_tjjXY2EcRqBKMhIU-mO0",
+         "plus_code" : {
+            "compound_code" : "GPM7+99 Southend-on-Sea, UK",
+            "global_code" : "9F32GPM7+99"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southend Pier",
+               "short_name" : "Southend Pier",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS1 2EH",
+               "short_name" : "SS1 2EH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southend Pier, Southend-on-Sea SS1 2EH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.533186,
+               "lng" : 0.7145443
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5345349802915,
+                  "lng" : 0.715893280291502
+               },
+               "southwest" : {
+                  "lat" : 51.5318370197085,
+                  "lng" : 0.7131953197084979
+               }
+            }
+         },
+         "place_id" : "ChIJ9_8h7jXY2EcRl7tuhjT3hGA",
+         "plus_code" : {
+            "compound_code" : "GPM7+7R Southend-on-Sea, UK",
+            "global_code" : "9F32GPM7+7R"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Esplanade",
+               "short_name" : "Western Esplanade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SS1 2EH",
+               "short_name" : "SS1 2EH",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Western Esplanade, Southend-on-Sea SS1 2EH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5332766,
+                  "lng" : 0.7145252
+               },
+               "southwest" : {
+                  "lat" : 51.5332591,
+                  "lng" : 0.7138169
+               }
+            },
+            "location" : {
+               "lat" : 51.5332676,
+               "lng" : 0.714171
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5346168302915,
+                  "lng" : 0.7155200302915021
+               },
+               "southwest" : {
+                  "lat" : 51.5319188697085,
+                  "lng" : 0.712822069708498
+               }
+            }
+         },
+         "place_id" : "ChIJcY2J8jXY2EcRfHnk7hIPm0Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "GPM7+8H",
+               "short_name" : "GPM7+8H",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "GPM7+8H Southend-on-Sea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.533375,
+                  "lng" : 0.714
+               },
+               "southwest" : {
+                  "lat" : 51.53325,
+                  "lng" : 0.7138749999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.533317,
+               "lng" : 0.713909
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5346614802915,
+                  "lng" : 0.715286480291502
+               },
+               "southwest" : {
+                  "lat" : 51.5319635197085,
+                  "lng" : 0.7125885197084979
+               }
+            }
+         },
+         "place_id" : "GhIJTrNAu0PESUAR9z3qr1fY5j8",
+         "plus_code" : {
+            "compound_code" : "GPM7+8H Southend-on-Sea, UK",
+            "global_code" : "9F32GPM7+8H"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SS1 1EE",
+               "short_name" : "SS1 1EE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Western Esplanade",
+               "short_name" : "Western Esplanade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Western Esplanade, Southend-on-Sea SS1 1EE, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5336413,
+                  "lng" : 0.7144553
+               },
+               "southwest" : {
+                  "lat" : 51.5322484,
+                  "lng" : 0.7121636
+               }
+            },
+            "location" : {
+               "lat" : 51.53302890000001,
+               "lng" : 0.7132896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5342938302915,
+                  "lng" : 0.7146584302915021
+               },
+               "southwest" : {
+                  "lat" : 51.5315958697085,
+                  "lng" : 0.711960469708498
+               }
+            }
+         },
+         "place_id" : "ChIJ_3TtkDXY2EcRPUDYKQuAmU4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SS1",
+               "short_name" : "SS1",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southend-on-Sea SS1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5513778,
+                  "lng" : 0.7774896
+               },
+               "southwest" : {
+                  "lat" : 51.52562529999999,
+                  "lng" : 0.7026479
+               }
+            },
+            "location" : {
+               "lat" : 51.53881939999999,
+               "lng" : 0.7632184999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5513778,
+                  "lng" : 0.7774896
+               },
+               "southwest" : {
+                  "lat" : 51.52562529999999,
+                  "lng" : 0.7026479
+               }
+            }
+         },
+         "place_id" : "ChIJJWUjDgrY2EcRWYZS6j7jBKQ",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southend-on-Sea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5767962,
+                  "lng" : 0.8489540999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5044594,
+                  "lng" : 0.6229178
+               }
+            },
+            "location" : {
+               "lat" : 51.5455206,
+               "lng" : 0.7075066999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5767962,
+                  "lng" : 0.8489540999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5044594,
+                  "lng" : 0.6229178
+               }
+            }
+         },
+         "place_id" : "ChIJ546Ao2nY2EcRYJ_Du6gcDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southend-on-Sea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5767962,
+                  "lng" : 0.8489540999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5044594,
+                  "lng" : 0.6229178
+               }
+            },
+            "location" : {
+               "lat" : 51.5459269,
+               "lng" : 0.7077123
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5767962,
+                  "lng" : 0.8489540999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5044594,
+                  "lng" : 0.6229178
+               }
+            }
+         },
+         "place_id" : "ChIJPTV1hQXE2EcRK0P6hipgqqw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southend-on-Sea",
+               "short_name" : "Southend-on-Sea",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southend-on-Sea, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6211832,
+                  "lng" : 0.9579827999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5210264,
+                  "lng" : 0.6657061999999999
+               }
+            },
+            "location" : {
+               "lat" : 51.56491550000001,
+               "lng" : 0.7937847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6211832,
+                  "lng" : 0.9579827999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5210264,
+                  "lng" : 0.6657061999999999
+               }
+            }
+         },
+         "place_id" : "ChIJHcdIS-Em2UcRarVgPtsHGcY",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

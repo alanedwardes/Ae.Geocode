@@ -1,0 +1,307 @@
+{
+   "plus_code" : {
+      "compound_code" : "J997+32J New Birmingham, County Tipperary, Ireland",
+      "global_code" : "9C4JJ997+32J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "J997+32",
+               "short_name" : "J997+32",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Glengoole South",
+               "short_name" : "Glengoole South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Birmingham",
+               "short_name" : "New Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Tipperary",
+               "short_name" : "TA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "J997+32 New Birmingham, County Tipperary, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.61775,
+                  "lng" : -7.637375
+               },
+               "southwest" : {
+                  "lat" : 52.617625,
+                  "lng" : -7.637499999999998
+               }
+            },
+            "location" : {
+               "lat" : 52.61772,
+               "lng" : -7.637489999999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6190364802915,
+                  "lng" : -7.636088519708498
+               },
+               "southwest" : {
+                  "lat" : 52.6163385197085,
+                  "lng" : -7.638786480291502
+               }
+            }
+         },
+         "place_id" : "GhIJ5QrvchFPSkARrxu2LcqMHsA",
+         "plus_code" : {
+            "compound_code" : "J997+32 New Birmingham, County Tipperary, Ireland",
+            "global_code" : "9C4JJ997+32"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "R689",
+               "short_name" : "R689",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "County Tipperary",
+               "short_name" : "TA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R689, Co. Tipperary, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6213679,
+                  "lng" : -7.6367965
+               },
+               "southwest" : {
+                  "lat" : 52.617251,
+                  "lng" : -7.638641799999999
+               }
+            },
+            "location" : {
+               "lat" : 52.61928229999999,
+               "lng" : -7.6375616
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6213679,
+                  "lng" : -7.636370169708497
+               },
+               "southwest" : {
+                  "lat" : 52.617251,
+                  "lng" : -7.639068130291502
+               }
+            }
+         },
+         "place_id" : "ChIJ_1XonFzXXEgRjJVvN2589dk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glengoole South",
+               "short_name" : "Glengoole South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Glengoole",
+               "short_name" : "Glengoole",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "County Tipperary",
+               "short_name" : "TA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Glengoole South, Glengoole, Co. Tipperary, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.61979669999999,
+                  "lng" : -7.620356200000001
+               },
+               "southwest" : {
+                  "lat" : 52.6013811,
+                  "lng" : -7.650740399999999
+               }
+            },
+            "location" : {
+               "lat" : 52.6102415,
+               "lng" : -7.634639200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.61979669999999,
+                  "lng" : -7.620356200000001
+               },
+               "southwest" : {
+                  "lat" : 52.6013811,
+                  "lng" : -7.650740399999999
+               }
+            }
+         },
+         "place_id" : "ChIJnYfDBkDXXEgRgsRRu6fHACY",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Tipperary",
+               "short_name" : "South Tipperary",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Tipperary",
+               "short_name" : "TA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Tipperary, Co. Tipperary, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.73368869999999,
+                  "lng" : -7.372055800000001
+               },
+               "southwest" : {
+                  "lat" : 52.2020144,
+                  "lng" : -8.4059221
+               }
+            },
+            "location" : {
+               "lat" : 52.4409548,
+               "lng" : -7.8760747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.73368869999999,
+                  "lng" : -7.372055800000001
+               },
+               "southwest" : {
+                  "lat" : 52.2020144,
+                  "lng" : -8.4059221
+               }
+            }
+         },
+         "place_id" : "ChIJURJw8-8xQ0gRS_T4qjlAocI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Tipperary",
+               "short_name" : "TA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Tipperary, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1675822,
+                  "lng" : -7.372055800000001
+               },
+               "southwest" : {
+                  "lat" : 52.2020144,
+                  "lng" : -8.4800793
+               }
+            },
+            "location" : {
+               "lat" : 52.47378940000001,
+               "lng" : -8.1618514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1675822,
+                  "lng" : -7.372055800000001
+               },
+               "southwest" : {
+                  "lat" : 52.2020144,
+                  "lng" : -8.4800793
+               }
+            }
+         },
+         "place_id" : "ChIJX7R4YLfGXEgR0B2Y8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

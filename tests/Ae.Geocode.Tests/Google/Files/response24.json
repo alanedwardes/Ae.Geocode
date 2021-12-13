@@ -1,0 +1,595 @@
+{
+   "plus_code" : {
+      "compound_code" : "82QF+G5P Gisborne, New Zealand",
+      "global_code" : "4VHW82QF+G5P"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42A",
+               "short_name" : "42A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cobden Street",
+               "short_name" : "Cobden St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42A Cobden Street, Gisborne 4010, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -38.6612237,
+               "lng" : 178.0229757
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6598747197085,
+                  "lng" : 178.0243246802915
+               },
+               "southwest" : {
+                  "lat" : -38.6625726802915,
+                  "lng" : 178.0216267197085
+               }
+            }
+         },
+         "place_id" : "ChIJExbS6jx4Zm0ReTI36EPOUSg",
+         "plus_code" : {
+            "compound_code" : "82QF+G5 Gisborne, New Zealand",
+            "global_code" : "4VHW82QF+G5"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cobden Street",
+               "short_name" : "Cobden St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "44 Cobden Street, Gisborne 4010, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -38.6612699,
+               "lng" : 178.0226312
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6599209197085,
+                  "lng" : 178.0239801802915
+               },
+               "southwest" : {
+                  "lat" : -38.6626188802915,
+                  "lng" : 178.0212822197085
+               }
+            }
+         },
+         "place_id" : "ChIJbRVAwDx4Zm0Rru8hsrPoK_w",
+         "plus_code" : {
+            "compound_code" : "82QF+F3 Gisborne, New Zealand",
+            "global_code" : "4VHW82QF+F3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cobden Street",
+               "short_name" : "Cobden St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35 Cobden Street, Gisborne 4010, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -38.6610389,
+               "lng" : 178.0229098
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.65968991970851,
+                  "lng" : 178.0242587802915
+               },
+               "southwest" : {
+                  "lat" : -38.6623878802915,
+                  "lng" : 178.0215608197085
+               }
+            }
+         },
+         "place_id" : "Eh0zNSBDb2JkZW4gU3RyZWV0LCBOZXcgWmVhbGFuZCIaEhgKFAoSCWtsSek8eGZtEStIEeTbYOUcECM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82QF+G5",
+               "short_name" : "82QF+G5",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "82QF+G5 Gisborne, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.661125,
+                  "lng" : 178.023
+               },
+               "southwest" : {
+                  "lat" : -38.66125,
+                  "lng" : 178.022875
+               }
+            },
+            "location" : {
+               "lat" : -38.661171,
+               "lng" : 178.022943
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6598385197085,
+                  "lng" : 178.0242864802915
+               },
+               "southwest" : {
+                  "lat" : -38.6625364802915,
+                  "lng" : 178.0215885197085
+               }
+            }
+         },
+         "place_id" : "GhIJJAhXQKFUQ8ARglX18rtAZkA",
+         "plus_code" : {
+            "compound_code" : "82QF+G5 Gisborne, New Zealand",
+            "global_code" : "4VHW82QF+G5"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "24-38",
+               "short_name" : "24-38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cobden Street",
+               "short_name" : "Cobden St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24-38 Cobden Street, Gisborne 4010, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6605154,
+                  "lng" : 178.0235384
+               },
+               "southwest" : {
+                  "lat" : -38.6611801,
+                  "lng" : 178.0227402
+               }
+            },
+            "location" : {
+               "lat" : -38.6608478,
+               "lng" : 178.0231393
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6594987697085,
+                  "lng" : 178.0244882802915
+               },
+               "southwest" : {
+                  "lat" : -38.6621967302915,
+                  "lng" : 178.0217903197085
+               }
+            }
+         },
+         "place_id" : "ChIJa2xJ6Tx4Zm0RKkgR5Ntg5Rw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gisborne 4010, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6550391,
+                  "lng" : 178.0297981
+               },
+               "southwest" : {
+                  "lat" : -38.6724519,
+                  "lng" : 178.0064107
+               }
+            },
+            "location" : {
+               "lat" : -38.6640429,
+               "lng" : 178.0227659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6550391,
+                  "lng" : 178.0297981
+               },
+               "southwest" : {
+                  "lat" : -38.6724519,
+                  "lng" : 178.0064107
+               }
+            }
+         },
+         "place_id" : "ChIJ93KqPSR4Zm0RhhMaxWWdKro",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gisborne 4010, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6240882,
+                  "lng" : 178.2281503
+               },
+               "southwest" : {
+                  "lat" : -38.9284979,
+                  "lng" : 177.9568375
+               }
+            },
+            "location" : {
+               "lat" : -38.8474435,
+               "lng" : 178.1291387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6240882,
+                  "lng" : 178.2281503
+               },
+               "southwest" : {
+                  "lat" : -38.9284979,
+                  "lng" : 177.9568375
+               }
+            }
+         },
+         "place_id" : "ChIJPeWzVTtwZm0Rw7JLf67XuOA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gisborne, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.5553933,
+                  "lng" : 178.1063238
+               },
+               "southwest" : {
+                  "lat" : -38.7162169,
+                  "lng" : 177.8499406
+               }
+            },
+            "location" : {
+               "lat" : -38.6640913,
+               "lng" : 178.0227931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.5553933,
+                  "lng" : 178.1063238
+               },
+               "southwest" : {
+                  "lat" : -38.7162169,
+                  "lng" : 177.8499406
+               }
+            }
+         },
+         "place_id" : "ChIJl6ywQZzAZW0RB5miQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gisborne District",
+               "short_name" : "Gisborne District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gisborne District, Gisborne, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.534248,
+                  "lng" : 178.5772435
+               },
+               "southwest" : {
+                  "lat" : -38.9728116,
+                  "lng" : 177.1221708
+               }
+            },
+            "location" : {
+               "lat" : -38.4624528,
+               "lng" : 177.697554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.534248,
+                  "lng" : 178.5772435
+               },
+               "southwest" : {
+                  "lat" : -38.9728116,
+                  "lng" : 177.1221708
+               }
+            }
+         },
+         "place_id" : "ChIJJ_nRvp3AZW0RoKuiQ2HvAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gisborne, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.331372,
+                  "lng" : 178.8362079
+               },
+               "southwest" : {
+                  "lat" : -38.9966669,
+                  "lng" : 177.1221706
+               }
+            },
+            "location" : {
+               "lat" : -38.1358174,
+               "lng" : 178.3239309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.331372,
+                  "lng" : 178.8362079
+               },
+               "southwest" : {
+                  "lat" : -38.9966669,
+                  "lng" : 177.1221706
+               }
+            }
+         },
+         "place_id" : "ChIJywobglO-ZW0RHvjoTHu-q8w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.03025359999999,
+                  "lng" : -175.548506
+               },
+               "southwest" : {
+                  "lat" : -52.8194172,
+                  "lng" : 165.5563234
+               }
+            },
+            "location" : {
+               "lat" : -40.900557,
+               "lng" : 174.885971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.03025359999999,
+                  "lng" : -175.548506
+               },
+               "southwest" : {
+                  "lat" : -52.8194172,
+                  "lng" : 165.5563234
+               }
+            }
+         },
+         "place_id" : "ChIJh5Z3Fw4gLG0RM0dqdeIY1rE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

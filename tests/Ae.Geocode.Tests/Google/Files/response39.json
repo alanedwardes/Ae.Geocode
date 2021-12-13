@@ -1,0 +1,542 @@
+{
+   "plus_code" : {
+      "compound_code" : "363Q+QXH Al Azbakeya, Egypt",
+      "global_code" : "8G2H363Q+QXH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ramses",
+               "short_name" : "Ramses",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oraby",
+               "short_name" : "Oraby",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "75 Ramses, Oraby, Al Azbakeya, Cairo Governorate, Egypt",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.0543425,
+               "lng" : 31.24006749999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0556914802915,
+                  "lng" : 31.24141648029149
+               },
+               "southwest" : {
+                  "lat" : 30.0529935197085,
+                  "lng" : 31.2387185197085
+               }
+            }
+         },
+         "place_id" : "ChIJA6vlNZVAWBQRkzUSlGHxZI4",
+         "plus_code" : {
+            "compound_code" : "363R+P2 Al Azbakeya, Egypt",
+            "global_code" : "8G2H363R+P2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Haret Al Shawarbi",
+               "short_name" : "Haret Al Shawarbi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oraby",
+               "short_name" : "Oraby",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "77 Haret Al Shawarbi, Oraby, Al Azbakeya, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0543719,
+                  "lng" : 31.2401645
+               },
+               "southwest" : {
+                  "lat" : 30.0541805,
+                  "lng" : 31.239934
+               }
+            },
+            "location" : {
+               "lat" : 30.0542794,
+               "lng" : 31.2400345
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0556251802915,
+                  "lng" : 31.2413982302915
+               },
+               "southwest" : {
+                  "lat" : 30.0529272197085,
+                  "lng" : 31.2387002697085
+               }
+            }
+         },
+         "place_id" : "ChIJVcwISpVAWBQR6q3upXGJoXc",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ramses",
+               "short_name" : "Ramses",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oraby",
+               "short_name" : "Oraby",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "77 Ramses, Oraby, Al Azbakeya, Cairo Governorate, Egypt",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.0545923,
+               "lng" : 31.2398999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0559412802915,
+                  "lng" : 31.2412488802915
+               },
+               "southwest" : {
+                  "lat" : 30.0532433197085,
+                  "lng" : 31.2385509197085
+               }
+            }
+         },
+         "place_id" : "Ejc3NyBSYW1zZXMsIE9yYWJ5LCBBbCBBemJha2V5YSwgQ2Fpcm8gR292ZXJub3JhdGUsIEVneXB0IhoSGAoUChIJb018NJVAWBQRXpio8w1NCu4QTQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "363Q+QX",
+               "short_name" : "363Q+QX",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "363Q+QX Al Azbakeya, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0545,
+                  "lng" : 31.24
+               },
+               "southwest" : {
+                  "lat" : 30.054375,
+                  "lng" : 31.239875
+               }
+            },
+            "location" : {
+               "lat" : 30.054448,
+               "lng" : 31.23999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0557864802915,
+                  "lng" : 31.2412864802915
+               },
+               "southwest" : {
+                  "lat" : 30.0530885197085,
+                  "lng" : 31.2385885197085
+               }
+            }
+         },
+         "place_id" : "GhIJJlXbTfANPkAR910R_G89P0A",
+         "plus_code" : {
+            "compound_code" : "363Q+QX Al Azbakeya, Egypt",
+            "global_code" : "8G2H363Q+QX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Souk Al Tawfik",
+               "short_name" : "Souk Al Tawfik",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oraby",
+               "short_name" : "Oraby",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "19 Souk Al Tawfik, Oraby, Al Azbakeya, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0546369,
+                  "lng" : 31.2403259
+               },
+               "southwest" : {
+                  "lat" : 30.05434989999999,
+                  "lng" : 31.2399482
+               }
+            },
+            "location" : {
+               "lat" : 30.0544934,
+               "lng" : 31.24013709999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0558423802915,
+                  "lng" : 31.2414860302915
+               },
+               "southwest" : {
+                  "lat" : 30.0531444197085,
+                  "lng" : 31.2387880697085
+               }
+            }
+         },
+         "place_id" : "ChIJYSu5NpVAWBQRHng-jgL09Gc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oraby",
+               "short_name" : "Oraby",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oraby, Al Azbakeya, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0586679,
+                  "lng" : 31.246847
+               },
+               "southwest" : {
+                  "lat" : 30.0525249,
+                  "lng" : 31.2376829
+               }
+            },
+            "location" : {
+               "lat" : 30.0553851,
+               "lng" : 31.2433211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0586679,
+                  "lng" : 31.246847
+               },
+               "southwest" : {
+                  "lat" : 30.0525249,
+                  "lng" : 31.2376829
+               }
+            }
+         },
+         "place_id" : "ChIJl2r0-ZRAWBQRxG49wMYzeTk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Azbakeya",
+               "short_name" : "Al Azbakeya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Azbakeya, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0670125,
+                  "lng" : 31.2528711
+               },
+               "southwest" : {
+                  "lat" : 30.0526181,
+                  "lng" : 31.2370228
+               }
+            },
+            "location" : {
+               "lat" : 30.0584463,
+               "lng" : 31.24403659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0670125,
+                  "lng" : 31.2528711
+               },
+               "southwest" : {
+                  "lat" : 30.0526181,
+                  "lng" : 31.2370228
+               }
+            }
+         },
+         "place_id" : "ChIJf6GlrI9AWBQROLOM3lH9A1M",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cairo",
+               "short_name" : "Cairo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cairo, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.1106024,
+                  "lng" : 31.3019729
+               },
+               "southwest" : {
+                  "lat" : 30.0083745,
+                  "lng" : 31.2149558
+               }
+            },
+            "location" : {
+               "lat" : 30.0444196,
+               "lng" : 31.2357116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.1106024,
+                  "lng" : 31.3019729
+               },
+               "southwest" : {
+                  "lat" : 30.0083745,
+                  "lng" : 31.2149558
+               }
+            }
+         },
+         "place_id" : "ChIJ674hC6Y_WBQRujtC6Jay33k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2439235,
+                  "lng" : 31.9052899
+               },
+               "southwest" : {
+                  "lat" : 29.7539043,
+                  "lng" : 31.2147044
+               }
+            },
+            "location" : {
+               "lat" : 29.9537564,
+               "lng" : 31.5370003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2439235,
+                  "lng" : 31.9052899
+               },
+               "southwest" : {
+                  "lat" : 29.7539043,
+                  "lng" : 31.2147044
+               }
+            }
+         },
+         "place_id" : "ChIJz6gXkZ0QWBQRuaJt4gI9myY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8122,
+                  "lng" : 37.0569
+               },
+               "southwest" : {
+                  "lat" : 21.9999999,
+                  "lng" : 24.696775
+               }
+            },
+            "location" : {
+               "lat" : 26.820553,
+               "lng" : 30.802498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8122,
+                  "lng" : 37.0569
+               },
+               "southwest" : {
+                  "lat" : 21.9999999,
+                  "lng" : 24.696775
+               }
+            }
+         },
+         "place_id" : "ChIJ6TZcw3aJNhQRRMTEJQmgRSw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

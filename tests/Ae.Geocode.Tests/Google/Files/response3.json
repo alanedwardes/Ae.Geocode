@@ -1,0 +1,388 @@
+{
+   "plus_code" : {
+      "compound_code" : "HGR4+FQ5 Sevastopol",
+      "global_code" : "8GPMHGR4+FQ5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Moskovs'ka Street",
+               "short_name" : "Moskovs'ka St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leninskiy Rayon",
+               "short_name" : "Leninskiy Rayon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Moskovs'ka St, 1, Sevastopol",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.591059,
+               "lng" : 33.5070956
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5924079802915,
+                  "lng" : 33.5084445802915
+               },
+               "southwest" : {
+                  "lat" : 44.58971001970851,
+                  "lng" : 33.5057466197085
+               }
+            }
+         },
+         "place_id" : "ChIJByP4HqcklUARKg6O9o9oKWM",
+         "plus_code" : {
+            "compound_code" : "HGR4+CR Sevastopol",
+            "global_code" : "8GPMHGR4+CR"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1/23",
+               "short_name" : "1/23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Moskovs'ka Street",
+               "short_name" : "Moskovs'ka St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leninskiy Rayon",
+               "short_name" : "Leninskiy Rayon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Moskovs'ka St, 1/23, Sevastopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5911055,
+                  "lng" : 33.5072095
+               },
+               "southwest" : {
+                  "lat" : 44.5909653,
+                  "lng" : 33.5069883
+               }
+            },
+            "location" : {
+               "lat" : 44.5910416,
+               "lng" : 33.5071045
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5923843802915,
+                  "lng" : 33.5084478802915
+               },
+               "southwest" : {
+                  "lat" : 44.5896864197085,
+                  "lng" : 33.5057499197085
+               }
+            }
+         },
+         "place_id" : "ChIJn8LhHqcklUAR8kDJJ1TVqG4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kovpaka Street",
+               "short_name" : "Kovpaka St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leninskiy Rayon",
+               "short_name" : "Leninskiy Rayon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Kovpaka St, 21, Sevastopol",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.590939,
+               "lng" : 33.5072255
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.59228798029149,
+                  "lng" : 33.5085744802915
+               },
+               "southwest" : {
+                  "lat" : 44.5895900197085,
+                  "lng" : 33.5058765197085
+               }
+            }
+         },
+         "place_id" : "ChIJv2xeH6cklUAREH3SNZiD9kE",
+         "plus_code" : {
+            "compound_code" : "HGR4+9V Sevastopol",
+            "global_code" : "8GPMHGR4+9V"
+         },
+         "types" : [ "church", "establishment", "place_of_worship", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Moskovs'ka Street",
+               "short_name" : "Moskovs'ka St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leninskiy Rayon",
+               "short_name" : "Leninskiy Rayon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Moskovs'ka St, 2, Sevastopol",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5911093,
+               "lng" : 33.5069741
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5924582802915,
+                  "lng" : 33.5083230802915
+               },
+               "southwest" : {
+                  "lat" : 44.5897603197085,
+                  "lng" : 33.5056251197085
+               }
+            }
+         },
+         "place_id" : "EhxNb3Nrb3ZzJ2thIFN0LCAyLCBTZXZhc3RvcG9sIhoSGAoUChIJ8_I3FKcklUARQDH-QK3IVmoQAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-18",
+               "short_name" : "2-18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Moskovs'ka Street",
+               "short_name" : "Moskovs'ka St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leninskiy Rayon",
+               "short_name" : "Leninskiy Rayon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Moskovs'ka St, 2-18, Sevastopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5912296,
+                  "lng" : 33.50709920000001
+               },
+               "southwest" : {
+                  "lat" : 44.5896638,
+                  "lng" : 33.5054711
+               }
+            },
+            "location" : {
+               "lat" : 44.5904467,
+               "lng" : 33.5062851
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5917956802915,
+                  "lng" : 33.5076341302915
+               },
+               "southwest" : {
+                  "lat" : 44.5890977197085,
+                  "lng" : 33.50493616970851
+               }
+            }
+         },
+         "place_id" : "ChIJ8_I3FKcklUARQDH-QK3IVmo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HGR4+FQ",
+               "short_name" : "HGR4+FQ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "HGR4+FQ Sevastopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.59125,
+                  "lng" : 33.507
+               },
+               "southwest" : {
+                  "lat" : 44.59112500000001,
+                  "lng" : 33.506875
+               }
+            },
+            "location" : {
+               "lat" : 44.591133,
+               "lng" : 33.506989
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5925364802915,
+                  "lng" : 33.5082864802915
+               },
+               "southwest" : {
+                  "lat" : 44.5898385197085,
+                  "lng" : 33.5055885197085
+               }
+            }
+         },
+         "place_id" : "GhIJDksDP6pLRkARQzf7A-XAQEA",
+         "plus_code" : {
+            "compound_code" : "HGR4+FQ Sevastopol",
+            "global_code" : "8GPMHGR4+FQ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leninsky District",
+               "short_name" : "Leninsky District",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Leninsky District, Sevastopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.62106000000001,
+                  "lng" : 33.5705979
+               },
+               "southwest" : {
+                  "lat" : 44.54377789999999,
+                  "lng" : 33.49499
+               }
+            },
+            "location" : {
+               "lat" : 44.5810174,
+               "lng" : 33.5144497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.62106000000001,
+                  "lng" : 33.5705979
+               },
+               "southwest" : {
+                  "lat" : 44.54377789999999,
+                  "lng" : 33.49499
+               }
+            }
+         },
+         "place_id" : "ChIJWxfnM4IklUAR4CggMCW3Zzk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sevastopol",
+               "short_name" : "Sevastopol",
+               "types" : [ "locality", "political" ]
+            }
+         ],
+         "formatted_address" : "Sevastopol",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8413161,
+                  "lng" : 33.897497
+               },
+               "southwest" : {
+                  "lat" : 44.387115,
+                  "lng" : 33.3785441
+               }
+            },
+            "location" : {
+               "lat" : 44.61665,
+               "lng" : 33.5253671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8413161,
+                  "lng" : 33.897497
+               },
+               "southwest" : {
+                  "lat" : 44.387115,
+                  "lng" : 33.3785441
+               }
+            }
+         },
+         "place_id" : "ChIJ9USRZe8llUARzDRN_6-nLb0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

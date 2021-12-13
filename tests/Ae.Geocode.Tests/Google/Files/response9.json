@@ -1,0 +1,871 @@
+{
+   "plus_code" : {
+      "compound_code" : "RCPJ+97Q Bordeaux, France",
+      "global_code" : "8CPXRCPJ+97Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Renière",
+               "short_name" : "Rue Renière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "33 Rue Renière, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8359835,
+               "lng" : -0.5693119999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8373324802915,
+                  "lng" : -0.5679630197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8346345197085,
+                  "lng" : -0.570660980291502
+               }
+            }
+         },
+         "place_id" : "ChIJO3E1uc4nVQ0RhFQBnpWdmgE",
+         "plus_code" : {
+            "compound_code" : "RCPJ+97 Bordeaux, France",
+            "global_code" : "8CPXRCPJ+97"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Renière",
+               "short_name" : "Rue Renière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "33 Rue Renière, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8359835,
+               "lng" : -0.5693119999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8373324802915,
+                  "lng" : -0.5679630197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8346345197085,
+                  "lng" : -0.570660980291502
+               }
+            }
+         },
+         "place_id" : "ChIJB4q2NKEnVQ0RObmQGQk_36I",
+         "plus_code" : {
+            "compound_code" : "RCPJ+97 Bordeaux, France",
+            "global_code" : "8CPXRCPJ+97"
+         },
+         "types" : [ "establishment", "laundry", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Renière",
+               "short_name" : "Rue Renière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "31 Rue Renière, 33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.83605559999999,
+                  "lng" : -0.5691687
+               },
+               "southwest" : {
+                  "lat" : 44.83598019999999,
+                  "lng" : -0.5692955
+               }
+            },
+            "location" : {
+               "lat" : 44.83602279999999,
+               "lng" : -0.5692362
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.83736688029149,
+                  "lng" : -0.5678831197084979
+               },
+               "southwest" : {
+                  "lat" : 44.83466891970849,
+                  "lng" : -0.570581080291502
+               }
+            }
+         },
+         "place_id" : "ChIJx7bJvs4nVQ0RM57C7bIK5FY",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Renière",
+               "short_name" : "Rue Renière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "33 Rue Renière, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8359532,
+               "lng" : -0.5692956
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8373021802915,
+                  "lng" : -0.567946619708498
+               },
+               "southwest" : {
+                  "lat" : 44.8346042197085,
+                  "lng" : -0.5706445802915021
+               }
+            }
+         },
+         "place_id" : "EiczMyBSdWUgUmVuacOocmUsIDMzMDAwIEJvcmRlYXV4LCBGcmFuY2UiGhIYChQKEgkRKkq5zidVDREdz2nA1vmsahAh",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36-32",
+               "short_name" : "36-32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Renière",
+               "short_name" : "Rue Renière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "36-32 Rue Renière, 33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.836004,
+                  "lng" : -0.569107
+               },
+               "southwest" : {
+                  "lat" : 44.8359028,
+                  "lng" : -0.5694853999999999
+               }
+            },
+            "location" : {
+               "lat" : 44.8359531,
+               "lng" : -0.569296
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8373023802915,
+                  "lng" : -0.5679472197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8346044197085,
+                  "lng" : -0.570645180291502
+               }
+            }
+         },
+         "place_id" : "ChIJESpKuc4nVQ0RHM9pwNb5rGo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "RCPJ+97",
+               "short_name" : "RCPJ+97",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "RCPJ+97 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.836,
+                  "lng" : -0.5692499999999999
+               },
+               "southwest" : {
+                  "lat" : 44.835875,
+                  "lng" : -0.569375
+               }
+            },
+            "location" : {
+               "lat" : 44.835961,
+               "lng" : -0.569279
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8372864802915,
+                  "lng" : -0.5679635197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8345885197085,
+                  "lng" : -0.570661480291502
+               }
+            }
+         },
+         "place_id" : "GhIJoN0hxQBrRkARMZbpl4g34r8",
+         "plus_code" : {
+            "compound_code" : "RCPJ+97 Bordeaux, France",
+            "global_code" : "8CPXRCPJ+97"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hôtel de Ville - Quinconces",
+               "short_name" : "Hôtel de Ville - Quinconces",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hôtel de Ville - Quinconces, 33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8490671,
+                  "lng" : -0.5631558999999999
+               },
+               "southwest" : {
+                  "lat" : 44.8313909,
+                  "lng" : -0.5826458999999999
+               }
+            },
+            "location" : {
+               "lat" : 44.8420873,
+               "lng" : -0.5754372999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8490671,
+                  "lng" : -0.5631558999999999
+               },
+               "southwest" : {
+                  "lat" : 44.8313909,
+                  "lng" : -0.5826458999999999
+               }
+            }
+         },
+         "place_id" : "ChIJn985hdAnVQ0Rlz8ohTb6QqM",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canton de Bordeaux-1",
+               "short_name" : "Canton de Bordeaux-1",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canton de Bordeaux-1, Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.843924,
+                  "lng" : -0.5590387
+               },
+               "southwest" : {
+                  "lat" : 44.8184332,
+                  "lng" : -0.5893515
+               }
+            },
+            "location" : {
+               "lat" : 44.83272909999999,
+               "lng" : -0.5754372999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.843924,
+                  "lng" : -0.5590387
+               },
+               "southwest" : {
+                  "lat" : 44.8184332,
+                  "lng" : -0.5893515
+               }
+            }
+         },
+         "place_id" : "ChIJIenD7McnVQ0RGEKP4-qSm-0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Downtown, 33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.859265,
+                  "lng" : -0.5631558999999999
+               },
+               "southwest" : {
+                  "lat" : 44.825366,
+                  "lng" : -0.5995079
+               }
+            },
+            "location" : {
+               "lat" : 44.8450578,
+               "lng" : -0.5780521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.859265,
+                  "lng" : -0.5631558999999999
+               },
+               "southwest" : {
+                  "lat" : 44.825366,
+                  "lng" : -0.5995079
+               }
+            }
+         },
+         "place_id" : "ChIJC89pHt4nVQ0Rp98nee5Fj7s",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8593069,
+                  "lng" : -0.5609713
+               },
+               "southwest" : {
+                  "lat" : 44.8183268,
+                  "lng" : -0.6150361999999999
+               }
+            },
+            "location" : {
+               "lat" : 44.8350088,
+               "lng" : -0.5872689999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8593069,
+                  "lng" : -0.5609713
+               },
+               "southwest" : {
+                  "lat" : 44.8183268,
+                  "lng" : -0.6150361999999999
+               }
+            }
+         },
+         "place_id" : "ChIJUT6ddu8nVQ0RIIOvkRplBhw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.91669419999999,
+                  "lng" : -0.5333253999999999
+               },
+               "southwest" : {
+                  "lat" : 44.8107414,
+                  "lng" : -0.6386987
+               }
+            },
+            "location" : {
+               "lat" : 44.837789,
+               "lng" : -0.57918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.91669419999999,
+                  "lng" : -0.5333253999999999
+               },
+               "southwest" : {
+                  "lat" : 44.8107414,
+                  "lng" : -0.6386987
+               }
+            }
+         },
+         "place_id" : "ChIJgcpR9-gnVQ0RiXo5ewOGY3k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arrondissement de Bordeaux",
+               "short_name" : "Arrondissement de Bordeaux",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arrondissement de Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0413517,
+                  "lng" : -0.241616
+               },
+               "southwest" : {
+                  "lat" : 44.5461018,
+                  "lng" : -0.9050541999999998
+               }
+            },
+            "location" : {
+               "lat" : 44.8377265,
+               "lng" : -0.5792239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0413517,
+                  "lng" : -0.241616
+               },
+               "southwest" : {
+                  "lat" : 44.5461018,
+                  "lng" : -0.9050541999999998
+               }
+            }
+         },
+         "place_id" : "ChIJQy_KWD0nVQ0RFPEVvw04iVU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gironde, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6048818,
+                  "lng" : 0.3151234
+               },
+               "southwest" : {
+                  "lat" : 44.1938882,
+                  "lng" : -1.2609782
+               }
+            },
+            "location" : {
+               "lat" : 44.84966499999999,
+               "lng" : -0.4502368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6048818,
+                  "lng" : 0.3151234
+               },
+               "southwest" : {
+                  "lat" : 44.1938882,
+                  "lng" : -1.2609782
+               }
+            }
+         },
+         "place_id" : "ChIJ8wX2tk4uVQ0RkCcRSBdlBgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nouvelle-Aquitaine",
+               "short_name" : "Nouvelle-Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nouvelle-Aquitaine, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1759905,
+                  "lng" : 2.6112849
+               },
+               "southwest" : {
+                  "lat" : 42.777531,
+                  "lng" : -1.7923251
+               }
+            },
+            "location" : {
+               "lat" : 45.5990651,
+               "lng" : 0.6142169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1759905,
+                  "lng" : 2.6112849
+               },
+               "southwest" : {
+                  "lat" : 42.777531,
+                  "lng" : -1.7923251
+               }
+            }
+         },
+         "place_id" : "ChIJ3-hEGv1T_kcR9ODuTtX6now",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            },
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "place_id" : "ChIJMVd4MymgVA0R99lHx5Y__Ws",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

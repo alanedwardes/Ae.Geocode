@@ -1,0 +1,104 @@
+{
+   "plus_code" : {
+      "global_code" : "37MHF7QC+QP8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37MHF7QC+QP",
+               "short_name" : "37MHF7QC+QP",
+               "types" : [ "plus_code" ]
+            }
+         ],
+         "formatted_address" : "37MHF7QC+QP",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -56.5105,
+                  "lng" : -68.72812499999999
+               },
+               "southwest" : {
+                  "lat" : -56.510625,
+                  "lng" : -68.72825
+               }
+            },
+            "location" : {
+               "lat" : -56.510591,
+               "lng" : -68.728173
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -56.5092135197085,
+                  "lng" : -68.72683851970849
+               },
+               "southwest" : {
+                  "lat" : -56.5119114802915,
+                  "lng" : -68.7295364802915
+               }
+            }
+         },
+         "place_id" : "GhIJ41C_C1tBTMARIjXtYpouUcA",
+         "plus_code" : {
+            "global_code" : "37MHF7QC+QP"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cabo de Hornos",
+               "short_name" : "Cabo de Hornos",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Antartica Chilena",
+               "short_name" : "Antartica Chilena",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magallanes y la Antártica Chilena",
+               "short_name" : "Magallanes y la Antártica Chilena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cabo de Hornos, Magallanes y la Antártica Chilena, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -54.36197199999999,
+                  "lng" : -66.41559389999999
+               },
+               "southwest" : {
+                  "lat" : -56.5377658,
+                  "lng" : -72.329893
+               }
+            },
+            "location" : {
+               "lat" : -55.0360844,
+               "lng" : -69.25459739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -54.36197199999999,
+                  "lng" : -66.41559389999999
+               },
+               "southwest" : {
+                  "lat" : -56.5377658,
+                  "lng" : -72.329893
+               }
+            }
+         },
+         "place_id" : "ChIJr7KOHi3SSLwROKfTPZzdp08",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,440 @@
+{
+   "plus_code" : {
+      "compound_code" : "8F9Q+FPC Brindister, Shetland, UK",
+      "global_code" : "9CGW8F9Q+FPC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8F9Q+FP",
+               "short_name" : "8F9Q+FP",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Brindister",
+               "short_name" : "Brindister",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shetland",
+               "short_name" : "Shetland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shetland Islands",
+               "short_name" : "Shetland Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ZE2 9NT",
+               "short_name" : "ZE2 9NT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8F9Q+FP Brindister, Shetland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.31874999999999,
+                  "lng" : -1.510625
+               },
+               "southwest" : {
+                  "lat" : 60.318625,
+                  "lng" : -1.51075
+               }
+            },
+            "location" : {
+               "lat" : 60.318686,
+               "lng" : -1.510724
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.32003648029151,
+                  "lng" : -1.509338519708498
+               },
+               "southwest" : {
+                  "lat" : 60.3173385197085,
+                  "lng" : -1.512036480291502
+               }
+            }
+         },
+         "place_id" : "GhIJttjts8ooTkARUYTU7ewr-L8",
+         "plus_code" : {
+            "compound_code" : "8F9Q+FP Brindister, Shetland, UK",
+            "global_code" : "9CGW8F9Q+FP"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shetland",
+               "short_name" : "Shetland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shetland Islands",
+               "short_name" : "Shetland Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ZE2 9NT",
+               "short_name" : "ZE2 9NT",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Shetland ZE2 9NT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.3035641,
+                  "lng" : -1.4928699
+               },
+               "southwest" : {
+                  "lat" : 60.3022852,
+                  "lng" : -1.4946275
+               }
+            },
+            "location" : {
+               "lat" : 60.302686,
+               "lng" : -1.4943817
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.3042736302915,
+                  "lng" : -1.492399719708498
+               },
+               "southwest" : {
+                  "lat" : 60.30157566970849,
+                  "lng" : -1.495097680291502
+               }
+            }
+         },
+         "place_id" : "ChIJP1v662bpnkgRlsDe15i-yvM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ZE2 9NT",
+               "short_name" : "ZE2 9NT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Shetland",
+               "short_name" : "Shetland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Shetland Islands",
+               "short_name" : "Shetland Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shetland ZE2 9NT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.34223249999999,
+                  "lng" : -1.4596749
+               },
+               "southwest" : {
+                  "lat" : 60.2700555,
+                  "lng" : -1.5816016
+               }
+            },
+            "location" : {
+               "lat" : 60.2971514,
+               "lng" : -1.5223976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.34223249999999,
+                  "lng" : -1.4596749
+               },
+               "southwest" : {
+                  "lat" : 60.2700555,
+                  "lng" : -1.5816016
+               }
+            }
+         },
+         "place_id" : "ChIJNzd-OoDpnkgRu98CgHc11TE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ZE2",
+               "short_name" : "ZE2",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Shetland",
+               "short_name" : "Shetland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shetland ZE2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8470179,
+                  "lng" : -0.7316147
+               },
+               "southwest" : {
+                  "lat" : 59.51257649999999,
+                  "lng" : -2.1148872
+               }
+            },
+            "location" : {
+               "lat" : 60.3213009,
+               "lng" : -1.221926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8470179,
+                  "lng" : -0.7316147
+               },
+               "southwest" : {
+                  "lat" : 59.51257649999999,
+                  "lng" : -2.1148872
+               }
+            }
+         },
+         "place_id" : "ChIJz8MDaGgUnEgRWoCIZk_mosE",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shetland",
+               "short_name" : "Shetland",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shetland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.84647940000001,
+                  "lng" : -0.7386423
+               },
+               "southwest" : {
+                  "lat" : 59.51078179999999,
+                  "lng" : -2.1173585
+               }
+            },
+            "location" : {
+               "lat" : 60.36764419999999,
+               "lng" : -1.2242272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.84647940000001,
+                  "lng" : -0.7386423
+               },
+               "southwest" : {
+                  "lat" : 59.51078179999999,
+                  "lng" : -2.1173585
+               }
+            }
+         },
+         "place_id" : "ChIJvcvUQGiTnkgRE2raV6PmOQo",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shetland Islands",
+               "short_name" : "Shetland Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shetland Islands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.86076139999999,
+                  "lng" : -0.7245321
+               },
+               "southwest" : {
+                  "lat" : 59.5068114,
+                  "lng" : -2.1175288
+               }
+            },
+            "location" : {
+               "lat" : 60.5296507,
+               "lng" : -1.2659409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.86076139999999,
+                  "lng" : -0.7245321
+               },
+               "southwest" : {
+                  "lat" : 59.5068114,
+                  "lng" : -2.1175288
+               }
+            }
+         },
+         "place_id" : "ChIJz8MDaGgUnEgRf1XLFSWaY9M",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Scotland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            },
+            "location" : {
+               "lat" : 56.49067119999999,
+               "lng" : -4.2026458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8607515,
+                  "lng" : -0.7246751
+               },
+               "southwest" : {
+                  "lat" : 54.6332381,
+                  "lng" : -8.650007199999999
+               }
+            }
+         },
+         "place_id" : "ChIJn6HyA8TiYUgRFAfDCdj6wec",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

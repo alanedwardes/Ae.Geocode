@@ -1,0 +1,626 @@
+{
+   "plus_code" : {
+      "compound_code" : "8HMJ+MXH Kampala, Uganda",
+      "global_code" : "6GGJ8HMJ+MXH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8l",
+               "short_name" : "8l",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nakayima Road",
+               "short_name" : "Nakayima Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kampala Central Division",
+               "short_name" : "Kampala Central Division",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8l Nakayima Road, Kampala, Uganda",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3341197,
+               "lng" : 32.5827319
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.335468680291502,
+                  "lng" : 32.5840808802915
+               },
+               "southwest" : {
+                  "lat" : 0.3327707197084979,
+                  "lng" : 32.5813829197085
+               }
+            }
+         },
+         "place_id" : "ChIJdYYZg6C7fRcRYn0o4WQ6YAQ",
+         "plus_code" : {
+            "compound_code" : "8HMM+J3 Kampala, Uganda",
+            "global_code" : "6GGJ8HMM+J3"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nakayima Road",
+               "short_name" : "Nakayima Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kampala Central Division",
+               "short_name" : "Kampala Central Division",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8 Nakayima Road, Kampala, Uganda",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3341234,
+               "lng" : 32.5822929
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.335472380291502,
+                  "lng" : 32.5836418802915
+               },
+               "southwest" : {
+                  "lat" : 0.3327744197084979,
+                  "lng" : 32.5809439197085
+               }
+            }
+         },
+         "place_id" : "EiA4IE5ha2F5aW1hIFJvYWQsIEthbXBhbGEsIFVnYW5kYSIaEhgKFAoSCWX8zHcKu30XEV4-YZtd-IppEAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8HMJ+MX",
+               "short_name" : "8HMJ+MX",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8HMJ+MX Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.33425,
+                  "lng" : 32.5825
+               },
+               "southwest" : {
+                  "lat" : 0.334125,
+                  "lng" : 32.582375
+               }
+            },
+            "location" : {
+               "lat" : 0.334177,
+               "lng" : 32.582489
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3355364802915021,
+                  "lng" : 32.58378648029149
+               },
+               "southwest" : {
+                  "lat" : 0.332838519708498,
+                  "lng" : 32.5810885197085
+               }
+            }
+         },
+         "place_id" : "GhIJOdOE7Sdj1T8RzqPi_45KQEA",
+         "plus_code" : {
+            "compound_code" : "8HMJ+MX Kampala, Uganda",
+            "global_code" : "6GGJ8HMJ+MX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nakayima Road",
+               "short_name" : "Nakayima Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kampala Central Division",
+               "short_name" : "Kampala Central Division",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8 Nakayima Road, Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3343674,
+                  "lng" : 32.5827096
+               },
+               "southwest" : {
+                  "lat" : 0.3341437,
+                  "lng" : 32.5823272
+               }
+            },
+            "location" : {
+               "lat" : 0.3342589,
+               "lng" : 32.5825165
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3356045302915021,
+                  "lng" : 32.5838673802915
+               },
+               "southwest" : {
+                  "lat" : 0.332906569708498,
+                  "lng" : 32.5811694197085
+               }
+            }
+         },
+         "place_id" : "ChIJlf-4naC7fRcRQHp0ucG0Rds",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitante",
+               "short_name" : "Kitante",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kampala Central Division",
+               "short_name" : "Kampala Central Division",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitante, Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3386565,
+                  "lng" : 32.5878611
+               },
+               "southwest" : {
+                  "lat" : 0.3244741,
+                  "lng" : 32.5768715
+               }
+            },
+            "location" : {
+               "lat" : 0.3327034,
+               "lng" : 32.5839333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3386565,
+                  "lng" : 32.5878611
+               },
+               "southwest" : {
+                  "lat" : 0.3244741,
+                  "lng" : 32.5768715
+               }
+            }
+         },
+         "place_id" : "ChIJURSvVXW7fRcRNyPckqafV6I",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kampala Central Division",
+               "short_name" : "Kampala Central Division",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kampala Central Division, Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.3482291,
+                  "lng" : 32.61236
+               },
+               "southwest" : {
+                  "lat" : 0.301069,
+                  "lng" : 32.56062259999999
+               }
+            },
+            "location" : {
+               "lat" : 0.3250394,
+               "lng" : 32.5856675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3482291,
+                  "lng" : 32.61236
+               },
+               "southwest" : {
+                  "lat" : 0.301069,
+                  "lng" : 32.56062259999999
+               }
+            }
+         },
+         "place_id" : "ChIJdU7pvXa8fRcRerkFAmGC2kI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.413199,
+                  "lng" : 32.6892796
+               },
+               "southwest" : {
+                  "lat" : 0.2128597,
+                  "lng" : 32.5089713
+               }
+            },
+            "location" : {
+               "lat" : 0.3475964,
+               "lng" : 32.5825197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.413199,
+                  "lng" : 32.6892796
+               },
+               "southwest" : {
+                  "lat" : 0.2128597,
+                  "lng" : 32.5089713
+               }
+            }
+         },
+         "place_id" : "ChIJm7N0nQ-8fRcR7G9r2T2QOEU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kampala",
+               "short_name" : "Kampala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kampala, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.513771,
+                  "lng" : 32.682104
+               },
+               "southwest" : {
+                  "lat" : 0.225225,
+                  "lng" : 32.5216431
+               }
+            },
+            "location" : {
+               "lat" : 0.3633923,
+               "lng" : 32.6051351
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.513771,
+                  "lng" : 32.682104
+               },
+               "southwest" : {
+                  "lat" : 0.225225,
+                  "lng" : 32.5216431
+               }
+            }
+         },
+         "place_id" : "ChIJx9KCGIKxfRcR5RVHr_OSQjA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyadondo",
+               "short_name" : "Kyadondo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mpigi",
+               "short_name" : "Mpigi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyadondo, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 0.5851836,
+                  "lng" : 32.6865579
+               },
+               "southwest" : {
+                  "lat" : 0.1670262,
+                  "lng" : 32.4235725
+               }
+            },
+            "location" : {
+               "lat" : 0.4111927,
+               "lng" : 32.5825197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5851836,
+                  "lng" : 32.6865579
+               },
+               "southwest" : {
+                  "lat" : 0.1670262,
+                  "lng" : 32.4235725
+               }
+            }
+         },
+         "place_id" : "ChIJx33DPLSXfRcRJQF7fsLTfN8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Central Region, Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.680817,
+                  "lng" : 33.464133
+               },
+               "southwest" : {
+                  "lat" : -1.0014809,
+                  "lng" : 31.0092151
+               }
+            },
+            "location" : {
+               "lat" : 0.2540775,
+               "lng" : 31.99280779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.680817,
+                  "lng" : 33.464133
+               },
+               "southwest" : {
+                  "lat" : -1.0014809,
+                  "lng" : 31.0092151
+               }
+            }
+         },
+         "place_id" : "ChIJFaABn_1eexcR6Pzd1PaaoY4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uganda",
+               "short_name" : "UG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uganda",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.218628,
+                  "lng" : 35.0330489
+               },
+               "southwest" : {
+                  "lat" : -1.4823178,
+                  "lng" : 29.573433
+               }
+            },
+            "location" : {
+               "lat" : 1.373333,
+               "lng" : 32.290275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.218628,
+                  "lng" : 35.0330489
+               },
+               "southwest" : {
+                  "lat" : -1.4823178,
+                  "lng" : 29.573433
+               }
+            }
+         },
+         "place_id" : "ChIJRfmZZJ-mcRcRSUUBQ85VQYc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

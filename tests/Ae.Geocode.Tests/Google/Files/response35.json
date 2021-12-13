@@ -1,0 +1,89 @@
+{
+   "plus_code" : {
+      "global_code" : "CMHHC65R+CWC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CMHHC65R+CW",
+               "short_name" : "CMHHC65R+CW",
+               "types" : [ "plus_code" ]
+            }
+         ],
+         "formatted_address" : "CMHHC65R+CW",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.40862500000001,
+                  "lng" : 91.242375
+               },
+               "southwest" : {
+                  "lat" : 81.4085,
+                  "lng" : 91.24225
+               }
+            },
+            "location" : {
+               "lat" : 81.40855999999999,
+               "lng" : 91.242273
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.40991148029153,
+                  "lng" : 91.24366148029151
+               },
+               "southwest" : {
+                  "lat" : 81.40721351970851,
+                  "lng" : 91.24096351970849
+               }
+            }
+         },
+         "place_id" : "GhIJCp3X2CVaVEARC-2cZoHPVkA",
+         "plus_code" : {
+            "global_code" : "CMHHC65R+CW"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

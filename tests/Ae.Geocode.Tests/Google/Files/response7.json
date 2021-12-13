@@ -1,0 +1,478 @@
+{
+   "plus_code" : {
+      "compound_code" : "8PMH+JHR Dublin 8, Ireland",
+      "global_code" : "9C5M8PMH+JHR"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "68",
+               "short_name" : "68",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lombard Street West",
+               "short_name" : "Lombard St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portobello",
+               "short_name" : "Portobello",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dublin 8",
+               "short_name" : "Dublin 8",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "D08 C4E6",
+               "short_name" : "D08 C4E6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "68 Lombard St W, Portobello, Dublin, D08 C4E6, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3340408,
+               "lng" : -6.2710662
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3353897802915,
+                  "lng" : -6.269717219708498
+               },
+               "southwest" : {
+                  "lat" : 53.3326918197085,
+                  "lng" : -6.272415180291502
+               }
+            }
+         },
+         "place_id" : "ChIJx9_tXx8MZ0gR_w7Gv1sAc6U",
+         "plus_code" : {
+            "compound_code" : "8PMH+JH Dublin, County Dublin, Ireland",
+            "global_code" : "9C5M8PMH+JH"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26-10",
+               "short_name" : "26-10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lombard Street West",
+               "short_name" : "Lombard St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portobello",
+               "short_name" : "Portobello",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dublin 8",
+               "short_name" : "Dublin 8",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "26-10 Lombard St W, Portobello, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3341487,
+                  "lng" : -6.270967799999999
+               },
+               "southwest" : {
+                  "lat" : 53.3340427,
+                  "lng" : -6.272765499999999
+               }
+            },
+            "location" : {
+               "lat" : 53.3340957,
+               "lng" : -6.271866699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.33544468029149,
+                  "lng" : -6.270517669708497
+               },
+               "southwest" : {
+                  "lat" : 53.3327467197085,
+                  "lng" : -6.273215630291501
+               }
+            }
+         },
+         "place_id" : "ChIJz7i24iEMZ0gRzOWqsZQylk4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8PMH+JH",
+               "short_name" : "8PMH+JH",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Dublin 8",
+               "short_name" : "Dublin 8",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8PMH+JH Dublin 8, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.334125,
+                  "lng" : -6.271
+               },
+               "southwest" : {
+                  "lat" : 53.334,
+                  "lng" : -6.271125
+               }
+            },
+            "location" : {
+               "lat" : 53.334107,
+               "lng" : -6.2711
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3354114802915,
+                  "lng" : -6.269713519708498
+               },
+               "southwest" : {
+                  "lat" : 53.3327135197085,
+                  "lng" : -6.272411480291503
+               }
+            }
+         },
+         "place_id" : "GhIJrS6nBMSqSkARS8gHPZsVGcA",
+         "plus_code" : {
+            "compound_code" : "8PMH+JH Dublin 8, Ireland",
+            "global_code" : "9C5M8PMH+JH"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portobello",
+               "short_name" : "Portobello",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dublin 8",
+               "short_name" : "Dublin 8",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portobello, Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3389293,
+                  "lng" : -6.2642699
+               },
+               "southwest" : {
+                  "lat" : 53.3296826,
+                  "lng" : -6.2755123
+               }
+            },
+            "location" : {
+               "lat" : 53.3362358,
+               "lng" : -6.2689663
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3389293,
+                  "lng" : -6.2642699
+               },
+               "southwest" : {
+                  "lat" : 53.3296826,
+                  "lng" : -6.2755123
+               }
+            }
+         },
+         "place_id" : "ChIJu09LER8MZ0gRvUYw5XnRo1M",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin 8",
+               "short_name" : "Dublin 8",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin 8, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.37132399999999,
+                  "lng" : -6.2642699
+               },
+               "southwest" : {
+                  "lat" : 53.325953,
+                  "lng" : -6.3563488
+               }
+            },
+            "location" : {
+               "lat" : 53.34785249999999,
+               "lng" : -6.318115199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.37132399999999,
+                  "lng" : -6.2642699
+               },
+               "southwest" : {
+                  "lat" : 53.325953,
+                  "lng" : -6.3563488
+               }
+            }
+         },
+         "place_id" : "ChIJLz14IT8MZ0gR2uKxYpAO0Bc",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin City, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4111566,
+                  "lng" : -6.11309
+               },
+               "southwest" : {
+                  "lat" : 53.2988569,
+                  "lng" : -6.387080600000001
+               }
+            },
+            "location" : {
+               "lat" : 53.3603142,
+               "lng" : -6.315054200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4111566,
+                  "lng" : -6.11309
+               },
+               "southwest" : {
+                  "lat" : 53.2988569,
+                  "lng" : -6.387080600000001
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHAAM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            },
+            "location" : {
+               "lat" : 53.3498053,
+               "lng" : -6.2603097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.42521010000001,
+                  "lng" : -6.0439235
+               },
+               "southwest" : {
+                  "lat" : 53.22343009999999,
+                  "lng" : -6.4474847
+               }
+            }
+         },
+         "place_id" : "ChIJL6wn6oAOZ0gRoHExl6nHAAo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "County Dublin",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            },
+            "location" : {
+               "lat" : 53.3302033,
+               "lng" : -6.3105655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6347257,
+                  "lng" : -5.9962748
+               },
+               "southwest" : {
+                  "lat" : 53.1781971,
+                  "lng" : -6.5468798
+               }
+            }
+         },
+         "place_id" : "ChIJv2RI7foRZ0gRwAKA8azHABg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4602,
+                  "lng" : -5.668900100000001
+               },
+               "southwest" : {
+                  "lat" : 51.3066,
+                  "lng" : -10.7666001
+               }
+            }
+         },
+         "place_id" : "ChIJ-ydAXOS6WUgRCPTbzjQSfM8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

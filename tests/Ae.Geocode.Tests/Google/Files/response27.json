@@ -1,0 +1,182 @@
+{
+   "plus_code" : {
+      "global_code" : "CQ7XFH4X+67H"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CQ7XFH4X+67",
+               "short_name" : "CQ7XFH4X+67",
+               "types" : [ "plus_code" ]
+            }
+         ],
+         "formatted_address" : "CQ7XFH4X+67",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 75.455625,
+                  "lng" : 139.59825
+               },
+               "southwest" : {
+                  "lat" : 75.4555,
+                  "lng" : 139.598125
+               }
+            },
+            "location" : {
+               "lat" : 75.45555499999999,
+               "lng" : 139.598239
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 75.45691148029152,
+                  "lng" : 139.5995364802915
+               },
+               "southwest" : {
+                  "lat" : 75.4542135197085,
+                  "lng" : 139.5968385197085
+               }
+            }
+         },
+         "place_id" : "GhIJ36Eo0CfdUkARI4YdxiRzYUA",
+         "plus_code" : {
+            "global_code" : "CQ7XFH4X+67"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulunsky District",
+               "short_name" : "Bulunsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sakha Republic",
+               "short_name" : "Sakha Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulunsky District, Sakha Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 76.7581309,
+                  "lng" : 152.8922349
+               },
+               "southwest" : {
+                  "lat" : 68.69243589999999,
+                  "lng" : 116.1701537
+               }
+            },
+            "location" : {
+               "lat" : 70.81938450000001,
+               "lng" : 126.8824821
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 76.7581309,
+                  "lng" : 152.8922349
+               },
+               "southwest" : {
+                  "lat" : 68.69243589999999,
+                  "lng" : 116.1701537
+               }
+            }
+         },
+         "place_id" : "ChIJ8dD1XfbGrlsR9szQJC3Wdf0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakha Republic",
+               "short_name" : "Sakha Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sakha Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 77.1182001,
+                  "lng" : 162.8552221
+               },
+               "southwest" : {
+                  "lat" : 55.4899,
+                  "lng" : 105.509157
+               }
+            },
+            "location" : {
+               "lat" : 66.7613451,
+               "lng" : 124.123753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 77.1182001,
+                  "lng" : 162.8552221
+               },
+               "southwest" : {
+                  "lat" : 55.4899,
+                  "lng" : 105.509157
+               }
+            }
+         },
+         "place_id" : "ChIJazNRLwMa61sRjtUnokgK4DI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,730 @@
+{
+   "plus_code" : {
+      "compound_code" : "4H5J+JCG Ballymoney, UK",
+      "global_code" : "9C7M4H5J+JCG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ballinlea Road",
+               "short_name" : "Ballinlea Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stranocum",
+               "short_name" : "Stranocum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT53 8PQ",
+               "short_name" : "BT53 8PQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7 Ballinlea Rd, Stranocum, Ballymoney BT53 8PQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.109265,
+               "lng" : -6.4189284
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1106139802915,
+                  "lng" : -6.417579419708497
+               },
+               "southwest" : {
+                  "lat" : 55.1079160197085,
+                  "lng" : -6.420277380291502
+               }
+            }
+         },
+         "place_id" : "ChIJ9bvGtUkyYEgRqxK85byGWGw",
+         "plus_code" : {
+            "compound_code" : "4H5J+PC Ballymoney, UK",
+            "global_code" : "9C7M4H5J+PC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ford Avenue",
+               "short_name" : "Ford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stranocum",
+               "short_name" : "Stranocum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT53 8PF",
+               "short_name" : "BT53 8PF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Ford Ave, Stranocum, Ballymoney BT53 8PF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.10890879999999,
+                  "lng" : -6.4188037
+               },
+               "southwest" : {
+                  "lat" : 55.1088201,
+                  "lng" : -6.418965699999999
+               }
+            },
+            "location" : {
+               "lat" : 55.1088635,
+               "lng" : -6.4188813
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.11021343029149,
+                  "lng" : -6.417535719708497
+               },
+               "southwest" : {
+                  "lat" : 55.1075154697085,
+                  "lng" : -6.420233680291502
+               }
+            }
+         },
+         "place_id" : "ChIJ722Nt0kyYEgRBaeaSlPU9B0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ford Avenue",
+               "short_name" : "Ford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stranocum",
+               "short_name" : "Stranocum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT53 8PF",
+               "short_name" : "BT53 8PF",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Ford Ave, Stranocum, Ballymoney BT53 8PF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.10884369999999,
+               "lng" : -6.419091600000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1101926802915,
+                  "lng" : -6.417742619708499
+               },
+               "southwest" : {
+                  "lat" : 55.1074947197085,
+                  "lng" : -6.420440580291503
+               }
+            }
+         },
+         "place_id" : "EiMxIEZvcmQgQXZlLCBCYWxseW1vbmV5IEJUNTMgOFBGLCBVSyIaEhgKFAoSCRMsxcdJMmBIEclrgr8Pd4JyEAE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4H5J+JC",
+               "short_name" : "4H5J+JC",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "4H5J+JC Ballymoney, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.109125,
+                  "lng" : -6.418875000000001
+               },
+               "southwest" : {
+                  "lat" : 55.10899999999999,
+                  "lng" : -6.419
+               }
+            },
+            "location" : {
+               "lat" : 55.10907,
+               "lng" : -6.418931
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1104114802915,
+                  "lng" : -6.417588519708499
+               },
+               "southwest" : {
+                  "lat" : 55.1077135197085,
+                  "lng" : -6.420286480291503
+               }
+            }
+         },
+         "place_id" : "GhIJw3x5AfaNS0ARTx-BP_ysGcA",
+         "plus_code" : {
+            "compound_code" : "4H5J+JC Ballymoney, UK",
+            "global_code" : "9C7M4H5J+JC"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "30-38",
+               "short_name" : "30-38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ballinlea Road",
+               "short_name" : "B147",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stranocum",
+               "short_name" : "Stranocum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT53",
+               "short_name" : "BT53",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "30-38 B147, Stranocum, Ballymoney BT53, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1107587,
+                  "lng" : -6.4182752
+               },
+               "southwest" : {
+                  "lat" : 55.1087875,
+                  "lng" : -6.419376199999999
+               }
+            },
+            "location" : {
+               "lat" : 55.1097586,
+               "lng" : -6.418752899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.11112208029149,
+                  "lng" : -6.417476719708498
+               },
+               "southwest" : {
+                  "lat" : 55.1084241197085,
+                  "lng" : -6.420174680291503
+               }
+            }
+         },
+         "place_id" : "ChIJB5yYS0gyYEgRyCmZAS9X274",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BT53 8PQ",
+               "short_name" : "BT53 8PQ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stranocum",
+               "short_name" : "Stranocum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Main St, Stranocum, Ballymoney BT53 8PQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1106,
+                  "lng" : -6.417271800000001
+               },
+               "southwest" : {
+                  "lat" : 55.1089226,
+                  "lng" : -6.420575200000001
+               }
+            },
+            "location" : {
+               "lat" : 55.10984879999999,
+               "lng" : -6.419686899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1111102802915,
+                  "lng" : -6.417271800000001
+               },
+               "southwest" : {
+                  "lat" : 55.1084123197085,
+                  "lng" : -6.420575200000001
+               }
+            }
+         },
+         "place_id" : "ChIJ20zsSEgyYEgRPvkrXaqM5lM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stranocum",
+               "short_name" : "Stranocum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT53",
+               "short_name" : "BT53",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Stranocum, Ballymoney BT53, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1123882,
+                  "lng" : -6.4135481
+               },
+               "southwest" : {
+                  "lat" : 55.1040627,
+                  "lng" : -6.432162
+               }
+            },
+            "location" : {
+               "lat" : 55.10870999999999,
+               "lng" : -6.4192801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1123882,
+                  "lng" : -6.4135481
+               },
+               "southwest" : {
+                  "lat" : 55.1040627,
+                  "lng" : -6.432162
+               }
+            }
+         },
+         "place_id" : "ChIJF34xmE0yYEgRFJ5-T9QEfOA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "BT53",
+               "short_name" : "BT53",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ballymoney BT53, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1997166,
+                  "lng" : -6.1598988
+               },
+               "southwest" : {
+                  "lat" : 54.9632127,
+                  "lng" : -6.6102246
+               }
+            },
+            "location" : {
+               "lat" : 55.0762255,
+               "lng" : -6.472779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1997166,
+                  "lng" : -6.1598988
+               },
+               "southwest" : {
+                  "lat" : 54.9632127,
+                  "lng" : -6.6102246
+               }
+            }
+         },
+         "place_id" : "ChIJL8RmaRAtYEgRKvBziWdgZGk",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ballymoney",
+               "short_name" : "Ballymoney",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ballymoney, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1952274,
+                  "lng" : -6.161999499999999
+               },
+               "southwest" : {
+                  "lat" : 54.9626831,
+                  "lng" : -6.611749100000001
+               }
+            },
+            "location" : {
+               "lat" : 55.079353,
+               "lng" : -6.4137792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1952274,
+                  "lng" : -6.161999499999999
+               },
+               "southwest" : {
+                  "lat" : 54.9626831,
+                  "lng" : -6.611749100000001
+               }
+            }
+         },
+         "place_id" : "ChIJN31gpJ8zYEgRNHZo-ZzZIfI",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Causeway Coast and Glens",
+               "short_name" : "Causeway Coast and Glens",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Causeway Coast and Glens, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3120151,
+                  "lng" : -5.9615756
+               },
+               "southwest" : {
+                  "lat" : 54.8200219,
+                  "lng" : -7.1596572
+               }
+            },
+            "location" : {
+               "lat" : 55.043183,
+               "lng" : -6.6741288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3120151,
+                  "lng" : -5.9615756
+               },
+               "southwest" : {
+                  "lat" : 54.8200219,
+                  "lng" : -7.1596572
+               }
+            }
+         },
+         "place_id" : "ChIJry1VbDM6YEgRpC9fY13q-mI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Ireland",
+               "short_name" : "Northern Ireland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Ireland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.31294,
+                  "lng" : -5.4267901
+               },
+               "southwest" : {
+                  "lat" : 54.02260990000001,
+                  "lng" : -8.17754
+               }
+            },
+            "location" : {
+               "lat" : 54.7877149,
+               "lng" : -6.4923145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.31294,
+                  "lng" : -5.4267901
+               },
+               "southwest" : {
+                  "lat" : 54.02260990000001,
+                  "lng" : -8.17754
+               }
+            }
+         },
+         "place_id" : "ChIJdZmmmcoQXkgR2OO3bu8o5fc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

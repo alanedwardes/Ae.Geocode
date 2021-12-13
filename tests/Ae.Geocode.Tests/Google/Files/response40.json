@@ -1,0 +1,557 @@
+{
+   "plus_code" : {
+      "compound_code" : "62F6+7CJ Osmangazi/Bursa, Turkey",
+      "global_code" : "8GGF62F6+7CJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gazi Akdemir Sokak",
+               "short_name" : "Gazi Akdemir Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İstiklal",
+               "short_name" : "İstiklal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16200",
+               "short_name" : "16200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstiklal, Gazi Akdemir Sk. No:59, 16200 Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.22313320000001,
+               "lng" : 29.0109547
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.22448218029151,
+                  "lng" : 29.0123036802915
+               },
+               "southwest" : {
+                  "lat" : 40.22178421970851,
+                  "lng" : 29.0096057197085
+               }
+            }
+         },
+         "place_id" : "ChIJgRoxfbcVyhQR85BWMmo-nxk",
+         "plus_code" : {
+            "compound_code" : "62F6+79 Osmangazi/Bursa, Turkey",
+            "global_code" : "8GGF62F6+79"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gazi Akdemir Sokak",
+               "short_name" : "Gazi Akdemir Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İstiklal",
+               "short_name" : "İstiklal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16200",
+               "short_name" : "16200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstiklal, Gazi Akdemir Sk. No:59, 16200 Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2231087,
+               "lng" : 29.0110198
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.22445768029149,
+                  "lng" : 29.0123687802915
+               },
+               "southwest" : {
+                  "lat" : 40.22175971970849,
+                  "lng" : 29.0096708197085
+               }
+            }
+         },
+         "place_id" : "EkDEsHN0aWtsYWwsIEdhemkgQWtkZW1pciBTay4gTm86NTksIDE2MjAwIE9zbWFuZ2F6aS9CdXJzYSwgVHVya2V5IhoSGAoUChIJ29R02LkVyhQRcurymxUBZxQQOw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "62F6+7C",
+               "short_name" : "62F6+7C",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "62F6+7C Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.22325,
+                  "lng" : 29.011125
+               },
+               "southwest" : {
+                  "lat" : 40.223125,
+                  "lng" : 29.011
+               }
+            },
+            "location" : {
+               "lat" : 40.22322,
+               "lng" : 29.011015
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2245364802915,
+                  "lng" : 29.0124114802915
+               },
+               "southwest" : {
+                  "lat" : 40.2218385197085,
+                  "lng" : 29.0097135197085
+               }
+            }
+         },
+         "place_id" : "GhIJFegTeZIcREAR9MMI4dECPUA",
+         "plus_code" : {
+            "compound_code" : "62F6+7C Osmangazi/Bursa, Turkey",
+            "global_code" : "8GGF62F6+7C"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59-43",
+               "short_name" : "59-43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gazi Akdemir Sokak",
+               "short_name" : "Gazi Akdemir Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İstiklal",
+               "short_name" : "İstiklal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16200",
+               "short_name" : "16200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstiklal, Gazi Akdemir Sk. 59-43, 16200 Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2233313,
+                  "lng" : 29.0111638
+               },
+               "southwest" : {
+                  "lat" : 40.2230113,
+                  "lng" : 29.0109568
+               }
+            },
+            "location" : {
+               "lat" : 40.2231713,
+               "lng" : 29.01106029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2245202802915,
+                  "lng" : 29.0124092802915
+               },
+               "southwest" : {
+                  "lat" : 40.2218223197085,
+                  "lng" : 29.0097113197085
+               }
+            }
+         },
+         "place_id" : "ChIJ29R02LkVyhQRcurymxUBZxQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "16200",
+               "short_name" : "16200",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "İstiklal",
+               "short_name" : "İstiklal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "İstiklal, 16200 Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2283149,
+                  "lng" : 29.0141149
+               },
+               "southwest" : {
+                  "lat" : 40.218055,
+                  "lng" : 29.00533
+               }
+            },
+            "location" : {
+               "lat" : 40.22411,
+               "lng" : 29.0096212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2283149,
+                  "lng" : 29.0141149
+               },
+               "southwest" : {
+                  "lat" : 40.218055,
+                  "lng" : 29.00533
+               }
+            }
+         },
+         "place_id" : "ChIJaymfdLcVyhQROz4OKs3nwk4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İstiklal",
+               "short_name" : "İstiklal",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16200",
+               "short_name" : "16200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstiklal, 16200 Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2283149,
+                  "lng" : 29.0141149
+               },
+               "southwest" : {
+                  "lat" : 40.218055,
+                  "lng" : 29.00533
+               }
+            },
+            "location" : {
+               "lat" : 40.22411,
+               "lng" : 29.0096212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2283149,
+                  "lng" : 29.0141149
+               },
+               "southwest" : {
+                  "lat" : 40.218055,
+                  "lng" : 29.00533
+               }
+            }
+         },
+         "place_id" : "ChIJaymfdLcVyhQRhN_rWki8Crc",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.276336,
+                  "lng" : 29.202363
+               },
+               "southwest" : {
+                  "lat" : 40.16702,
+                  "lng" : 28.862216
+               }
+            },
+            "location" : {
+               "lat" : 40.1885281,
+               "lng" : 29.0609636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.276336,
+                  "lng" : 29.202363
+               },
+               "southwest" : {
+                  "lat" : 40.16702,
+                  "lng" : 28.862216
+               }
+            }
+         },
+         "place_id" : "ChIJlVbU2IIVyhQRkjOX_FUFoGE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osmangazi/Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3447159,
+                  "lng" : 29.26984
+               },
+               "southwest" : {
+                  "lat" : 39.98636399999999,
+                  "lng" : 28.919984
+               }
+            },
+            "location" : {
+               "lat" : 40.1794498,
+               "lng" : 29.0227201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3447159,
+                  "lng" : 29.26984
+               },
+               "southwest" : {
+                  "lat" : 39.98636399999999,
+                  "lng" : 28.919984
+               }
+            }
+         },
+         "place_id" : "ChIJO1HUDDM8yhQROsoHltWpfgY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bursa, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6212121,
+                  "lng" : 29.9561661
+               },
+               "southwest" : {
+                  "lat" : 39.5937439,
+                  "lng" : 28.0876659
+               }
+            },
+            "location" : {
+               "lat" : 40.0655459,
+               "lng" : 29.2320784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6212121,
+                  "lng" : 29.9561661
+               },
+               "southwest" : {
+                  "lat" : 39.5937439,
+                  "lng" : 28.0876659
+               }
+            }
+         },
+         "place_id" : "ChIJqSK43XuPtRQRzUZGtXCmLJI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.8085919,
+                  "lng" : 25.5377
+               }
+            },
+            "location" : {
+               "lat" : 38.963745,
+               "lng" : 35.243322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3666999,
+                  "lng" : 44.8178449
+               },
+               "southwest" : {
+                  "lat" : 35.8085919,
+                  "lng" : 25.5377
+               }
+            }
+         },
+         "place_id" : "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

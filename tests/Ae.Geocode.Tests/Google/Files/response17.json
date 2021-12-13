@@ -1,0 +1,555 @@
+{
+   "plus_code" : {
+      "compound_code" : "44QV+JJ7 Reykjavík, Iceland",
+      "global_code" : "99PW44QV+JJ7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skipasund",
+               "short_name" : "Skipasund",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Háaleiti",
+               "short_name" : "Háaleiti",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipasund 61, Reykjavík, Iceland",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.13900699999999,
+               "lng" : -21.855787
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1403559802915,
+                  "lng" : -21.8544380197085
+               },
+               "southwest" : {
+                  "lat" : 64.1376580197085,
+                  "lng" : -21.8571359802915
+               }
+            }
+         },
+         "place_id" : "ChIJl7W_n5F01kgRN2mW6IceioQ",
+         "plus_code" : {
+            "compound_code" : "44QV+JM Reykjavík, Iceland",
+            "global_code" : "99PW44QV+JM"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "63",
+               "short_name" : "63",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skipasund",
+               "short_name" : "Skipasund",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Háaleiti",
+               "short_name" : "Háaleiti",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipasund 63, Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.1389513,
+                  "lng" : -21.8553404
+               },
+               "southwest" : {
+                  "lat" : 64.13884399999999,
+                  "lng" : -21.8556107
+               }
+            },
+            "location" : {
+               "lat" : 64.13889259999999,
+               "lng" : -21.8554671
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1402466302915,
+                  "lng" : -21.85412656970849
+               },
+               "southwest" : {
+                  "lat" : 64.13754866970849,
+                  "lng" : -21.8568245302915
+               }
+            }
+         },
+         "place_id" : "ChIJW3PNoZF01kgRF-V-wA9vq5Y",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "63",
+               "short_name" : "63",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skipasund",
+               "short_name" : "Skipasund",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Háaleiti",
+               "short_name" : "Háaleiti",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipasund 63, Reykjavík, Iceland",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.13885499999999,
+               "lng" : -21.855551
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1402039802915,
+                  "lng" : -21.8542020197085
+               },
+               "southwest" : {
+                  "lat" : 64.13750601970848,
+                  "lng" : -21.8568999802915
+               }
+            }
+         },
+         "place_id" : "ChIJAYI3oJF01kgRp-GQPng5O9M",
+         "plus_code" : {
+            "compound_code" : "44QV+GQ Reykjavík, Iceland",
+            "global_code" : "99PW44QV+GQ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skipasund",
+               "short_name" : "Skipasund",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipasund 66, Reykjavík, Iceland",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.1389319,
+               "lng" : -21.8560846
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.14028088029151,
+                  "lng" : -21.8547356197085
+               },
+               "southwest" : {
+                  "lat" : 64.13758291970851,
+                  "lng" : -21.8574335802915
+               }
+            }
+         },
+         "place_id" : "EiFTa2lwYXN1bmQgNjYsIFJleWtqYXbDrWssIEljZWxhbmQiGhIYChQKEgm9mzx1kXTWSBHqa24FZgG65hBC",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "44QV+JJ",
+               "short_name" : "44QV+JJ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "44QV+JJ Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.13912499999999,
+                  "lng" : -21.855875
+               },
+               "southwest" : {
+                  "lat" : 64.139,
+                  "lng" : -21.856
+               }
+            },
+            "location" : {
+               "lat" : 64.13902899999999,
+               "lng" : -21.855955
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1404114802915,
+                  "lng" : -21.8545885197085
+               },
+               "southwest" : {
+                  "lat" : 64.1377135197085,
+                  "lng" : -21.8572864802915
+               }
+            }
+         },
+         "place_id" : "GhIJhAzk2eUIUEARAdnr3R_bNcA",
+         "plus_code" : {
+            "compound_code" : "44QV+JJ Reykjavík, Iceland",
+            "global_code" : "99PW44QV+JJ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "58-76",
+               "short_name" : "58-76",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skipasund",
+               "short_name" : "Skipasund",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skipasund 58-76, Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.1397813,
+                  "lng" : -21.8551487
+               },
+               "southwest" : {
+                  "lat" : 64.1380029,
+                  "lng" : -21.8569404
+               }
+            },
+            "location" : {
+               "lat" : 64.13889209999999,
+               "lng" : -21.8560445
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1402410802915,
+                  "lng" : -21.85469556970849
+               },
+               "southwest" : {
+                  "lat" : 64.1375431197085,
+                  "lng" : -21.8573935302915
+               }
+            }
+         },
+         "place_id" : "ChIJvZs8dZF01kgR6mtuBWYBuuY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sund",
+               "short_name" : "Sund",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Laugardalur",
+               "short_name" : "Laugardalur",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sund, Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.1455835,
+                  "lng" : -21.8498756
+               },
+               "southwest" : {
+                  "lat" : 64.1334535,
+                  "lng" : -21.8613337
+               }
+            },
+            "location" : {
+               "lat" : 64.1420092,
+               "lng" : -21.8558622
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1455835,
+                  "lng" : -21.8498756
+               },
+               "southwest" : {
+                  "lat" : 64.1334535,
+                  "lng" : -21.8613337
+               }
+            }
+         },
+         "place_id" : "ChIJZSN1a5J01kgRSPcLupMrPBI",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Háaleiti",
+               "short_name" : "Háaleiti",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Háaleiti, Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.14097889999999,
+                  "lng" : -21.8431
+               },
+               "southwest" : {
+                  "lat" : 64.11334719999999,
+                  "lng" : -21.8999576
+               }
+            },
+            "location" : {
+               "lat" : 64.12693539999999,
+               "lng" : -21.8822697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.14097889999999,
+                  "lng" : -21.8431
+               },
+               "southwest" : {
+                  "lat" : 64.11334719999999,
+                  "lng" : -21.8999576
+               }
+            }
+         },
+         "place_id" : "ChIJC8v-E6R01kgR46uolc_idX0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.1771669,
+                  "lng" : -21.7183826
+               },
+               "southwest" : {
+                  "lat" : 64.0898138,
+                  "lng" : -21.9865021
+               }
+            },
+            "location" : {
+               "lat" : 64.146582,
+               "lng" : -21.9426354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.1771669,
+                  "lng" : -21.7183826
+               },
+               "southwest" : {
+                  "lat" : 64.0898138,
+                  "lng" : -21.9865021
+               }
+            }
+         },
+         "place_id" : "ChIJw-3c7rl01kgRcWDSMKIskew",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capital Region",
+               "short_name" : "Capital Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Capital Region, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.386078,
+                  "lng" : -21.133402
+               },
+               "southwest" : {
+                  "lat" : 63.82967000000001,
+                  "lng" : -22.1301709
+               }
+            },
+            "location" : {
+               "lat" : 64.1846369,
+               "lng" : -21.6131425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.386078,
+                  "lng" : -21.133402
+               },
+               "southwest" : {
+                  "lat" : 63.82967000000001,
+                  "lng" : -22.1301709
+               }
+            }
+         },
+         "place_id" : "ChIJc3giTtJ11kgRVMM-zEDpM9E",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 67.2466,
+                  "lng" : -12.2388001
+               },
+               "southwest" : {
+                  "lat" : 62.4819,
+                  "lng" : -26.2572999
+               }
+            },
+            "location" : {
+               "lat" : 64.96305099999999,
+               "lng" : -19.020835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 67.2466,
+                  "lng" : -12.2388001
+               },
+               "southwest" : {
+                  "lat" : 62.4819,
+                  "lng" : -26.2572999
+               }
+            }
+         },
+         "place_id" : "ChIJQ2Dro1Ir0kgRmkXB5TQEim8",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

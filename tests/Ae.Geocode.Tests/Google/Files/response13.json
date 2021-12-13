@@ -1,0 +1,548 @@
+{
+   "plus_code" : {
+      "compound_code" : "93F8+54F Retford, UK",
+      "global_code" : "9C5X93F8+54F"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "93F8+54",
+               "short_name" : "93F8+54",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "93F8+54 Retford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.373,
+                  "lng" : -0.9346249999999998
+               },
+               "southwest" : {
+                  "lat" : 53.372875,
+                  "lng" : -0.93475
+               }
+            },
+            "location" : {
+               "lat" : 53.372927,
+               "lng" : -0.9346970000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3742864802915,
+                  "lng" : -0.9333385197084979
+               },
+               "southwest" : {
+                  "lat" : 53.3715885197085,
+                  "lng" : -0.936036480291502
+               }
+            }
+         },
+         "place_id" : "GhIJz2VqEryvSkARAmvVrgnp7b8",
+         "plus_code" : {
+            "compound_code" : "93F8+54 Retford, UK",
+            "global_code" : "9C5X93F8+54"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DN22 8RU",
+               "short_name" : "DN22 8RU",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Retford DN22 8RU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3773147,
+                  "lng" : -0.9362168999999999
+               },
+               "southwest" : {
+                  "lat" : 53.3716257,
+                  "lng" : -0.9395929000000001
+               }
+            },
+            "location" : {
+               "lat" : 53.3738354,
+               "lng" : -0.9371005999999998
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3773147,
+                  "lng" : -0.9362168999999999
+               },
+               "southwest" : {
+                  "lat" : 53.3716257,
+                  "lng" : -0.9395929000000001
+               }
+            }
+         },
+         "place_id" : "ChIJY08GnsKpeUgRkOxDD00fNHw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DN10 5BF",
+               "short_name" : "DN10 5BF",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Retford DN10 5BF, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.38927340000001,
+                  "lng" : -0.9252714
+               },
+               "southwest" : {
+                  "lat" : 53.3631498,
+                  "lng" : -0.9510097
+               }
+            },
+            "location" : {
+               "lat" : 53.3788522,
+               "lng" : -0.9428585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.38927340000001,
+                  "lng" : -0.9252714
+               },
+               "southwest" : {
+                  "lat" : 53.3631498,
+                  "lng" : -0.9510097
+               }
+            }
+         },
+         "place_id" : "ChIJFfGK2cKpeUgRtCk8iyVvQJ8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lound",
+               "short_name" : "Lound",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lound, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3868784,
+                  "lng" : -0.9266492
+               },
+               "southwest" : {
+                  "lat" : 53.3586903,
+                  "lng" : -0.9959394
+               }
+            },
+            "location" : {
+               "lat" : 53.3705959,
+               "lng" : -0.9557932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3868784,
+                  "lng" : -0.9266492
+               },
+               "southwest" : {
+                  "lat" : 53.3586903,
+                  "lng" : -0.9959394
+               }
+            }
+         },
+         "place_id" : "ChIJlcW6WzOoeUgREH1Z55gapPo",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Retford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3947611,
+                  "lng" : -0.7478374
+               },
+               "southwest" : {
+                  "lat" : 53.2383678,
+                  "lng" : -1.0758535
+               }
+            },
+            "location" : {
+               "lat" : 53.3443447,
+               "lng" : -0.8592358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3947611,
+                  "lng" : -0.7478374
+               },
+               "southwest" : {
+                  "lat" : 53.2383678,
+                  "lng" : -1.0758535
+               }
+            }
+         },
+         "place_id" : "ChIJiRaY0VipeUgReasGq3AbO1s",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "DN22",
+               "short_name" : "DN22",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Retford",
+               "short_name" : "Retford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Retford DN22, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3981904,
+                  "lng" : -0.7455878
+               },
+               "southwest" : {
+                  "lat" : 53.2376594,
+                  "lng" : -1.0734642
+               }
+            },
+            "location" : {
+               "lat" : 53.32258419999999,
+               "lng" : -0.8840222999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3981904,
+                  "lng" : -0.7455878
+               },
+               "southwest" : {
+                  "lat" : 53.2376594,
+                  "lng" : -1.0734642
+               }
+            }
+         },
+         "place_id" : "ChIJ-8HHURVTeEgRA2s_X3j_bm0",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bassetlaw District",
+               "short_name" : "Bassetlaw District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bassetlaw District, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.502478,
+                  "lng" : -0.747138
+               },
+               "southwest" : {
+                  "lat" : 53.1963767,
+                  "lng" : -1.2130281
+               }
+            },
+            "location" : {
+               "lat" : 53.3186178,
+               "lng" : -0.9398502999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.502478,
+                  "lng" : -0.747138
+               },
+               "southwest" : {
+                  "lat" : 53.1963767,
+                  "lng" : -1.2130281
+               }
+            }
+         },
+         "place_id" : "ChIJa29y-luoeUgRYOfCu6gcDgQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.502478,
+                  "lng" : -0.6662629999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7893914,
+                  "lng" : -1.3445929
+               }
+            },
+            "location" : {
+               "lat" : 53.100319,
+               "lng" : -0.9936305999999998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.502478,
+                  "lng" : -0.6662629999999999
+               },
+               "southwest" : {
+                  "lat" : 52.7893914,
+                  "lng" : -1.3445929
+               }
+            }
+         },
+         "place_id" : "ChIJzXkHOdIyeEgREinv5XDJr1Q",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "England, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            },
+            "location" : {
+               "lat" : 52.3555177,
+               "lng" : -1.1743197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81165979999999,
+                  "lng" : 1.7629159
+               },
+               "southwest" : {
+                  "lat" : 49.8647411,
+                  "lng" : -6.4185458
+               }
+            }
+         },
+         "place_id" : "ChIJ39UebIqp0EcRqI4tMyWV4fQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

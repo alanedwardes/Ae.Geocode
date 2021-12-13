@@ -1,0 +1,668 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q7MG+3V7 Narberth, UK",
+      "global_code" : "9C3QQ7MG+3V7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crossroads",
+               "short_name" : "Crossroads",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA67 8RW",
+               "short_name" : "SA67 8RW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crossroads, Narberth SA67 8RW, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.782488,
+               "lng" : -4.722741
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7838369802915,
+                  "lng" : -4.721392019708498
+               },
+               "southwest" : {
+                  "lat" : 51.7811390197085,
+                  "lng" : -4.724089980291502
+               }
+            }
+         },
+         "place_id" : "ChIJx5lavvPSbkgRW2ighFRDN-g",
+         "plus_code" : {
+            "compound_code" : "Q7JG+XW Narberth, UK",
+            "global_code" : "9C3QQ7JG+XW"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA67 8RR",
+               "short_name" : "SA67 8RR",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "maes y ffynnon cold blow, Narberth SA67 8RR, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.78248790000001,
+               "lng" : -4.7230541
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.78383688029151,
+                  "lng" : -4.721705119708497
+               },
+               "southwest" : {
+                  "lat" : 51.78113891970851,
+                  "lng" : -4.724403080291502
+               }
+            }
+         },
+         "place_id" : "ChIJm2ghufPSbkgRawT5-cJc5zU",
+         "plus_code" : {
+            "compound_code" : "Q7JG+XQ Narberth, UK",
+            "global_code" : "9C3QQ7JG+XQ"
+         },
+         "types" : [ "establishment", "general_contractor", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Windsor Gardens",
+               "short_name" : "Windsor Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cold Blow",
+               "short_name" : "Cold Blow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA67 8QQ",
+               "short_name" : "SA67 8QQ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Windsor Gardens, Cold Blow, Narberth SA67 8QQ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7828196,
+               "lng" : -4.7217247
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7841685802915,
+                  "lng" : -4.720375719708499
+               },
+               "southwest" : {
+                  "lat" : 51.7814706197085,
+                  "lng" : -4.723073680291503
+               }
+            }
+         },
+         "place_id" : "ChIJe_-_8vPSbkgR9c_OJg43FAg",
+         "plus_code" : {
+            "compound_code" : "Q7MH+48 Narberth, UK",
+            "global_code" : "9C3QQ7MH+48"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Q7MG+3V",
+               "short_name" : "Q7MG+3V",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Q7MG+3V Narberth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.78275,
+                  "lng" : -4.72275
+               },
+               "southwest" : {
+                  "lat" : 51.782625,
+                  "lng" : -4.722875
+               }
+            },
+            "location" : {
+               "lat" : 51.782667,
+               "lng" : -4.722841
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7840364802915,
+                  "lng" : -4.721463519708498
+               },
+               "southwest" : {
+                  "lat" : 51.78133851970851,
+                  "lng" : -4.724161480291503
+               }
+            }
+         },
+         "place_id" : "GhIJR1Sobi7kSUAR7dRcbjDkEsA",
+         "plus_code" : {
+            "compound_code" : "Q7MG+3V Narberth, UK",
+            "global_code" : "9C3QQ7MG+3V"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "B4314",
+               "short_name" : "B4314",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SA67 8RW",
+               "short_name" : "SA67 8RW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "B4314, Narberth SA67 8RW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7825904,
+                  "lng" : -4.7223641
+               },
+               "southwest" : {
+                  "lat" : 51.7824631,
+                  "lng" : -4.722784499999999
+               }
+            },
+            "location" : {
+               "lat" : 51.7825268,
+               "lng" : -4.7225743
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.78387573029149,
+                  "lng" : -4.721225319708498
+               },
+               "southwest" : {
+                  "lat" : 51.7811777697085,
+                  "lng" : -4.723923280291503
+               }
+            }
+         },
+         "place_id" : "ChIJmSB-lfPSbkgR4MUzHDJU-6s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SA67 8RW",
+               "short_name" : "SA67 8RW",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cold Blow",
+               "short_name" : "Cold Blow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cold Blow, Narberth SA67 8RW, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.78339279999999,
+                  "lng" : -4.720349300000001
+               },
+               "southwest" : {
+                  "lat" : 51.7783892,
+                  "lng" : -4.723338800000001
+               }
+            },
+            "location" : {
+               "lat" : 51.782445,
+               "lng" : -4.7220791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.78339279999999,
+                  "lng" : -4.720349300000001
+               },
+               "southwest" : {
+                  "lat" : 51.7783892,
+                  "lng" : -4.723338800000001
+               }
+            }
+         },
+         "place_id" : "ChIJXXL9k_PSbkgR5boAmOoA5f0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Templeton",
+               "short_name" : "Templeton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Templeton, Narberth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.78891960000001,
+                  "lng" : -4.7084654
+               },
+               "southwest" : {
+                  "lat" : 51.7568901,
+                  "lng" : -4.7912388
+               }
+            },
+            "location" : {
+               "lat" : 51.7725357,
+               "lng" : -4.7452391
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.78891960000001,
+                  "lng" : -4.7084654
+               },
+               "southwest" : {
+                  "lat" : 51.7568901,
+                  "lng" : -4.7912388
+               }
+            }
+         },
+         "place_id" : "ChIJ41bKnJTSbkgRbF5L0kpTJUg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narberth, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.84730099999999,
+                  "lng" : -4.608035699999999
+               },
+               "southwest" : {
+                  "lat" : 51.7250251,
+                  "lng" : -4.8946098
+               }
+            },
+            "location" : {
+               "lat" : 51.78803389999999,
+               "lng" : -4.754385099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.84730099999999,
+                  "lng" : -4.608035699999999
+               },
+               "southwest" : {
+                  "lat" : 51.7250251,
+                  "lng" : -4.8946098
+               }
+            }
+         },
+         "place_id" : "ChIJVYC1BMXSbkgRx-NimOMj1vM",
+         "types" : [ "postal_town" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "SA67",
+               "short_name" : "SA67",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Narberth",
+               "short_name" : "Narberth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narberth SA67, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8438715,
+                  "lng" : -4.6128583
+               },
+               "southwest" : {
+                  "lat" : 51.72483459999999,
+                  "lng" : -4.8930183
+               }
+            },
+            "location" : {
+               "lat" : 51.78803389999999,
+               "lng" : -4.754385099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8438715,
+                  "lng" : -4.6128583
+               },
+               "southwest" : {
+                  "lat" : 51.72483459999999,
+                  "lng" : -4.8930183
+               }
+            }
+         },
+         "place_id" : "ChIJ6daURlgraUgRC-asEAAD9ek",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pembrokeshire",
+               "short_name" : "Pembrokeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pembrokeshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1179032,
+                  "lng" : -4.485517499999999
+               },
+               "southwest" : {
+                  "lat" : 51.59597830000001,
+                  "lng" : -5.6703024
+               }
+            },
+            "location" : {
+               "lat" : 51.67407799999999,
+               "lng" : -4.9088785
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1179032,
+                  "lng" : -4.485517499999999
+               },
+               "southwest" : {
+                  "lat" : 51.59597830000001,
+                  "lng" : -5.6703024
+               }
+            }
+         },
+         "place_id" : "ChIJ58ydyqDQaEgRROFYyT8xOlk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wales, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            },
+            "location" : {
+               "lat" : 52.1306607,
+               "lng" : -3.7837117
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4356935,
+                  "lng" : -2.6497994
+               },
+               "southwest" : {
+                  "lat" : 51.3749686,
+                  "lng" : -5.6700973
+               }
+            }
+         },
+         "place_id" : "ChIJ7Q8cbLY0ZEgRouilirxxux4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United Kingdom",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            },
+            "location" : {
+               "lat" : 55.378051,
+               "lng" : -3.435973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.91569999999999,
+                  "lng" : 33.9165549
+               },
+               "southwest" : {
+                  "lat" : 34.5614,
+                  "lng" : -8.8988999
+               }
+            }
+         },
+         "place_id" : "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

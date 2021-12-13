@@ -1,0 +1,231 @@
+{
+   "plus_code" : {
+      "global_code" : "9R8XC77V+HX8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9R8XC77V+HX",
+               "short_name" : "9R8XC77V+HX",
+               "types" : [ "plus_code" ]
+            }
+         ],
+         "formatted_address" : "9R8XC77V+HX",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.414,
+                  "lng" : 159.295
+               },
+               "southwest" : {
+                  "lat" : 56.413875,
+                  "lng" : 159.294875
+               }
+            },
+            "location" : {
+               "lat" : 56.413901,
+               "lng" : 159.294959
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4152864802915,
+                  "lng" : 159.2962864802915
+               },
+               "southwest" : {
+                  "lat" : 56.4125885197085,
+                  "lng" : 159.2935885197085
+               }
+            }
+         },
+         "place_id" : "GhIJDmQ9tfo0TEARJlXbTXDpY0A",
+         "plus_code" : {
+            "global_code" : "9R8XC77V+HX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "684355",
+               "short_name" : "684355",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kamchatka Krai",
+               "short_name" : "Kamchatka Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamchatka Krai, Russia, 684355",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.998051,
+                  "lng" : 159.4230392
+               },
+               "southwest" : {
+                  "lat" : 55.58740599999999,
+                  "lng" : 158.4481399
+               }
+            },
+            "location" : {
+               "lat" : 56.3023879,
+               "lng" : 158.9818163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.998051,
+                  "lng" : 159.4230392
+               },
+               "southwest" : {
+                  "lat" : 55.58740599999999,
+                  "lng" : 158.4481399
+               }
+            }
+         },
+         "place_id" : "ChIJu4V-NYhLBVkRLH_0PYeScgc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bystrinsky District",
+               "short_name" : "Bystrinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kamchatka Krai",
+               "short_name" : "Kamchatka Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bystrinsky District, Kamchatka Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.823474,
+                  "lng" : 159.6493948
+               },
+               "southwest" : {
+                  "lat" : 54.692367,
+                  "lng" : 156.1535869
+               }
+            },
+            "location" : {
+               "lat" : 55.4631097,
+               "lng" : 157.984285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.823474,
+                  "lng" : 159.6493948
+               },
+               "southwest" : {
+                  "lat" : 54.692367,
+                  "lng" : 156.1535869
+               }
+            }
+         },
+         "place_id" : "ChIJq0iYjMZWGlkRmLgrQ00JQqc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamchatka Krai",
+               "short_name" : "Kamchatka Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamchatka Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.9386461,
+                  "lng" : 174.519023
+               },
+               "southwest" : {
+                  "lat" : 50.864,
+                  "lng" : 155.545701
+               }
+            },
+            "location" : {
+               "lat" : 61.43439809999999,
+               "lng" : 166.7884131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.9386461,
+                  "lng" : 174.519023
+               },
+               "southwest" : {
+                  "lat" : 50.864,
+                  "lng" : 155.545701
+               }
+            }
+         },
+         "place_id" : "ChIJYRQHDUx6AlkRj3uM6H_nPBI",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            },
+            "location" : {
+               "lat" : 61.52401,
+               "lng" : 105.318756
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 82.1673907,
+                  "lng" : -168.97788
+               },
+               "southwest" : {
+                  "lat" : 41.185353,
+                  "lng" : 19.6160999
+               }
+            }
+         },
+         "place_id" : "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

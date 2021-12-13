@@ -1,0 +1,365 @@
+{
+   "plus_code" : {
+      "compound_code" : "994M+HGV Belcin, Bulgaria",
+      "global_code" : "8GJ5994M+HGV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "62",
+               "short_name" : "62",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "улица Христо Ботев",
+               "short_name" : "ул. Христо Ботев",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belcin",
+               "short_name" : "Belcin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sofiyska oblast",
+               "short_name" : "Sofiyska oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2025",
+               "short_name" : "2025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ул. Христо Ботев 62, 2025 Belcin, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.35675639999999,
+               "lng" : 23.3837644
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.35810538029149,
+                  "lng" : 23.3851133802915
+               },
+               "southwest" : {
+                  "lat" : 42.35540741970849,
+                  "lng" : 23.3824154197085
+               }
+            }
+         },
+         "place_id" : "ChIJq4ypSWAnqxQRGPXOf0S53NQ",
+         "plus_code" : {
+            "compound_code" : "994M+PG Belcin, Bulgaria",
+            "global_code" : "8GJ5994M+PG"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "994M+HG",
+               "short_name" : "994M+HG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Belcin",
+               "short_name" : "Belcin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sofia Province",
+               "short_name" : "Sofia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2025",
+               "short_name" : "2025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "994M+HG Belcin, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3565,
+                  "lng" : 23.383875
+               },
+               "southwest" : {
+                  "lat" : 42.356375,
+                  "lng" : 23.38375
+               }
+            },
+            "location" : {
+               "lat" : 42.356497,
+               "lng" : 23.383783
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.35778648029149,
+                  "lng" : 23.3851614802915
+               },
+               "southwest" : {
+                  "lat" : 42.3550885197085,
+                  "lng" : 23.3824635197085
+               }
+            }
+         },
+         "place_id" : "GhIJoQ-WsaEtRUARwcJJmj9iN0A",
+         "plus_code" : {
+            "compound_code" : "994M+HG Belcin, Bulgaria",
+            "global_code" : "8GJ5994M+HG"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Пat bez ime",
+               "short_name" : "Пat bez ime",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sofiyska oblast",
+               "short_name" : "Sofiyska oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2025",
+               "short_name" : "2025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Пat bez ime, 2025, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3569438,
+                  "lng" : 23.3837663
+               },
+               "southwest" : {
+                  "lat" : 42.3548538,
+                  "lng" : 23.3826819
+               }
+            },
+            "location" : {
+               "lat" : 42.35600530000001,
+               "lng" : 23.3833713
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.35724778029149,
+                  "lng" : 23.3845730802915
+               },
+               "southwest" : {
+                  "lat" : 42.3545498197085,
+                  "lng" : 23.3818751197085
+               }
+            }
+         },
+         "place_id" : "ChIJ9bBbkn0nqxQRJGGuapi9lt0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2025",
+               "short_name" : "2025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sofia Province",
+               "short_name" : "Sofia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2025, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3814168,
+                  "lng" : 23.4303303
+               },
+               "southwest" : {
+                  "lat" : 42.2837343,
+                  "lng" : 23.3261643
+               }
+            },
+            "location" : {
+               "lat" : 42.3551888,
+               "lng" : 23.3704466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3814168,
+                  "lng" : 23.4303303
+               },
+               "southwest" : {
+                  "lat" : 42.2837343,
+                  "lng" : 23.3261643
+               }
+            }
+         },
+         "place_id" : "ChIJCY_24ajYqhQRAB_9N27w8eo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samokov Municipality",
+               "short_name" : "Samokov Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sofia Province",
+               "short_name" : "Sofia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samokov Municipality, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5337405,
+                  "lng" : 23.7422807
+               },
+               "southwest" : {
+                  "lat" : 42.0839656,
+                  "lng" : 23.2184686
+               }
+            },
+            "location" : {
+               "lat" : 42.3369802,
+               "lng" : 23.5528006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5337405,
+                  "lng" : 23.7422807
+               },
+               "southwest" : {
+                  "lat" : 42.0839656,
+                  "lng" : 23.2184686
+               }
+            }
+         },
+         "place_id" : "ChIJw6hQMgIkqxQRFK_aWeWDgvA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sofia Province",
+               "short_name" : "Sofia Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sofia Province, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1997253,
+                  "lng" : 24.4840577
+               },
+               "southwest" : {
+                  "lat" : 42.0839656,
+                  "lng" : 22.7483453
+               }
+            },
+            "location" : {
+               "lat" : 42.67344,
+               "lng" : 23.8334937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1997253,
+                  "lng" : 24.4840577
+               },
+               "southwest" : {
+                  "lat" : 42.0839656,
+                  "lng" : 22.7483453
+               }
+            }
+         },
+         "place_id" : "ChIJMZWM1zN7qkARIE2_aRKgAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2153059,
+                  "lng" : 28.7292001
+               },
+               "southwest" : {
+                  "lat" : 41.2354469,
+                  "lng" : 22.3573446
+               }
+            },
+            "location" : {
+               "lat" : 42.733883,
+               "lng" : 25.48583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2153059,
+                  "lng" : 28.7292001
+               },
+               "southwest" : {
+                  "lat" : 41.2354469,
+                  "lng" : 22.3573446
+               }
+            }
+         },
+         "place_id" : "ChIJifBbyMH-qEAREEy_aRKgAAA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

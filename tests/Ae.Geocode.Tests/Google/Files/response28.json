@@ -1,0 +1,89 @@
+{
+   "plus_code" : {
+      "global_code" : "27WJX2RG+3WH"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "27WJX2RG+3W",
+               "short_name" : "27WJX2RG+3W",
+               "types" : [ "plus_code" ]
+            }
+         ],
+         "formatted_address" : "27WJX2RG+3W",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -71.00975,
+                  "lng" : -67.97262499999999
+               },
+               "southwest" : {
+                  "lat" : -71.00987499999999,
+                  "lng" : -67.97274999999999
+               }
+            },
+            "location" : {
+               "lat" : -71.009811,
+               "lng" : -67.972639
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -71.00846351970849,
+                  "lng" : -67.9713385197085
+               },
+               "southwest" : {
+                  "lat" : -71.01116148029151,
+                  "lng" : -67.9740364802915
+               }
+            }
+         },
+         "place_id" : "GhIJBwlRvqDAUcARG_Sltz_-UMA",
+         "plus_code" : {
+            "global_code" : "27WJX2RG+3W"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antarctica",
+               "short_name" : "AQ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antarctica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -60.1086999,
+                  "lng" : 180
+               },
+               "southwest" : {
+                  "lat" : -90,
+                  "lng" : -180
+               }
+            },
+            "location" : {
+               "lat" : -75.250973,
+               "lng" : -0.07138899999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -60.1086999,
+                  "lng" : 180
+               },
+               "southwest" : {
+                  "lat" : -90,
+                  "lng" : -180
+               }
+            }
+         },
+         "place_id" : "ChIJS3WQM3uWuaQRdSAPdB--Um4",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

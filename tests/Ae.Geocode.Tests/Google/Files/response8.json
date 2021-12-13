@@ -1,0 +1,600 @@
+{
+   "plus_code" : {
+      "compound_code" : "CM9V+G4J Sozopol, Bulgaria",
+      "global_code" : "8GJ9CM9V+G4J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "улица „Индустриална“",
+               "short_name" : "ул. „Индустриална“",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sozopol",
+               "short_name" : "Sozopol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ул. „Индустриална“ 5, 8130 Sozopol, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4190741,
+               "lng" : 27.6925127
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.42042308029149,
+                  "lng" : 27.6938616802915
+               },
+               "southwest" : {
+                  "lat" : 42.41772511970849,
+                  "lng" : 27.69116371970849
+               }
+            }
+         },
+         "place_id" : "ChIJh-7jvIvHpkARf-Zjk3f0j3k",
+         "plus_code" : {
+            "compound_code" : "CM9V+J2 Sozopol, Bulgaria",
+            "global_code" : "8GJ9CM9V+J2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "улица „Индустриална“",
+               "short_name" : "ул. „Индустриална“",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sozopol",
+               "short_name" : "Sozopol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ул. „Индустриална“ 5, 8130 Sozopol, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4191137,
+               "lng" : 27.6929148
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.42046268029149,
+                  "lng" : 27.6942637802915
+               },
+               "southwest" : {
+                  "lat" : 42.4177647197085,
+                  "lng" : 27.6915658197085
+               }
+            }
+         },
+         "place_id" : "ChIJJduDpIvHpkARYGgdTipekm0",
+         "plus_code" : {
+            "compound_code" : "CM9V+J5 Sozopol, Bulgaria",
+            "global_code" : "8GJ9CM9V+J5"
+         },
+         "types" : [ "establishment", "night_club", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "CM9V+G4",
+               "short_name" : "CM9V+G4",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Sozopol",
+               "short_name" : "Sozopol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CM9V+G4 Sozopol, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.418875,
+                  "lng" : 27.692875
+               },
+               "southwest" : {
+                  "lat" : 42.41875,
+                  "lng" : 27.69275
+               }
+            },
+            "location" : {
+               "lat" : 42.418829,
+               "lng" : 27.692754
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.42016148029149,
+                  "lng" : 27.6941614802915
+               },
+               "southwest" : {
+                  "lat" : 42.4174635197085,
+                  "lng" : 27.6914635197085
+               }
+            }
+         },
+         "place_id" : "GhIJ5c5MMJw1RUARVSx-U1ixO0A",
+         "plus_code" : {
+            "compound_code" : "CM9V+G4 Sozopol, Bulgaria",
+            "global_code" : "8GJ9CM9V+G4"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ploshtad \"Han Krum\"",
+               "short_name" : "pl. \"Han Krum\"",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tsentar",
+               "short_name" : "Tsentar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "pl. \"Han Krum\" 2, 8130 Tsentar, Burgas, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4191471,
+               "lng" : 27.6935027
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4204960802915,
+                  "lng" : 27.6948516802915
+               },
+               "southwest" : {
+                  "lat" : 42.4177981197085,
+                  "lng" : 27.6921537197085
+               }
+            }
+         },
+         "place_id" : "EjBwbC4gIkhhbiBLcnVtIiAyLCA4MTMwIFRzZW50YXIsIEJ1cmdhcywgQnVsZ2FyaWEiGhIYChQKEgm5_6ini8emQBE-ZF-S2QthphAC",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ulitsa \"Industrialna\"",
+               "short_name" : "ul. \"Industrialna\"",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sozopol",
+               "short_name" : "Sozopol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ul. \"Industrialna\" 5, 8130 Sozopol, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4193858,
+                  "lng" : 27.6928706
+               },
+               "southwest" : {
+                  "lat" : 42.4189848,
+                  "lng" : 27.691229
+               }
+            },
+            "location" : {
+               "lat" : 42.41899850000001,
+               "lng" : 27.6921229
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4205342802915,
+                  "lng" : 27.6933987802915
+               },
+               "southwest" : {
+                  "lat" : 42.4178363197085,
+                  "lng" : 27.6907008197085
+               }
+            }
+         },
+         "place_id" : "ChIJzXCqv4vHpkARhmEQ2WH9Cc8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tsentar",
+               "short_name" : "Tsentar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8130 Tsentar, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4266838,
+                  "lng" : 27.7041647
+               },
+               "southwest" : {
+                  "lat" : 42.4098953,
+                  "lng" : 27.687597
+               }
+            },
+            "location" : {
+               "lat" : 42.4156865,
+               "lng" : 27.6957878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4266838,
+                  "lng" : 27.7041647
+               },
+               "southwest" : {
+                  "lat" : 42.4098953,
+                  "lng" : 27.687597
+               }
+            }
+         },
+         "place_id" : "ChIJiZ8oN4vHpkARR1dOpl3I7Ok",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sozopol",
+               "short_name" : "Sozopol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8130 Sozopol, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4269338,
+                  "lng" : 27.706569
+               },
+               "southwest" : {
+                  "lat" : 42.40773739999999,
+                  "lng" : 27.6862835
+               }
+            },
+            "location" : {
+               "lat" : 42.4172628,
+               "lng" : 27.6961748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4269338,
+                  "lng" : 27.706569
+               },
+               "southwest" : {
+                  "lat" : 42.40773739999999,
+                  "lng" : 27.6862835
+               }
+            }
+         },
+         "place_id" : "ChIJA-U6V_XHpkARINtGpETYavQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8130",
+               "short_name" : "8130",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "8130, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4269354,
+                  "lng" : 27.7306551
+               },
+               "southwest" : {
+                  "lat" : 42.3131237,
+                  "lng" : 27.6456713
+               }
+            },
+            "location" : {
+               "lat" : 42.3689366,
+               "lng" : 27.6980902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4269354,
+                  "lng" : 27.7306551
+               },
+               "southwest" : {
+                  "lat" : 42.3131237,
+                  "lng" : 27.6456713
+               }
+            }
+         },
+         "place_id" : "ChIJJZO2ppnIpkARIBdjh0lnPK8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sozopol",
+               "short_name" : "Sozopol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sozopol, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4637767,
+                  "lng" : 27.7306551
+               },
+               "southwest" : {
+                  "lat" : 42.1781863,
+                  "lng" : 27.2822876
+               }
+            },
+            "location" : {
+               "lat" : 42.4172305,
+               "lng" : 27.6961742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4637767,
+                  "lng" : 27.7306551
+               },
+               "southwest" : {
+                  "lat" : 42.1781863,
+                  "lng" : 27.2822876
+               }
+            }
+         },
+         "place_id" : "ChIJUboN4arEpkARb8sq2CCZlnY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burgas, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9848614,
+                  "lng" : 28.035258
+               },
+               "southwest" : {
+                  "lat" : 41.90402659999999,
+                  "lng" : 26.5786548
+               }
+            },
+            "location" : {
+               "lat" : 42.5048,
+               "lng" : 27.4626079
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9848614,
+                  "lng" : 28.035258
+               },
+               "southwest" : {
+                  "lat" : 41.90402659999999,
+                  "lng" : 26.5786548
+               }
+            }
+         },
+         "place_id" : "ChIJXzuWWd_tpkARIEy_aRKgAAM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2153059,
+                  "lng" : 28.7292001
+               },
+               "southwest" : {
+                  "lat" : 41.2354469,
+                  "lng" : 22.3573446
+               }
+            },
+            "location" : {
+               "lat" : 42.733883,
+               "lng" : 25.48583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2153059,
+                  "lng" : 28.7292001
+               },
+               "southwest" : {
+                  "lat" : 41.2354469,
+                  "lng" : 22.3573446
+               }
+            }
+         },
+         "place_id" : "ChIJifBbyMH-qEAREEy_aRKgAAA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,370 @@
+{
+   "plus_code" : {
+      "compound_code" : "527J+VGV N'Djamena, Chad",
+      "global_code" : "7F4Q527J+VGV"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "N'Djaména",
+               "short_name" : "N'Djaména",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, N'Djamena, Chad",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.1657554,
+               "lng" : 15.0305299
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.1671043802915,
+                  "lng" : 15.0318788802915
+               },
+               "southwest" : {
+                  "lat" : 12.1644064197085,
+                  "lng" : 15.0291809197085
+               }
+            }
+         },
+         "place_id" : "ChIJm8RV6XjYGxER-OmRxPM3CEw",
+         "plus_code" : {
+            "compound_code" : "528J+86 N'Djamena, Chad",
+            "global_code" : "7F4Q528J+86"
+         },
+         "types" : [ "establishment", "health", "hospital", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "527J+VG",
+               "short_name" : "527J+VG",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "N'Djaména",
+               "short_name" : "N'Djaména",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "527J+VG N'Djamena, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.16475,
+                  "lng" : 15.031375
+               },
+               "southwest" : {
+                  "lat" : 12.164625,
+                  "lng" : 15.03125
+               }
+            },
+            "location" : {
+               "lat" : 12.164736,
+               "lng" : 15.031309
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.1660364802915,
+                  "lng" : 15.0326614802915
+               },
+               "southwest" : {
+                  "lat" : 12.1633385197085,
+                  "lng" : 15.0299635197085
+               }
+            }
+         },
+         "place_id" : "GhIJnfLoRlhUKEAREyS2uwcQLkA",
+         "plus_code" : {
+            "compound_code" : "527J+VG N'Djamena, Chad",
+            "global_code" : "7F4Q527J+VG"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Route sans nom",
+               "short_name" : "Route sans nom",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "N'Djaména",
+               "short_name" : "N'Djaména",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Route sans nom, N'Djamena, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.1649128,
+                  "lng" : 15.0314754
+               },
+               "southwest" : {
+                  "lat" : 12.1645098,
+                  "lng" : 15.0310987
+               }
+            },
+            "location" : {
+               "lat" : 12.1647113,
+               "lng" : 15.0312871
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.1660602802915,
+                  "lng" : 15.0326360302915
+               },
+               "southwest" : {
+                  "lat" : 12.1633623197085,
+                  "lng" : 15.0299380697085
+               }
+            }
+         },
+         "place_id" : "ChIJh-IDunjYGxERMvMvtXuR0og",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "N'Djaména",
+               "short_name" : "N'Djaména",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "N'Djamena, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.1801019,
+                  "lng" : 15.1484305
+               },
+               "southwest" : {
+                  "lat" : 12.0603346,
+                  "lng" : 14.9664874
+               }
+            },
+            "location" : {
+               "lat" : 12.1348457,
+               "lng" : 15.0557415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.1801019,
+                  "lng" : 15.1484305
+               },
+               "southwest" : {
+                  "lat" : 12.0603346,
+                  "lng" : 14.9664874
+               }
+            }
+         },
+         "place_id" : "ChIJT_f8GM1jGRERO6rSdizpo7g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "N'Djaména",
+               "short_name" : "N'Djaména",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "N'Djamena, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2172679,
+                  "lng" : 15.178277
+               },
+               "southwest" : {
+                  "lat" : 11.9922701,
+                  "lng" : 14.884587
+               }
+            },
+            "location" : {
+               "lat" : 12.1348457,
+               "lng" : 15.0557415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2172679,
+                  "lng" : 15.178277
+               },
+               "southwest" : {
+                  "lat" : 11.9922701,
+                  "lng" : 14.884587
+               }
+            }
+         },
+         "place_id" : "ChIJZcHfnTpiGRERpKot3_Nk6qA",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "N'Djaména",
+               "short_name" : "N'Djaména",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "N'Djamena",
+               "short_name" : "N'Djamena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "N'Djaména, Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2172679,
+                  "lng" : 15.178277
+               },
+               "southwest" : {
+                  "lat" : 11.9922701,
+                  "lng" : 14.884587
+               }
+            },
+            "location" : {
+               "lat" : 12.1348457,
+               "lng" : 15.0557415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2172679,
+                  "lng" : 15.178277
+               },
+               "southwest" : {
+                  "lat" : 11.9922701,
+                  "lng" : 14.884587
+               }
+            }
+         },
+         "place_id" : "ChIJbyfOBP1hGRERnx7MAbyl8-4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chad",
+               "short_name" : "TD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chad",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.449228,
+                  "lng" : 24.0000011
+               },
+               "southwest" : {
+                  "lat" : 7.442975,
+                  "lng" : 13.4699999
+               }
+            },
+            "location" : {
+               "lat" : 15.454166,
+               "lng" : 18.732207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.449228,
+                  "lng" : 24.0000011
+               },
+               "southwest" : {
+                  "lat" : 7.442975,
+                  "lng" : 13.4699999
+               }
+            }
+         },
+         "place_id" : "ChIJYXNnvXg55xARnIDAzluDYDs",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

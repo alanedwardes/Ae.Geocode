@@ -1,0 +1,50 @@
+{
+   "plus_code" : {
+      "global_code" : "78RWP67G+MVM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "78RWP67G+MV",
+               "short_name" : "78RWP67G+MV",
+               "types" : [ "plus_code" ]
+            }
+         ],
+         "formatted_address" : "78RWP67G+MV",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.71425,
+                  "lng" : -41.77274999999999
+               },
+               "southwest" : {
+                  "lat" : 26.714125,
+                  "lng" : -41.772875
+               }
+            },
+            "location" : {
+               "lat" : 26.714219,
+               "lng" : -41.772814
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7155364802915,
+                  "lng" : -41.7714635197085
+               },
+               "southwest" : {
+                  "lat" : 26.71283851970849,
+                  "lng" : -41.7741614802915
+               }
+            }
+         },
+         "place_id" : "GhIJjS5vDte2OkARCvKzkeviRMA",
+         "plus_code" : {
+            "global_code" : "78RWP67G+MV"
+         },
+         "types" : [ "plus_code" ]
+      }
+   ],
+   "status" : "OK"
+}
