@@ -1,50 +1,452 @@
 {
-   "plus_code" : {
-      "global_code" : "78RWP67G+MVM"
-   },
-   "results" : [
-      {
-         "address_components" : [
-            {
-               "long_name" : "78RWP67G+MV",
-               "short_name" : "78RWP67G+MV",
-               "types" : [ "plus_code" ]
-            }
-         ],
-         "formatted_address" : "78RWP67G+MV",
-         "geometry" : {
-            "bounds" : {
-               "northeast" : {
-                  "lat" : 26.71425,
-                  "lng" : -41.77274999999999
-               },
-               "southwest" : {
-                  "lat" : 26.714125,
-                  "lng" : -41.772875
-               }
-            },
-            "location" : {
-               "lat" : 26.714219,
-               "lng" : -41.772814
-            },
-            "location_type" : "GEOMETRIC_CENTER",
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.7155364802915,
-                  "lng" : -41.7714635197085
-               },
-               "southwest" : {
-                  "lat" : 26.71283851970849,
-                  "lng" : -41.7741614802915
-               }
-            }
-         },
-         "place_id" : "GhIJjS5vDte2OkARCvKzkeviRMA",
-         "plus_code" : {
-            "global_code" : "78RWP67G+MV"
-         },
-         "types" : [ "plus_code" ]
-      }
-   ],
-   "status" : "OK"
+	"plus_code": {
+		"compound_code": "PF4J+RV5 Łopienno, Poland",
+		"global_code": "9F4VPF4J+RV5"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "PF4J+RV",
+					"short_name": "PF4J+RV",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Łopienno",
+					"short_name": "Łopienno",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Powiat gnieźnieński",
+					"short_name": "Powiat gnieźnieński",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Wielkopolskie",
+					"short_name": "Wielkopolskie",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "62",
+					"short_name": "62",
+					"types": [
+						"postal_code",
+						"postal_code_prefix"
+					]
+				}
+			],
+			"formatted_address": "PF4J+RV Łopienno, Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 52.707125,
+						"lng": 17.48225
+					},
+					"southwest": {
+						"lat": 52.707,
+						"lng": 17.482125
+					}
+				},
+				"location": {
+					"lat": 52.70701,
+					"lng": 17.482249
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 52.7084114802915,
+						"lng": 17.4835364802915
+					},
+					"southwest": {
+						"lat": 52.7057135197085,
+						"lng": 17.4808385197085
+					}
+				}
+			},
+			"place_id": "GhIJ9Pi9TX9aSkARWYejq3R7MUA",
+			"plus_code": {
+				"compound_code": "PF4J+RV Łopienno, Poland",
+				"global_code": "9F4VPF4J+RV"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Droga bez nazwy",
+					"short_name": "Droga bez nazwy",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "62",
+					"short_name": "62",
+					"types": [
+						"postal_code",
+						"postal_code_prefix"
+					]
+				}
+			],
+			"formatted_address": "Droga bez nazwy, Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 52.7082596,
+						"lng": 17.4843177
+					},
+					"southwest": {
+						"lat": 52.7002169,
+						"lng": 17.4839118
+					}
+				},
+				"location": {
+					"lat": 52.70424089999999,
+					"lng": 17.4841874
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 52.7082596,
+						"lng": 17.4854637302915
+					},
+					"southwest": {
+						"lat": 52.7002169,
+						"lng": 17.4827657697085
+					}
+				}
+			},
+			"place_id": "ChIJHS4hxlOBBEcRtDL82K1jq0g",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Gmina Mieleszyn",
+					"short_name": "Gmina Mieleszyn",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Gniezno County",
+					"short_name": "Gniezno County",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Greater Poland Voivodeship",
+					"short_name": "Greater Poland Voivodeship",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "62",
+					"short_name": "62",
+					"types": [
+						"postal_code",
+						"postal_code_prefix"
+					]
+				}
+			],
+			"formatted_address": "Gmina Mieleszyn, Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 52.738752,
+						"lng": 17.6476133
+					},
+					"southwest": {
+						"lat": 52.6078512,
+						"lng": 17.4307238
+					}
+				},
+				"location": {
+					"lat": 52.6686716,
+					"lng": 17.4994661
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 52.738752,
+						"lng": 17.6476133
+					},
+					"southwest": {
+						"lat": 52.6078512,
+						"lng": 17.4307238
+					}
+				}
+			},
+			"place_id": "ChIJdVJmvGGEBEcRZJA8uTWykPo",
+			"types": [
+				"administrative_area_level_3",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Gniezno County",
+					"short_name": "Gniezno County",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Greater Poland Voivodeship",
+					"short_name": "Greater Poland Voivodeship",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "62",
+					"short_name": "62",
+					"types": [
+						"postal_code",
+						"postal_code_prefix"
+					]
+				}
+			],
+			"formatted_address": "Gniezno County, Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 52.738752,
+						"lng": 17.9913559
+					},
+					"southwest": {
+						"lat": 52.3677779,
+						"lng": 17.1505739
+					}
+				},
+				"location": {
+					"lat": 52.5014671,
+					"lng": 17.628832
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 52.738752,
+						"lng": 17.9913559
+					},
+					"southwest": {
+						"lat": 52.3677779,
+						"lng": 17.1505739
+					}
+				}
+			},
+			"place_id": "ChIJWffrIUuQBEcRENUOrTIOAgM",
+			"types": [
+				"administrative_area_level_2",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "88",
+					"short_name": "88",
+					"types": [
+						"postal_code",
+						"postal_code_prefix"
+					]
+				},
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 52.9853382,
+						"lng": 18.8150008
+					},
+					"southwest": {
+						"lat": 52.4733123,
+						"lng": 17.4195052
+					}
+				},
+				"location": {
+					"lat": 52.78376489999999,
+					"lng": 18.0853082
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 52.9853382,
+						"lng": 18.8150008
+					},
+					"southwest": {
+						"lat": 52.4733123,
+						"lng": 17.4195052
+					}
+				}
+			},
+			"place_id": "ChIJ5Sdu5FVYA0cRXXGCAE9khCA",
+			"types": [
+				"postal_code",
+				"postal_code_prefix"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Greater Poland Voivodeship",
+					"short_name": "Greater Poland Voivodeship",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Greater Poland Voivodeship, Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 53.6559175,
+						"lng": 19.1033489
+					},
+					"southwest": {
+						"lat": 51.1037882,
+						"lng": 15.7789648
+					}
+				},
+				"location": {
+					"lat": 52.279986,
+					"lng": 17.3522939
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 53.6559175,
+						"lng": 19.1033489
+					},
+					"southwest": {
+						"lat": 51.1037882,
+						"lng": 15.7789648
+					}
+				}
+			},
+			"place_id": "ChIJRRG3jpPtBEcRUCx0TfnBsbc",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Poland",
+					"short_name": "PL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Poland",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 54.9054761,
+						"lng": 24.1458931
+					},
+					"southwest": {
+						"lat": 49.002025,
+						"lng": 14.1228641
+					}
+				},
+				"location": {
+					"lat": 51.919438,
+					"lng": 19.145136
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 54.9054761,
+						"lng": 24.1458931
+					},
+					"southwest": {
+						"lat": 49.002025,
+						"lng": 14.1228641
+					}
+				}
+			},
+			"place_id": "ChIJuwtkpGSZAEcR6lXMScpzdQk",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
 }
