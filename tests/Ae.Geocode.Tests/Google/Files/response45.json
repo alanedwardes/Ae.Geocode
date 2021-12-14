@@ -1,0 +1,1049 @@
+{
+	"plus_code": {
+		"compound_code": "2F6G+2QQ Kenwyn, Cape Town, South Africa",
+		"global_code": "4FRW2F6G+2QQ"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "78",
+					"short_name": "78",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "3RD Avenue",
+					"short_name": "3RD Ave",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Claremont",
+					"short_name": "Claremont",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "7708",
+					"short_name": "7708",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "78 3RD Ave, Claremont, Cape Town, 7708, South Africa",
+			"geometry": {
+				"location": {
+					"lat": -33.9899028,
+					"lng": 18.4770132
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -33.98855381970849,
+						"lng": 18.4783621802915
+					},
+					"southwest": {
+						"lat": -33.99125178029149,
+						"lng": 18.4756642197085
+					}
+				}
+			},
+			"place_id": "ChIJhd8X7iBDzB0RStqmaxK7Qac",
+			"plus_code": {
+				"compound_code": "2F6G+2R Kenwyn, Cape Town, South Africa",
+				"global_code": "4FRW2F6G+2R"
+			},
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "67",
+					"short_name": "67",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Bell Road",
+					"short_name": "Bell Rd",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Claremont",
+					"short_name": "Claremont",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "7708",
+					"short_name": "7708",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "67 Bell Rd, Claremont, Cape Town, 7708, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.9899028,
+						"lng": 18.4770317
+					},
+					"southwest": {
+						"lat": -33.9900029,
+						"lng": 18.4769284
+					}
+				},
+				"location": {
+					"lat": -33.9899406,
+					"lng": 18.4769626
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -33.98860386970849,
+						"lng": 18.4783290302915
+					},
+					"southwest": {
+						"lat": -33.99130183029149,
+						"lng": 18.4756310697085
+					}
+				}
+			},
+			"place_id": "ChIJx9eM7SBDzB0Ri0a2DyKHvJk",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "91",
+					"short_name": "91",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "3RD Avenue",
+					"short_name": "3RD Ave",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Kenilworth",
+					"short_name": "Kenilworth",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "7708",
+					"short_name": "7708",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "91 3RD Ave, Kenilworth, Cape Town, 7708, South Africa",
+			"geometry": {
+				"location": {
+					"lat": -33.9899216,
+					"lng": 18.4770989
+				},
+				"location_type": "RANGE_INTERPOLATED",
+				"viewport": {
+					"northeast": {
+						"lat": -33.9885726197085,
+						"lng": 18.4784478802915
+					},
+					"southwest": {
+						"lat": -33.9912705802915,
+						"lng": 18.4757499197085
+					}
+				}
+			},
+			"place_id": "EjU5MSAzUkQgQXZlLCBLZW5pbHdvcnRoLCBDYXBlIFRvd24sIDc3MDgsIFNvdXRoIEFmcmljYSIaEhgKFAoSCauh1-4gQ8wdEbhtyYuYN_QHEFs",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "2F6G+2Q",
+					"short_name": "2F6G+2Q",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Kenwyn",
+					"short_name": "Kenwyn",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "2F6G+2Q Kenwyn, Cape Town, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.989875,
+						"lng": 18.477
+					},
+					"southwest": {
+						"lat": -33.99,
+						"lng": 18.476875
+					}
+				},
+				"location": {
+					"lat": -33.989915,
+					"lng": 18.47698
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -33.98858851970851,
+						"lng": 18.4782864802915
+					},
+					"southwest": {
+						"lat": -33.99128648029151,
+						"lng": 18.4755885197085
+					}
+				}
+			},
+			"place_id": "GhIJ8GjjiLX-QMARmNh8XBt6MkA",
+			"plus_code": {
+				"compound_code": "2F6G+2Q Kenwyn, Cape Town, South Africa",
+				"global_code": "4FRW2F6G+2Q"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "89-93",
+					"short_name": "89-93",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "3RD Avenue",
+					"short_name": "3RD Ave",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Kenilworth",
+					"short_name": "Kenilworth",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "7708",
+					"short_name": "7708",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "89-93 3RD Ave, Kenilworth, Cape Town, 7708, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.9897825,
+						"lng": 18.4771
+					},
+					"southwest": {
+						"lat": -33.990089,
+						"lng": 18.477098
+					}
+				},
+				"location": {
+					"lat": -33.9899357,
+					"lng": 18.477099
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -33.9885867697085,
+						"lng": 18.4784479802915
+					},
+					"southwest": {
+						"lat": -33.9912847302915,
+						"lng": 18.4757500197085
+					}
+				}
+			},
+			"place_id": "ChIJq6HX7iBDzB0RuG3Ji5g39Ac",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Harfield Village",
+					"short_name": "Harfield Village",
+					"types": [
+						"neighborhood",
+						"political"
+					]
+				},
+				{
+					"long_name": "Claremont",
+					"short_name": "Claremont",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "7708",
+					"short_name": "7708",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Harfield Village, Claremont, Cape Town, 7708, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.9828871,
+						"lng": 18.4791756
+					},
+					"southwest": {
+						"lat": -33.9949651,
+						"lng": 18.46776
+					}
+				},
+				"location": {
+					"lat": -33.9900189,
+					"lng": 18.4747354
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -33.9828871,
+						"lng": 18.4791756
+					},
+					"southwest": {
+						"lat": -33.9949651,
+						"lng": 18.46776
+					}
+				}
+			},
+			"place_id": "ChIJ0wD4Vt9CzB0Ro4bRYVz8vdM",
+			"types": [
+				"neighborhood",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Claremont",
+					"short_name": "Claremont",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "7735",
+					"short_name": "7735",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Claremont, Cape Town, 7735, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.972332,
+						"lng": 18.4912681
+					},
+					"southwest": {
+						"lat": -33.9955629,
+						"lng": 18.451496
+					}
+				},
+				"location": {
+					"lat": -33.9860035,
+					"lng": 18.4721169
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -33.972332,
+						"lng": 18.4912681
+					},
+					"southwest": {
+						"lat": -33.9955629,
+						"lng": 18.451496
+					}
+				}
+			},
+			"place_id": "ChIJy6eBIMVCzB0RrC7ooJDc-3k",
+			"types": [
+				"political",
+				"sublocality",
+				"sublocality_level_2"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "7735",
+					"short_name": "7735",
+					"types": [
+						"postal_code"
+					]
+				},
+				{
+					"long_name": "Claremont",
+					"short_name": "Claremont",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_2"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Claremont, Cape Town, 7735, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.972332,
+						"lng": 18.4912681
+					},
+					"southwest": {
+						"lat": -33.9955629,
+						"lng": 18.451496
+					}
+				},
+				"location": {
+					"lat": -33.9860035,
+					"lng": 18.4721169
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -33.972332,
+						"lng": 18.4912681
+					},
+					"southwest": {
+						"lat": -33.9955629,
+						"lng": 18.451496
+					}
+				}
+			},
+			"place_id": "ChIJPXKA0NlCzB0RoSmVAnrcNUE",
+			"types": [
+				"postal_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Cape Town, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.47127,
+						"lng": 19.00467
+					},
+					"southwest": {
+						"lat": -34.3598061,
+						"lng": 18.3074488
+					}
+				},
+				"location": {
+					"lat": -33.9248685,
+					"lng": 18.4240553
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -33.47127,
+						"lng": 19.00467
+					},
+					"southwest": {
+						"lat": -34.3598061,
+						"lng": 18.3074488
+					}
+				}
+			},
+			"place_id": "ChIJ1-4miA9QzB0Rh6ooKPzhf2g",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Cape Town, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.47127,
+						"lng": 19.00467
+					},
+					"southwest": {
+						"lat": -34.3598061,
+						"lng": 18.3074488
+					}
+				},
+				"location": {
+					"lat": -33.9142871,
+					"lng": 18.5700636
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -33.47127,
+						"lng": 19.00467
+					},
+					"southwest": {
+						"lat": -34.3598061,
+						"lng": 18.3074488
+					}
+				}
+			},
+			"place_id": "ChIJ1-4miA9QzB0RG1FLHiwldIA",
+			"types": [
+				"administrative_area_level_2",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Cape Town",
+					"short_name": "Cape Town",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Cape Town, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -33.4712699,
+						"lng": 19.00467
+					},
+					"southwest": {
+						"lat": -34.3598059,
+						"lng": 18.307449
+					}
+				},
+				"location": {
+					"lat": -33.9142871,
+					"lng": 18.5700636
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -33.4712699,
+						"lng": 19.00467
+					},
+					"southwest": {
+						"lat": -34.3598059,
+						"lng": 18.307449
+					}
+				}
+			},
+			"place_id": "ChIJ1-4miA9QzB0RmKxM-K4ipM8",
+			"types": [
+				"administrative_area_level_3",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Western Cape",
+					"short_name": "WC",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Western Cape, South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -30.4302599,
+						"lng": 38.2216904
+					},
+					"southwest": {
+						"lat": -47.1313489,
+						"lng": 17.7575637
+					}
+				},
+				"location": {
+					"lat": -33.2277918,
+					"lng": 21.8568586
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -30.4302599,
+						"lng": 38.2216904
+					},
+					"southwest": {
+						"lat": -47.1313489,
+						"lng": 17.7575637
+					}
+				}
+			},
+			"place_id": "ChIJ841peohdzB0Ri6I2IY95juk",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "South Africa",
+					"short_name": "ZA",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "South Africa",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -22.1254239,
+						"lng": 38.2216904
+					},
+					"southwest": {
+						"lat": -47.1313489,
+						"lng": 16.2816999
+					}
+				},
+				"location": {
+					"lat": -30.559482,
+					"lng": 22.937506
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -22.1254239,
+						"lng": 38.2216904
+					},
+					"southwest": {
+						"lat": -47.1313489,
+						"lng": 16.2816999
+					}
+				}
+			},
+			"place_id": "ChIJURLu2YmmNBwRoOikHwxjXeg",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

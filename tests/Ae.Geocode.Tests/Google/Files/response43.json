@@ -1,0 +1,733 @@
+{
+	"plus_code": {
+		"compound_code": "6WF5+FCG Talcahuano, Chile",
+		"global_code": "47M86WF5+FCG"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "6817",
+					"short_name": "6817",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Seis Poniente",
+					"short_name": "Seis Pte.",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepcion",
+					"short_name": "Concepcion",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bío Bío",
+					"short_name": "Bío Bío",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Seis Pte. 6817, Talcahuano, Bío Bío, Chile",
+			"geometry": {
+				"location": {
+					"lat": -36.7763178,
+					"lng": -73.091207
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -36.7749688197085,
+						"lng": -73.08985801970849
+					},
+					"southwest": {
+						"lat": -36.7776667802915,
+						"lng": -73.09255598029151
+					}
+				}
+			},
+			"place_id": "ChIJWxYHsaHKaZYRu1ZlJRFtv-Y",
+			"plus_code": {
+				"compound_code": "6WF5+FG Talcahuano, Chile",
+				"global_code": "47M86WF5+FG"
+			},
+			"types": [
+				"establishment",
+				"point_of_interest"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "6817",
+					"short_name": "6817",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Seis Poniente",
+					"short_name": "Seis Pte.",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepcion",
+					"short_name": "Concepcion",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bío Bío",
+					"short_name": "Bío Bío",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Seis Pte. 6817, Talcahuano, Bío Bío, Chile",
+			"geometry": {
+				"location": {
+					"lat": -36.7763089,
+					"lng": -73.0911752
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -36.7749599197085,
+						"lng": -73.08982621970848
+					},
+					"southwest": {
+						"lat": -36.77765788029149,
+						"lng": -73.09252418029151
+					}
+				}
+			},
+			"place_id": "ChIJZeKnsaHKaZYRg363HFGRz30",
+			"plus_code": {
+				"compound_code": "6WF5+FG Talcahuano, Chile",
+				"global_code": "47M86WF5+FG"
+			},
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "516",
+					"short_name": "516",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Ejército",
+					"short_name": "Ejército",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepcion",
+					"short_name": "Concepcion",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bío Bío",
+					"short_name": "Bío Bío",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Ejército 516, Talcahuano, Bío Bío, Chile",
+			"geometry": {
+				"location": {
+					"lat": -36.7761955,
+					"lng": -73.09141009999999
+				},
+				"location_type": "RANGE_INTERPOLATED",
+				"viewport": {
+					"northeast": {
+						"lat": -36.7748465197085,
+						"lng": -73.09006111970849
+					},
+					"southwest": {
+						"lat": -36.7775444802915,
+						"lng": -73.0927590802915
+					}
+				}
+			},
+			"place_id": "EitFasOpcmNpdG8gNTE2LCBUYWxjYWh1YW5vLCBCw61vIELDrW8sIENoaWxlIhsSGQoUChIJTeWyuqHKaZYRgUKtbnId3G0QhAQ",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "6WF5+FC",
+					"short_name": "6WF5+FC",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepción Province",
+					"short_name": "Concepción Province",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bio Bio",
+					"short_name": "Bio Bio",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "6WF5+FC Talcahuano, Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -36.77625,
+						"lng": -73.091375
+					},
+					"southwest": {
+						"lat": -36.776375,
+						"lng": -73.0915
+					}
+				},
+				"location": {
+					"lat": -36.77631,
+					"lng": -73.09143
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -36.7749635197085,
+						"lng": -73.0900885197085
+					},
+					"southwest": {
+						"lat": -36.7776614802915,
+						"lng": -73.09278648029151
+					}
+				}
+			},
+			"place_id": "GhIJZMdGIF5jQsAR5Pc2_dlFUsA",
+			"plus_code": {
+				"compound_code": "6WF5+FC Talcahuano, Chile",
+				"global_code": "47M86WF5+FC"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Ejército",
+					"short_name": "Ejército",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepcion",
+					"short_name": "Concepcion",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bío Bío",
+					"short_name": "Bío Bío",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Ejército, Talcahuano, Bío Bío, Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -36.7761581,
+						"lng": -73.09131239999999
+					},
+					"southwest": {
+						"lat": -36.776208,
+						"lng": -73.0917032
+					}
+				},
+				"location": {
+					"lat": -36.7761831,
+					"lng": -73.0915078
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -36.7748340697085,
+						"lng": -73.09015881970849
+					},
+					"southwest": {
+						"lat": -36.7775320302915,
+						"lng": -73.0928567802915
+					}
+				}
+			},
+			"place_id": "ChIJTeWyuqHKaZYRgEKtbnId3G0",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepción Province",
+					"short_name": "Concepción Province",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bio Bio",
+					"short_name": "Bio Bio",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Talcahuano, Bio Bio, Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -36.6737991,
+						"lng": -73.0629335
+					},
+					"southwest": {
+						"lat": -36.7872652,
+						"lng": -73.1511194
+					}
+				},
+				"location": {
+					"lat": -36.7247834,
+					"lng": -73.11698079999999
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -36.6737991,
+						"lng": -73.0629335
+					},
+					"southwest": {
+						"lat": -36.7872652,
+						"lng": -73.1511194
+					}
+				}
+			},
+			"place_id": "ChIJaVMqkGk1aJYRZOIssUeFsG0",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Talcahuano",
+					"short_name": "Talcahuano",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Concepcion",
+					"short_name": "Concepcion",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bío Bío",
+					"short_name": "Bío Bío",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Talcahuano, Bío Bío, Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -36.6017701,
+						"lng": -73.016525
+					},
+					"southwest": {
+						"lat": -36.79553,
+						"lng": -73.16270999999999
+					}
+				},
+				"location": {
+					"lat": -36.7248181,
+					"lng": -73.1173924
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -36.6017701,
+						"lng": -73.016525
+					},
+					"southwest": {
+						"lat": -36.79553,
+						"lng": -73.16270999999999
+					}
+				}
+			},
+			"place_id": "ChIJS7w35oc1aJYRPuNeKuzw30E",
+			"types": [
+				"administrative_area_level_3",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Concepción Province",
+					"short_name": "Concepción Province",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Bio Bio",
+					"short_name": "Bio Bio",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Concepción Province, Bio Bio, Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -36.4426077,
+						"lng": -72.54378389999999
+					},
+					"southwest": {
+						"lat": -37.4545245,
+						"lng": -73.2195048
+					}
+				},
+				"location": {
+					"lat": -36.8189382,
+					"lng": -73.05031919999999
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -36.4426077,
+						"lng": -72.54378389999999
+					},
+					"southwest": {
+						"lat": -37.4545245,
+						"lng": -73.2195048
+					}
+				}
+			},
+			"place_id": "ChIJ1Z3A5N2kaZYRAEjv0m_GWO4",
+			"types": [
+				"administrative_area_level_2",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Bio Bio",
+					"short_name": "Bio Bio",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Bio Bio, Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -36.4426077,
+						"lng": -70.98389279999999
+					},
+					"southwest": {
+						"lat": -38.4918218,
+						"lng": -73.9699354
+					}
+				},
+				"location": {
+					"lat": -37.4464428,
+					"lng": -72.14161319999999
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -36.4426077,
+						"lng": -70.98389279999999
+					},
+					"southwest": {
+						"lat": -38.4918218,
+						"lng": -73.9699354
+					}
+				}
+			},
+			"place_id": "ChIJJ2I4O0tIaJYRUcPgDN5T5cg",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Chile",
+					"short_name": "CL",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Chile",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -17.4983291,
+						"lng": -66.3327
+					},
+					"southwest": {
+						"lat": -56.1455,
+						"lng": -110.0281
+					}
+				},
+				"location": {
+					"lat": -35.675147,
+					"lng": -71.542969
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -17.4983291,
+						"lng": -66.3327
+					},
+					"southwest": {
+						"lat": -56.1455,
+						"lng": -110.0281
+					}
+				}
+			},
+			"place_id": "ChIJL68lBEHFYpYRHbkCERPhBQU",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

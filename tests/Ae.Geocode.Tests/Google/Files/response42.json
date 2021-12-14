@@ -1,0 +1,383 @@
+{
+	"plus_code": {
+		"compound_code": "9M2X+839 El cascajo, Ecuador",
+		"global_code": "66FF9M2X+839"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "9M2X+83",
+					"short_name": "9M2X+83",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "El cascajo",
+					"short_name": "El cascajo",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Santa Cruz",
+					"short_name": "Santa Cruz",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Islas Galápagos",
+					"short_name": "Islas Galápagos",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Ecuador",
+					"short_name": "EC",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "9M2X+83 El cascajo, Ecuador",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -0.649125,
+						"lng": -90.30225
+					},
+					"southwest": {
+						"lat": -0.64925,
+						"lng": -90.302375
+					}
+				},
+				"location": {
+					"lat": -0.649218,
+					"lng": -90.302252
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -0.6478385197084979,
+						"lng": -90.3009635197085
+					},
+					"southwest": {
+						"lat": -0.650536480291502,
+						"lng": -90.30366148029151
+					}
+				}
+			},
+			"place_id": "GhIJVS-_02TG5L8Ro8nFGFiTVsA",
+			"plus_code": {
+				"compound_code": "9M2X+83 El cascajo, Ecuador",
+				"global_code": "66FF9M2X+83"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Vía sin nombre",
+					"short_name": "Vía sin nombre",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Santa Cruz",
+					"short_name": "Santa Cruz",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Islas Galápagos",
+					"short_name": "Islas Galápagos",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Ecuador",
+					"short_name": "EC",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Vía sin nombre, Ecuador",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -0.664999,
+						"lng": -90.29631839999999
+					},
+					"southwest": {
+						"lat": -0.6651089,
+						"lng": -90.2967922
+					}
+				},
+				"location": {
+					"lat": -0.6651071,
+					"lng": -90.29657159999999
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -0.6637049697084979,
+						"lng": -90.29520631970848
+					},
+					"southwest": {
+						"lat": -0.666402930291502,
+						"lng": -90.29790428029149
+					}
+				}
+			},
+			"place_id": "ChIJo-638KZgqpoRbDf5e9iic28",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Bellavista",
+					"short_name": "Bellavista",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Santa Cruz",
+					"short_name": "Santa Cruz",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Islas Galápagos",
+					"short_name": "Islas Galápagos",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Ecuador",
+					"short_name": "EC",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Bellavista, Ecuador",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 0.3874418,
+						"lng": -90.1410729
+					},
+					"southwest": {
+						"lat": -0.7752224999999999,
+						"lng": -90.87205279999999
+					}
+				},
+				"location": {
+					"lat": -0.2619879,
+					"lng": -90.6393702
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 0.3874418,
+						"lng": -90.1410729
+					},
+					"southwest": {
+						"lat": -0.7752224999999999,
+						"lng": -90.87205279999999
+					}
+				}
+			},
+			"place_id": "ChIJxcabLLbbqpoR13MQ9f_I7rQ",
+			"types": [
+				"administrative_area_level_3",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Santa Cruz",
+					"short_name": "Santa Cruz",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Galápagos Islands",
+					"short_name": "Galápagos Islands",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Ecuador",
+					"short_name": "EC",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Santa Cruz, Ecuador",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 0.6438859,
+						"lng": -90.1410729
+					},
+					"southwest": {
+						"lat": -0.7752224999999999,
+						"lng": -90.87205279999999
+					}
+				},
+				"location": {
+					"lat": -0.5635943999999999,
+					"lng": -90.4125181
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 0.6438859,
+						"lng": -90.1410729
+					},
+					"southwest": {
+						"lat": -0.7752224999999999,
+						"lng": -90.87205279999999
+					}
+				}
+			},
+			"place_id": "ChIJOVlOUd3TqpoR_Iq6ltKnOeQ",
+			"types": [
+				"administrative_area_level_2",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Galápagos Islands",
+					"short_name": "Galápagos Islands",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Ecuador",
+					"short_name": "EC",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Galápagos Islands, Ecuador",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 1.6818345,
+						"lng": -89.2412769
+					},
+					"southwest": {
+						"lat": -1.4112351,
+						"lng": -92.00896659999999
+					}
+				},
+				"location": {
+					"lat": -0.9537690999999999,
+					"lng": -90.9656019
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 1.6818345,
+						"lng": -89.2412769
+					},
+					"southwest": {
+						"lat": -1.4112351,
+						"lng": -92.00896659999999
+					}
+				}
+			},
+			"place_id": "ChIJvyyfMe6SqpoR8kaYg2O8vpU",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Ecuador",
+					"short_name": "EC",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Ecuador",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 2.2955,
+						"lng": -75.1887938
+					},
+					"southwest": {
+						"lat": -5.0143509,
+						"lng": -92.60379999999999
+					}
+				},
+				"location": {
+					"lat": -1.831239,
+					"lng": -78.18340599999999
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 2.2955,
+						"lng": -75.1887938
+					},
+					"southwest": {
+						"lat": -5.0143509,
+						"lng": -92.60379999999999
+					}
+				}
+			},
+			"place_id": "ChIJ1UuaqN2HI5ARAjecEQSvdp0",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

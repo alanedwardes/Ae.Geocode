@@ -1,0 +1,524 @@
+{
+	"plus_code": {
+		"compound_code": "844X+9F9 Stanley, Falkland Islands (Islas Malvinas)",
+		"global_code": "38W4844X+9F9"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "1",
+					"short_name": "1",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Kent Road",
+					"short_name": "Kent Rd",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Stanley",
+					"short_name": "Stanley",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "1 Kent Rd, Stanley FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"location": {
+					"lat": -51.6953276,
+					"lng": -57.85239379999999
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -51.6939786197085,
+						"lng": -57.85104481970849
+					},
+					"southwest": {
+						"lat": -51.69667658029149,
+						"lng": -57.8537427802915
+					}
+				}
+			},
+			"place_id": "ChIJywV73pfSgb4RE6c3YGr9k34",
+			"plus_code": {
+				"compound_code": "843X+V2 Stanley, Falkland Islands (Islas Malvinas)",
+				"global_code": "38W4843X+V2"
+			},
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "844X+9F",
+					"short_name": "844X+9F",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Stanley",
+					"short_name": "Stanley",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "East Falkland",
+					"short_name": "East Falkland",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "844X+9F Stanley, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -51.694,
+						"lng": -57.85124999999999
+					},
+					"southwest": {
+						"lat": -51.694125,
+						"lng": -57.85137499999999
+					}
+				},
+				"location": {
+					"lat": -51.694098,
+					"lng": -57.851274
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -51.6927135197085,
+						"lng": -57.8499635197085
+					},
+					"southwest": {
+						"lat": -51.6954114802915,
+						"lng": -57.85266148029151
+					}
+				}
+			},
+			"place_id": "GhIJCBwJNNjYScARsvfii_bsTMA",
+			"plus_code": {
+				"compound_code": "844X+9F Stanley, Falkland Islands (Islas Malvinas)",
+				"global_code": "38W4844X+9F"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "1",
+					"short_name": "1",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Kent Road",
+					"short_name": "Kent Rd",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Stanley",
+					"short_name": "Stanley",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "1 Kent Rd, Stanley FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"location": {
+					"lat": -51.6953276,
+					"lng": -57.85239379999999
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": -51.6939786197085,
+						"lng": -57.85104481970849
+					},
+					"southwest": {
+						"lat": -51.69667658029149,
+						"lng": -57.8537427802915
+					}
+				}
+			},
+			"place_id": "ChIJ97Fo6JfSgb4Rt-JfJTVhQAQ",
+			"plus_code": {
+				"compound_code": "843X+V2 Stanley, Falkland Islands (Islas Malvinas)",
+				"global_code": "38W4843X+V2"
+			},
+			"types": [
+				"church",
+				"establishment",
+				"place_of_worship",
+				"point_of_interest"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Fitzroy Road East",
+					"short_name": "Fitzroy Rd E",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Stanley",
+					"short_name": "Stanley",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Fitzroy Rd E, Stanley FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -51.694057,
+						"lng": -57.8498954
+					},
+					"southwest": {
+						"lat": -51.69427109999999,
+						"lng": -57.8536616
+					}
+				},
+				"location": {
+					"lat": -51.6941491,
+					"lng": -57.8517785
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": -51.6928150697085,
+						"lng": -57.8498954
+					},
+					"southwest": {
+						"lat": -51.69551303029149,
+						"lng": -57.8536616
+					}
+				}
+			},
+			"place_id": "ChIJ187NUb3Sgb4RFDeIIQ5P7TA",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "1",
+					"short_name": "1",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Kent Road",
+					"short_name": "Kent Rd",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Stanley",
+					"short_name": "Stanley",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "1 Kent Rd, Stanley FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"location": {
+					"lat": -51.69501169999999,
+					"lng": -57.8523282
+				},
+				"location_type": "RANGE_INTERPOLATED",
+				"viewport": {
+					"northeast": {
+						"lat": -51.69366271970849,
+						"lng": -57.85097921970848
+					},
+					"southwest": {
+						"lat": -51.69636068029149,
+						"lng": -57.8536771802915
+					}
+				}
+			},
+			"place_id": "Ej4xIEtlbnQgUmQsIFN0YW5sZXkgRklRUSAxWlosIEZhbGtsYW5kIElzbGFuZHMgKElzbGFzIE1hbHZpbmFzKSIaEhgKFAoSCUlKGuCX0oG-EfDHak-B7YJhEAE",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Stanley",
+					"short_name": "Stanley",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "East Falkland",
+					"short_name": "East Falkland",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Stanley FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -51.6894785,
+						"lng": -57.7947807
+					},
+					"southwest": {
+						"lat": -51.70378940000001,
+						"lng": -57.89537439999999
+					}
+				},
+				"location": {
+					"lat": -51.6977129,
+					"lng": -57.85166269999999
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -51.6894785,
+						"lng": -57.7947807
+					},
+					"southwest": {
+						"lat": -51.70378940000001,
+						"lng": -57.89537439999999
+					}
+				}
+			},
+			"place_id": "ChIJtziJO5HSgb4RBsMqaH6coRw",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				},
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -50.9809115,
+						"lng": -57.6768495
+					},
+					"southwest": {
+						"lat": -52.4744161,
+						"lng": -61.3792419
+					}
+				},
+				"location": {
+					"lat": -51.68824499999999,
+					"lng": -59.8139477
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -50.9809115,
+						"lng": -57.6768495
+					},
+					"southwest": {
+						"lat": -52.4744161,
+						"lng": -61.3792419
+					}
+				}
+			},
+			"place_id": "ChIJ-wZ1sScxK7wRLRoe1UxTniw",
+			"types": [
+				"postal_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Falkland Islands (Islas Malvinas)",
+					"short_name": "FK",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "FIQQ 1ZZ",
+					"short_name": "FIQQ 1ZZ",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "FIQQ 1ZZ, Falkland Islands (Islas Malvinas)",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": -50.9809115,
+						"lng": -57.6768495
+					},
+					"southwest": {
+						"lat": -52.4744161,
+						"lng": -61.3792419
+					}
+				},
+				"location": {
+					"lat": -51.796253,
+					"lng": -59.523613
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": -50.9809115,
+						"lng": -57.6768495
+					},
+					"southwest": {
+						"lat": -52.4744161,
+						"lng": -61.3792419
+					}
+				}
+			},
+			"place_id": "ChIJo-ORRLmJKrwROsXZjf-qKjI",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

@@ -1,0 +1,213 @@
+{
+	"plus_code": {
+		"global_code": "CJG2JMPC+584"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "CJG2JMPC+58",
+					"short_name": "CJG2JMPC+58",
+					"types": [
+						"plus_code"
+					]
+				}
+			],
+			"formatted_address": "CJG2JMPC+58",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 80.63549999999999,
+						"lng": 60.67087499999999
+					},
+					"southwest": {
+						"lat": 80.63537500000001,
+						"lng": 60.67074999999999
+					}
+				},
+				"location": {
+					"lat": 80.63537699999999,
+					"lng": 60.670842
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 80.63678648029152,
+						"lng": 60.67216148029149
+					},
+					"southwest": {
+						"lat": 80.6340885197085,
+						"lng": 60.66946351970848
+					}
+				}
+			},
+			"place_id": "GhIJW-hKBKooVEARQWSRJt5VTkA",
+			"plus_code": {
+				"global_code": "CJG2JMPC+58"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Primorsky District",
+					"short_name": "Primorsky District",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Arkhangelsk Oblast",
+					"short_name": "Arkhangelsk Oblast",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Russia",
+					"short_name": "RU",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Primorsky District, Arkhangelsk Oblast, Russia",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 81.8581221,
+						"lng": 65.39893119999999
+					},
+					"southwest": {
+						"lat": 63.86440589999999,
+						"lng": 35.493294
+					}
+				},
+				"location": {
+					"lat": 64.9532342,
+					"lng": 41.1766088
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 81.8581221,
+						"lng": 65.39893119999999
+					},
+					"southwest": {
+						"lat": 63.86440589999999,
+						"lng": 35.493294
+					}
+				}
+			},
+			"place_id": "ChIJn8JeS12LV0QRln3p-sKHZHo",
+			"types": [
+				"administrative_area_level_2",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Arkhangelsk Oblast",
+					"short_name": "Arkhangelsk Oblast",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Russia",
+					"short_name": "RU",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Arkhangelsk Oblast, Russia",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 81.8569,
+						"lng": 69.12069989999999
+					},
+					"southwest": {
+						"lat": 60.637074,
+						"lng": 35.502203
+					}
+				},
+				"location": {
+					"lat": 63.2852803,
+					"lng": 42.5884191
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 81.8569,
+						"lng": 69.12069989999999
+					},
+					"southwest": {
+						"lat": 60.637074,
+						"lng": 35.502203
+					}
+				}
+			},
+			"place_id": "ChIJsZkY5klgGkQR4JXxg6WjAgE",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Russia",
+					"short_name": "RU",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Russia",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 82.1673907,
+						"lng": -168.97788
+					},
+					"southwest": {
+						"lat": 41.185353,
+						"lng": 19.6160999
+					}
+				},
+				"location": {
+					"lat": 61.52401,
+					"lng": 105.318756
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 82.1673907,
+						"lng": -168.97788
+					},
+					"southwest": {
+						"lat": 41.185353,
+						"lng": 19.6160999
+					}
+				}
+			},
+			"place_id": "ChIJ-yRniZpWPEURE_YRZvj9CRQ",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

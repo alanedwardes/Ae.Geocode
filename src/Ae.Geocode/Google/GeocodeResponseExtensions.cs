@@ -6,27 +6,37 @@ namespace Ae.Geocode.Google
 {
     public static class GeocodeResponseExtensions
     {
-        public static AddressComponent? GetFirstMatchingAddressComponent(this GeocodeResponse response, ResultType resultType)
+        private static readonly ResultType[] _typesToExclude = new ResultType[]
         {
-            return response.Results.SelectMany(x => x.AddressComponents.Where(y => y.Types.Contains(resultType))).FirstOrDefault();
+            ResultType.PlusCode,
+            ResultType.PostalCode,
+            ResultType.StreetAddress,
+            ResultType.StreetNumber,
+            ResultType.Route
+        };
+
+        public static AddressComponent? GetMostDescriptiveAddressComponent(this GeocodeResult result)
+        {
+            return result.AddressComponents.FirstOrDefault(x => !_typesToExclude.Any(x.Types.Contains));
         }
 
         /// <summary>
         /// Attempts to guess the major <see cref="AddressComponent"/> parts of a location.
         /// The first element is most specific, the last element is least specific (typically a country).
         /// </summary>
-        public static IEnumerable<AddressComponent> GuessMajorLocationParts(this GeocodeResponse response)
+        public static IEnumerable<GeocodeResult> GuessMajorLocationParts(this GeocodeResponse response)
         {
-            var components = new List<AddressComponent>();
+            var components = new List<GeocodeResult>();
 
-            void AddUniqueComponent(AddressComponent? addressComponent)
+            void AddUniqueComponent(GeocodeResult? geocodeResult)
             {
+                var addressComponent = geocodeResult?.AddressComponents.FirstOrDefault();
                 if (addressComponent == null || string.IsNullOrWhiteSpace(addressComponent.LongName))
                 {
                     return;
                 }
 
-                if (components.Any(x => x.LongName == addressComponent.LongName))
+                if (components.Any(x => x.AddressComponents.FirstOrDefault().LongName == addressComponent.LongName))
                 {
                     return;
                 }
@@ -36,29 +46,17 @@ namespace Ae.Geocode.Google
                     return;
                 }
 
-                components.Add(addressComponent);
+                components.Add(geocodeResult!);
             }
 
-            var typesToExclude = new ResultType[]
-            {
-                ResultType.PlusCode,
-                ResultType.PostalCode,
-                ResultType.StreetAddress,
-                ResultType.StreetNumber,
-                ResultType.Route,
-                ResultType.Country // This will be added explicitly
-            };
-
             var addressComponentsWithBounds = response.Results
-                .Where(x => x.Geometry?.Bounds != null && !typesToExclude.Any(x.Types.Contains))
+                .Where(x => x.Geometry?.Bounds != null && !_typesToExclude.Any(x.Types.Contains))
                 .OrderBy(x => x.Geometry?.Bounds?.Area);
 
             foreach (var result in addressComponentsWithBounds)
             {
-                AddUniqueComponent(result.AddressComponents.FirstOrDefault());
+                AddUniqueComponent(result);
             }
-
-            AddUniqueComponent(response.GetFirstMatchingAddressComponent(ResultType.Country));
 
             return components;
         }

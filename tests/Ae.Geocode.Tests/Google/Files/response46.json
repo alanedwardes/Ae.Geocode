@@ -1,0 +1,922 @@
+{
+	"plus_code": {
+		"compound_code": "369C+R44 Hải Châu District, Da Nang, Vietnam",
+		"global_code": "7P8C369C+R44"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "6",
+					"short_name": "6",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Phan Châu Trinh",
+					"short_name": "Phan Châu Trinh",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "6 Phan Châu Trinh, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"location": {
+					"lat": 16.0695287,
+					"lng": 108.2202931
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0708776802915,
+						"lng": 108.2216420802915
+					},
+					"southwest": {
+						"lat": 16.0681797197085,
+						"lng": 108.2189441197085
+					}
+				}
+			},
+			"place_id": "ChIJU6dA_DMYQjERPzbMwHxAsTc",
+			"plus_code": {
+				"compound_code": "369C+R4 Hải Châu District, Da Nang, Vietnam",
+				"global_code": "7P8C369C+R4"
+			},
+			"types": [
+				"establishment",
+				"point_of_interest"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "02",
+					"short_name": "02",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Phan Châu Trinh",
+					"short_name": "Phan Châu Trinh",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "02 Phan Châu Trinh, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"location": {
+					"lat": 16.06957,
+					"lng": 108.2203267
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0709189802915,
+						"lng": 108.2216756802915
+					},
+					"southwest": {
+						"lat": 16.0682210197085,
+						"lng": 108.2189777197085
+					}
+				}
+			},
+			"place_id": "ChIJl9d9VjEYQjERDHZ5G_6Cw1g",
+			"plus_code": {
+				"compound_code": "369C+R4 Hải Châu District, Da Nang, Vietnam",
+				"global_code": "7P8C369C+R4"
+			},
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "6",
+					"short_name": "6",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Phan Châu Trinh",
+					"short_name": "Phan Châu Trinh",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "6 Phan Châu Trinh, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.0696025,
+						"lng": 108.2203379
+					},
+					"southwest": {
+						"lat": 16.069405,
+						"lng": 108.2201705
+					}
+				},
+				"location": {
+					"lat": 16.0695255,
+					"lng": 108.2202512
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0708527302915,
+						"lng": 108.2216031802915
+					},
+					"southwest": {
+						"lat": 16.0681547697085,
+						"lng": 108.2189052197085
+					}
+				}
+			},
+			"place_id": "ChIJG0S-_jMYQjERLuPI4r_4rv4",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "6",
+					"short_name": "6",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Phan Châu Trinh",
+					"short_name": "Phan Châu Trinh",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "6 Phan Châu Trinh, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"location": {
+					"lat": 16.0695179,
+					"lng": 108.2204223
+				},
+				"location_type": "RANGE_INTERPOLATED",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0708668802915,
+						"lng": 108.2217712802915
+					},
+					"southwest": {
+						"lat": 16.0681689197085,
+						"lng": 108.2190733197085
+					}
+				}
+			},
+			"place_id": "EkQ2IFBoYW4gQ2jDonUgVHJpbmgsIEjhuqNpIENow6J1IDEsIEjhuqNpIENow6J1LCDEkMOgIE7hurVuZywgVmlldG5hbSIaEhgKFAoSCfHVy_szGEIxETbSv4o_rt63EAY",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "369C+R4",
+					"short_name": "369C+R4",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Hải Châu District",
+					"short_name": "Hải Châu District",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Da Nang",
+					"short_name": "Da Nang",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "369C+R4 Hải Châu District, Da Nang, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.069625,
+						"lng": 108.220375
+					},
+					"southwest": {
+						"lat": 16.0695,
+						"lng": 108.22025
+					}
+				},
+				"location": {
+					"lat": 16.069511,
+					"lng": 108.220316
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0709114802915,
+						"lng": 108.2216614802915
+					},
+					"southwest": {
+						"lat": 16.0682135197085,
+						"lng": 108.2189635197085
+					}
+				}
+			},
+			"place_id": "GhIJVrYPecsRMEARRrJHqBkOW0A",
+			"plus_code": {
+				"compound_code": "369C+R4 Hải Châu District, Da Nang, Vietnam",
+				"global_code": "7P8C369C+R4"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "2-8",
+					"short_name": "2-8",
+					"types": [
+						"street_number"
+					]
+				},
+				{
+					"long_name": "Phan Châu Trinh",
+					"short_name": "Phan Châu Trinh",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "2-8 Phan Châu Trinh, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.0699338,
+						"lng": 108.2204602
+					},
+					"southwest": {
+						"lat": 16.0685823,
+						"lng": 108.2203372
+					}
+				},
+				"location": {
+					"lat": 16.0692581,
+					"lng": 108.2203987
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0706070302915,
+						"lng": 108.2217476802915
+					},
+					"southwest": {
+						"lat": 16.0679090697085,
+						"lng": 108.2190497197085
+					}
+				}
+			},
+			"place_id": "ChIJ8dXL-zMYQjERNtK_ij-u3rc",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Hải Châu 1",
+					"short_name": "Hải Châu 1",
+					"types": [
+						"administrative_area_level_3",
+						"political"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Hải Châu",
+					"short_name": "Hải Châu",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.0758861,
+						"lng": 108.226829
+					},
+					"southwest": {
+						"lat": 16.065718,
+						"lng": 108.21695
+					}
+				},
+				"location": {
+					"lat": 16.0708288,
+					"lng": 108.224407
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0758861,
+						"lng": 108.226829
+					},
+					"southwest": {
+						"lat": 16.065718,
+						"lng": 108.21695
+					}
+				}
+			},
+			"place_id": "ChIJk8ZrbDEYQjER8CDT5Pmr8D4",
+			"types": [
+				"administrative_area_level_3",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Hải Châu I",
+					"short_name": "Hải Châu I",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Hải Châu District",
+					"short_name": "Hải Châu District",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Da Nang",
+					"short_name": "Da Nang",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				},
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				}
+			],
+			"formatted_address": "Hải Châu I, Hải Châu District, Da Nang 550000, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.0778011,
+						"lng": 108.2269244
+					},
+					"southwest": {
+						"lat": 16.0658258,
+						"lng": 108.2166586
+					}
+				},
+				"location": {
+					"lat": 16.0710885,
+					"lng": 108.2214415
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0778011,
+						"lng": 108.2269244
+					},
+					"southwest": {
+						"lat": 16.0658258,
+						"lng": 108.2166586
+					}
+				}
+			},
+			"place_id": "ChIJt8JcbDEYQjERw2vPrpyAITE",
+			"types": [
+				"political",
+				"sublocality",
+				"sublocality_level_1"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Hải Châu District",
+					"short_name": "Hải Châu District",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Da Nang",
+					"short_name": "Da Nang",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Hải Châu District, Da Nang, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.0988461,
+						"lng": 108.2359249
+					},
+					"southwest": {
+						"lat": 16.0213791,
+						"lng": 108.1878371
+					}
+				},
+				"location": {
+					"lat": 16.0472002,
+					"lng": 108.2199588
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0988461,
+						"lng": 108.2359249
+					},
+					"southwest": {
+						"lat": 16.0213791,
+						"lng": 108.1878371
+					}
+				}
+			},
+			"place_id": "ChIJwc6exbUZQjERGUMAVgGQ0g8",
+			"types": [
+				"administrative_area_level_2",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Da Nang",
+					"short_name": "Da Nang",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Hải Châu District",
+					"short_name": "Hải Châu District",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Da Nang",
+					"short_name": "Da Nang",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Da Nang, Hải Châu District, Da Nang, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.0951345,
+						"lng": 108.2354165
+					},
+					"southwest": {
+						"lat": 15.999203,
+						"lng": 108.1779956
+					}
+				},
+				"location": {
+					"lat": 16.0544068,
+					"lng": 108.2021667
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 16.0951345,
+						"lng": 108.2354165
+					},
+					"southwest": {
+						"lat": 15.999203,
+						"lng": 108.1779956
+					}
+				}
+			},
+			"place_id": "ChIJEyolkscZQjERh2RDRKDjFPw",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "550000",
+					"short_name": "550000",
+					"types": [
+						"postal_code"
+					]
+				},
+				{
+					"long_name": "Ngũ Hành Sơn",
+					"short_name": "Ngũ Hành Sơn",
+					"types": [
+						"administrative_area_level_2",
+						"political"
+					]
+				},
+				{
+					"long_name": "Đà Nẵng",
+					"short_name": "Đà Nẵng",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.1135636,
+						"lng": 108.3474974
+					},
+					"southwest": {
+						"lat": 15.880773,
+						"lng": 108.1235969
+					}
+				},
+				"location": {
+					"lat": 16.0023889,
+					"lng": 108.2616456
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 16.1135636,
+						"lng": 108.3474974
+					},
+					"southwest": {
+						"lat": 15.880773,
+						"lng": 108.1235969
+					}
+				}
+			},
+			"place_id": "ChIJVb9TiscQQjERPjlZ5KYF6BU",
+			"types": [
+				"postal_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Da Nang",
+					"short_name": "Da Nang",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Da Nang, Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 16.2255181,
+						"lng": 108.3379139
+					},
+					"southwest": {
+						"lat": 15.9181,
+						"lng": 107.818339
+					}
+				},
+				"location": {
+					"lat": 16.0544563,
+					"lng": 108.0717219
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 16.2255181,
+						"lng": 108.3379139
+					},
+					"southwest": {
+						"lat": 15.9181,
+						"lng": 107.818339
+					}
+				}
+			},
+			"place_id": "ChIJEyolkscZQjERBn5yhkvL8B0",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Vietnam",
+					"short_name": "VN",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Vietnam",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 23.3926504,
+						"lng": 109.6765
+					},
+					"southwest": {
+						"lat": 8.195200099999999,
+						"lng": 102.1439156
+					}
+				},
+				"location": {
+					"lat": 14.058324,
+					"lng": 108.277199
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 23.3926504,
+						"lng": 109.6765
+					},
+					"southwest": {
+						"lat": 8.195200099999999,
+						"lng": 102.1439156
+					}
+				}
+			},
+			"place_id": "ChIJXx5qc016FTERvmL-4smwO7A",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}

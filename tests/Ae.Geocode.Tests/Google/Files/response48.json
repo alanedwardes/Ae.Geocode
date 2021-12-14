@@ -1,0 +1,470 @@
+{
+	"plus_code": {
+		"compound_code": "6G7R+V98 Malé, Maldives",
+		"global_code": "6JPM6G7R+V98"
+	},
+	"results": [
+		{
+			"address_components": [
+				{
+					"long_name": "6G7R+RCW",
+					"short_name": "6G7R+RCW",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Hulhumalé",
+					"short_name": "Hulhumalé",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "6G7R+RCW, Male, Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 4.214656199999999,
+						"lng": 73.54111929999999
+					},
+					"southwest": {
+						"lat": 4.2145138,
+						"lng": 73.5409693
+					}
+				},
+				"location": {
+					"lat": 4.2145706,
+					"lng": 73.5410308
+				},
+				"location_type": "ROOFTOP",
+				"viewport": {
+					"northeast": {
+						"lat": 4.215933980291502,
+						"lng": 73.54239328029151
+					},
+					"southwest": {
+						"lat": 4.213236019708497,
+						"lng": 73.5396953197085
+					}
+				}
+			},
+			"place_id": "ChIJ7RiFyF5_PzsRcfcE5Qr500A",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "6G7R+V9",
+					"short_name": "6G7R+V9",
+					"types": [
+						"plus_code"
+					]
+				},
+				{
+					"long_name": "Malé",
+					"short_name": "Malé",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "6G7R+V9 Malé, Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 4.21475,
+						"lng": 73.541
+					},
+					"southwest": {
+						"lat": 4.214625,
+						"lng": 73.540875
+					}
+				},
+				"location": {
+					"lat": 4.214653999999999,
+					"lng": 73.54095199999999
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 4.216036480291502,
+						"lng": 73.54228648029152
+					},
+					"southwest": {
+						"lat": 4.213338519708497,
+						"lng": 73.5395885197085
+					}
+				}
+			},
+			"place_id": "GhIJhNIXQs7bEEARKy0j9Z5iUkA",
+			"plus_code": {
+				"compound_code": "6G7R+V9 Malé, Maldives",
+				"global_code": "6JPM6G7R+V9"
+			},
+			"types": [
+				"plus_code"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Irudheymaa Hingun - 01 Gaolhi",
+					"short_name": "Irudheymaa Hingun - 01 Gaolhi",
+					"types": [
+						"route"
+					]
+				},
+				{
+					"long_name": "Hulhumalé",
+					"short_name": "Hulhumalé",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Malé",
+					"short_name": "Malé",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Irudheymaa Hingun - 01 Gaolhi, Malé, Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 4.2148281,
+						"lng": 73.54135529999999
+					},
+					"southwest": {
+						"lat": 4.2146556,
+						"lng": 73.54073699999999
+					}
+				},
+				"location": {
+					"lat": 4.2147419,
+					"lng": 73.5410462
+				},
+				"location_type": "GEOMETRIC_CENTER",
+				"viewport": {
+					"northeast": {
+						"lat": 4.216090830291502,
+						"lng": 73.5423951302915
+					},
+					"southwest": {
+						"lat": 4.213392869708497,
+						"lng": 73.53969716970849
+					}
+				}
+			},
+			"place_id": "ChIJHcG2yF5_PzsRAC5hnA6m5Jo",
+			"types": [
+				"route"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Hulhumalé",
+					"short_name": "Hulhumalé",
+					"types": [
+						"political",
+						"sublocality",
+						"sublocality_level_1"
+					]
+				},
+				{
+					"long_name": "Malé",
+					"short_name": "Malé",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Hulhumalé, Malé, Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 4.2412793,
+						"lng": 73.5518886
+					},
+					"southwest": {
+						"lat": 4.2005324,
+						"lng": 73.5320667
+					}
+				},
+				"location": {
+					"lat": 4.211396199999999,
+					"lng": 73.53994759999999
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 4.2412793,
+						"lng": 73.5518886
+					},
+					"southwest": {
+						"lat": 4.2005324,
+						"lng": 73.5320667
+					}
+				}
+			},
+			"place_id": "ChIJ5SV1FFx_PzsR7UukGaEr6o8",
+			"types": [
+				"political",
+				"sublocality",
+				"sublocality_level_1"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Malé",
+					"short_name": "Malé",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Male, Malé, Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 4.2233247,
+						"lng": 73.5467929
+					},
+					"southwest": {
+						"lat": 4.1691779,
+						"lng": 73.4822152
+					}
+				},
+				"location": {
+					"lat": 4.1754959,
+					"lng": 73.5093474
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 4.2233247,
+						"lng": 73.5467929
+					},
+					"southwest": {
+						"lat": 4.1691779,
+						"lng": 73.4822152
+					}
+				}
+			},
+			"place_id": "ChIJVUvxlVV-PzsRV7p9OeoztoE",
+			"types": [
+				"administrative_area_level_1",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Malé",
+					"short_name": "Malé",
+					"types": [
+						"locality",
+						"political"
+					]
+				},
+				{
+					"long_name": "Male",
+					"short_name": "Male",
+					"types": [
+						"administrative_area_level_1",
+						"political"
+					]
+				},
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Malé, Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 4.2412793,
+						"lng": 73.5518886
+					},
+					"southwest": {
+						"lat": 4.1691779,
+						"lng": 73.4822152
+					}
+				},
+				"location": {
+					"lat": 4.1754959,
+					"lng": 73.5093474
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 4.2412793,
+						"lng": 73.5518886
+					},
+					"southwest": {
+						"lat": 4.1691779,
+						"lng": 73.4822152
+					}
+				}
+			},
+			"place_id": "ChIJ5fXRB1Z-PzsRmRIFWpvp2Io",
+			"types": [
+				"locality",
+				"political"
+			]
+		},
+		{
+			"address_components": [
+				{
+					"long_name": "Maldives",
+					"short_name": "MV",
+					"types": [
+						"country",
+						"political"
+					]
+				}
+			],
+			"formatted_address": "Maldives",
+			"geometry": {
+				"bounds": {
+					"northeast": {
+						"lat": 7.5149809,
+						"lng": 74.7290038
+					},
+					"southwest": {
+						"lat": -1.2907844,
+						"lng": 71.75170899999999
+					}
+				},
+				"location": {
+					"lat": 3.202778,
+					"lng": 73.22068
+				},
+				"location_type": "APPROXIMATE",
+				"viewport": {
+					"northeast": {
+						"lat": 7.5149809,
+						"lng": 74.7290038
+					},
+					"southwest": {
+						"lat": -1.2907844,
+						"lng": 71.75170899999999
+					}
+				}
+			},
+			"place_id": "ChIJvXv7qr-ZtSQRiWKVgeEJRUE",
+			"types": [
+				"country",
+				"political"
+			]
+		}
+	],
+	"status": "OK"
+}
