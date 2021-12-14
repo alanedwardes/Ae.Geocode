@@ -51,7 +51,7 @@ namespace Ae.Geocode.Google
 
             var addressComponentsWithBounds = response.Results
                 .Where(x => x.Geometry?.Bounds != null && !_typesToExclude.Any(x.Types.Contains))
-                .OrderBy(x => x.Geometry?.Bounds?.Area);
+                .OrderBy(x => x.Geometry?.Bounds?.AreaKilometers);
 
             foreach (var result in addressComponentsWithBounds)
             {
