@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace Ae.Geocode.Google.Entities
 {
-    public sealed class GeocodeResponse
+    public sealed class GeocodeResponse : GoogleResponse
     {
         [JsonPropertyName("plus_code")]
         public PlusCode? PlusCode { get; set; }

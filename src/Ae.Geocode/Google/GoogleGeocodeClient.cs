@@ -1,4 +1,5 @@
 ﻿using Ae.Geocode.Google.Entities;
+using Ae.Geocode.Google.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -34,14 +35,20 @@ namespace Ae.Geocode.Google
         {
             var parameters = new Dictionary<string, string?>
             {
-                { "key", request.ApiKey },
                 { "language", request.Language },
                 { "latlng", $"{request.Coordinates.Latitude},{request.Coordinates.Longitude}" }
             };
 
             var requestUri = new Uri($"/maps/api/geocode/json" + EncodeQueryComponents(parameters), UriKind.Relative);
-            var response = await _httpClient.GetStreamAsync(requestUri);
-            return (await JsonSerializer.DeserializeAsync<GeocodeResponse>(response, null, token))!;
+            var response = await _httpClient.GetAsync(requestUri, token);
+            response.EnsureSuccessStatusCode();
+            var stream = await response.Content.ReadAsStreamAsync();
+            var json = await JsonSerializer.DeserializeAsync<GeocodeResponse>(stream, null, token) ?? new GeocodeResponse();
+            if (!Status.Ok.Equals(json.Status))
+            {
+                throw new GoogleGeocodeClientException($"{json.Status}: {json.ErrorMessage}");
+            }
+            return json!;
         }
     }
 }

@@ -1,8 +1,11 @@
 ﻿using Ae.Geocode.Google;
 using Ae.Geocode.Google.Entities;
+using System;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Text.Json;
+using System.Threading;
 using System.Threading.Tasks;
 using Xunit;
 
@@ -10,6 +13,22 @@ namespace Ae.Geocode.Tests.Google
 {
     public sealed class GeocodeResponseExtensionsTests
     {
+        [Fact(Skip = "Requires API key")]
+        public async Task TestReverseGeoCode()
+        {
+            var innerHandler = new GoogleGeocodeAuthenticationHandler(Environment.GetEnvironmentVariable("GOOGLE_MAPS_API_KEY"))
+            {
+                InnerHandler = new SocketsHttpHandler()
+            };
+
+            var client = new GoogleGeocodeClient(new HttpClient(innerHandler)
+            {
+                BaseAddress = new Uri("https://maps.googleapis.com/")
+            });
+
+            var response = await client.ReverseGeoCode(new GeocodeRequest((53.245969, -0.543325)), CancellationToken.None);
+        }
+
         [Theory]
         [InlineData(1, "Victoria Park,Kingston upon Hull,Hull,England,United Kingdom")]
         [InlineData(2, "Chatsworth House,Chatsworth,Bakewell,Derbyshire Dales District,Derbyshire,England,United Kingdom")]
