@@ -1,0 +1,655 @@
+{
+   "plus_code" : {
+      "compound_code" : "WFQX+Q94 Severodonetsk, Luhansk Oblast, Ukraine",
+      "global_code" : "8GWWWFQX+Q94"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60 Rokiv Peremohy U Druhiy Svitoviy Viyni",
+               "short_name" : "60 Rokiv Peremohy U Druhiy Svitoviy Viyni",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Hvardiiskyi Avenue",
+               "short_name" : "Hvardiiskyi Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sieverodonets'k",
+               "short_name" : "Sieverodonets'k",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93400",
+               "short_name" : "93400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "60 Rokiv Peremohy U Druhiy Svitoviy Viyni, Hvardiiskyi Ave, Sieverodonets'k, Luhans'ka oblast, Ukraine, 93400",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.9392596,
+               "lng" : 38.4986044
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9406085802915,
+                  "lng" : 38.49995338029149
+               },
+               "southwest" : {
+                  "lat" : 48.9379106197085,
+                  "lng" : 38.49725541970849
+               }
+            }
+         },
+         "place_id" : "ChIJE-gtiYkQIEERU8scyHTJKnc",
+         "plus_code" : {
+            "compound_code" : "WFQX+PC Severodonetsk, Luhansk Oblast, Ukraine",
+            "global_code" : "8GWWWFQX+PC"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prospekt Tsentralʹnyy",
+               "short_name" : "Prospekt Tsentralʹnyy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sieverodonets'k",
+               "short_name" : "Sieverodonets'k",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93400",
+               "short_name" : "93400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prospekt Tsentralʹnyy, 64, Sieverodonets'k, Luhans'ka oblast, Ukraine, 93400",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.93897339999999,
+                  "lng" : 38.4977595
+               },
+               "southwest" : {
+                  "lat" : 48.9386474,
+                  "lng" : 38.49680439999999
+               }
+            },
+            "location" : {
+               "lat" : 48.9388407,
+               "lng" : 38.4973936
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9401593802915,
+                  "lng" : 38.4986309302915
+               },
+               "southwest" : {
+                  "lat" : 48.93746141970851,
+                  "lng" : 38.49593296970851
+               }
+            }
+         },
+         "place_id" : "ChIJb5ET4YkQIEER4pSE8NFoM0c",
+         "types" : [ "establishment", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59a",
+               "short_name" : "59a",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Central Avenue",
+               "short_name" : "Central Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sieverodonets'k",
+               "short_name" : "Sieverodonets'k",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93400",
+               "short_name" : "93400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Ave, 59a, Sieverodonets'k, Luhans'ka oblast, Ukraine, 93400",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.9403579,
+               "lng" : 38.49927479999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.94170688029149,
+                  "lng" : 38.5006237802915
+               },
+               "southwest" : {
+                  "lat" : 48.9390089197085,
+                  "lng" : 38.4979258197085
+               }
+            }
+         },
+         "place_id" : "ChIJvUaHm4kQIEERCOUaW5jCPcA",
+         "plus_code" : {
+            "compound_code" : "WFRX+4P Severodonetsk, Luhansk Oblast, Ukraine",
+            "global_code" : "8GWWWFRX+4P"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "WFQX+Q9",
+               "short_name" : "WFQX+Q9",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Severodonetsk",
+               "short_name" : "Severodonetsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhansk Oblast",
+               "short_name" : "Luhansk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93408",
+               "short_name" : "93408",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "WFQX+Q9 Severodonetsk, Luhansk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9395,
+                  "lng" : 38.4985
+               },
+               "southwest" : {
+                  "lat" : 48.939375,
+                  "lng" : 38.498375
+               }
+            },
+            "location" : {
+               "lat" : 48.939386,
+               "lng" : 38.498459
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9407864802915,
+                  "lng" : 38.4997864802915
+               },
+               "southwest" : {
+                  "lat" : 48.9380885197085,
+                  "lng" : 38.49708851970851
+               }
+            }
+         },
+         "place_id" : "GhIJ_ijqzD14SEARzLIngc0_Q0A",
+         "plus_code" : {
+            "compound_code" : "WFQX+Q9 Severodonetsk, Luhansk Oblast, Ukraine",
+            "global_code" : "8GWWWFQX+Q9"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prospekt Tsentralʹnyy",
+               "short_name" : "Prospekt Tsentralʹnyy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sieverodonets'k",
+               "short_name" : "Sieverodonets'k",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93400",
+               "short_name" : "93400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prospekt Tsentralʹnyy, 64, Sieverodonets'k, Luhans'ka oblast, Ukraine, 93400",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.93895879999999,
+               "lng" : 38.4978439
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.94030778029149,
+                  "lng" : 38.4991928802915
+               },
+               "southwest" : {
+                  "lat" : 48.93760981970849,
+                  "lng" : 38.4964949197085
+               }
+            }
+         },
+         "place_id" : "Ek1Qcm9zcGVrdCBUc2VudHJhbMq5bnl5LCA2NCwgU2lldmVyb2RvbmV0cydrLCBMdWhhbnMna2Egb2JsYXN0LCBVa3JhaW5lLCA5MzQwMCIaEhgKFAoSCaPOIu6JECBBEVLelMmadjKlEEA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "64-66",
+               "short_name" : "64-66",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prospekt Tsentralʹnyy",
+               "short_name" : "Prospekt Tsentralʹnyy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sieverodonets'k",
+               "short_name" : "Sieverodonets'k",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93400",
+               "short_name" : "93400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prospekt Tsentralʹnyy, 64-66, Sieverodonets'k, Luhans'ka oblast, Ukraine, 93400",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.94070120000001,
+                  "lng" : 38.498369
+               },
+               "southwest" : {
+                  "lat" : 48.9381077,
+                  "lng" : 38.49676910000001
+               }
+            },
+            "location" : {
+               "lat" : 48.9394044,
+               "lng" : 38.497569
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9407534302915,
+                  "lng" : 38.4989180302915
+               },
+               "southwest" : {
+                  "lat" : 48.9380554697085,
+                  "lng" : 38.4962200697085
+               }
+            }
+         },
+         "place_id" : "ChIJo84i7okQIEERUt6UyZp2MqU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "93400",
+               "short_name" : "93400",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Severodonetsk",
+               "short_name" : "Severodonetsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhansk Oblast",
+               "short_name" : "Luhansk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Severodonetsk, Luhansk Oblast, Ukraine, 93400",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.986963,
+                  "lng" : 38.5365269
+               },
+               "southwest" : {
+                  "lat" : 48.92563999999999,
+                  "lng" : 38.426747
+               }
+            },
+            "location" : {
+               "lat" : 48.9481767,
+               "lng" : 38.4878774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.986963,
+                  "lng" : 38.5365269
+               },
+               "southwest" : {
+                  "lat" : 48.92563999999999,
+                  "lng" : 38.426747
+               }
+            }
+         },
+         "place_id" : "ChIJCxyRNfsQIEERbYVb-Sjl21w",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Severodonetsk",
+               "short_name" : "Severodonetsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luhansk Oblast",
+               "short_name" : "Luhansk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93408",
+               "short_name" : "93408",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Severodonetsk, Luhansk Oblast, Ukraine, 93408",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.986963,
+                  "lng" : 38.5365269
+               },
+               "southwest" : {
+                  "lat" : 48.92563999999999,
+                  "lng" : 38.426747
+               }
+            },
+            "location" : {
+               "lat" : 48.9481767,
+               "lng" : 38.4878774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.986963,
+                  "lng" : 38.5365269
+               },
+               "southwest" : {
+                  "lat" : 48.92563999999999,
+                  "lng" : 38.426747
+               }
+            }
+         },
+         "place_id" : "ChIJF_xkgvIQIEERwhKRyz5fLNM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sjeverodonets'ka city council",
+               "short_name" : "Sjeverodonets'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Popasnyans'kyi district",
+               "short_name" : "Popasnyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luhansk Oblast",
+               "short_name" : "Luhansk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sjeverodonets'ka city council, Luhansk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.996772,
+                  "lng" : 38.666953
+               },
+               "southwest" : {
+                  "lat" : 48.789655,
+                  "lng" : 38.402762
+               }
+            },
+            "location" : {
+               "lat" : 48.93023789999999,
+               "lng" : 38.5034064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.996772,
+                  "lng" : 38.666953
+               },
+               "southwest" : {
+                  "lat" : 48.789655,
+                  "lng" : 38.402762
+               }
+            }
+         },
+         "place_id" : "ChIJax_sRtkaIEERkNQV4-6Mc9M",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luhansk Oblast",
+               "short_name" : "Luhansk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luhansk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.088335,
+                  "lng" : 40.2204802
+               },
+               "southwest" : {
+                  "lat" : 47.8251935,
+                  "lng" : 37.83751609999999
+               }
+            },
+            "location" : {
+               "lat" : 48.574041,
+               "lng" : 39.307815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.088335,
+                  "lng" : 40.2204802
+               },
+               "southwest" : {
+                  "lat" : 47.8251935,
+                  "lng" : 37.83751609999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8zUQQaAY4EARuDtkU2fs3IQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3793713,
+                  "lng" : 40.2204802
+               },
+               "southwest" : {
+                  "lat" : 44.2924,
+                  "lng" : 22.137159
+               }
+            },
+            "location" : {
+               "lat" : 48.379433,
+               "lng" : 31.1655799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3793713,
+                  "lng" : 40.2204802
+               },
+               "southwest" : {
+                  "lat" : 44.2924,
+                  "lng" : 22.137159
+               }
+            }
+         },
+         "place_id" : "ChIJjw5wVMHZ0UAREED2iIQGAQA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

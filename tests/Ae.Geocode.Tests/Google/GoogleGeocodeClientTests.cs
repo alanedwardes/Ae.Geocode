@@ -13,12 +13,25 @@ namespace Ae.Geocode.Tests.Google
 {
     public sealed class GeocodeResponseExtensionsTests
     {
+        public sealed class FileWriterHandler : DelegatingHandler
+        {
+            protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+            {
+                var response = await base.SendAsync(request, cancellationToken);
+                await File.WriteAllTextAsync(Guid.NewGuid().ToString(), await response.Content.ReadAsStringAsync());
+                return response;
+            }
+        }
+
         [Fact(Skip = "Requires API key")]
         public async Task TestReverseGeoCode()
         {
             var innerHandler = new GoogleGeocodeAuthenticationHandler(Environment.GetEnvironmentVariable("GOOGLE_MAPS_API_KEY"))
             {
-                InnerHandler = new SocketsHttpHandler()
+                InnerHandler = new FileWriterHandler
+                {
+                    InnerHandler = new SocketsHttpHandler()
+                }
             };
 
             var client = new GoogleGeocodeClient(new HttpClient(innerHandler)
@@ -26,7 +39,7 @@ namespace Ae.Geocode.Tests.Google
                 BaseAddress = new Uri("https://maps.googleapis.com/")
             });
 
-            var response = await client.ReverseGeoCode(new GeocodeRequest((53.245969, -0.543325)), CancellationToken.None);
+            await client.ReverseGeoCode(new GeocodeRequest((48.939386, 38.498459)), CancellationToken.None);
         }
 
         [Theory]
@@ -66,7 +79,7 @@ namespace Ae.Geocode.Tests.Google
         [InlineData(34, "Glengoole South,South Tipperary,County Tipperary,Ireland")]
         [InlineData(35, "Russia")]
         [InlineData(36, "Svalbard,Svalbard and Jan Mayen")]
-        [InlineData(37, "N'Djamena,N'Djaména,Chad")]
+        [InlineData(37, "N'Djamena,Chad")]
         [InlineData(38, "Kitante,Kampala Central Division,Kampala,Kyadondo,Central Region,Uganda")]
         [InlineData(39, "Oraby,Al Azbakeya,Cairo,Cairo Governorate,Egypt")]
         [InlineData(40, "İstiklal,Bursa,Osmangazi,Turkey")]
@@ -77,7 +90,8 @@ namespace Ae.Geocode.Tests.Google
         [InlineData(45, "Harfield Village,Claremont,Cape Town,Western Cape,South Africa")]
         [InlineData(46, "Hải Châu 1,Hải Châu I,Hải Châu District,Da Nang,Vietnam")]
         [InlineData(47, "Primorsky District,Arkhangelsk Oblast,Russia")]
-        [InlineData(48, "Hulhumalé,Hulhumalé,Male,Malé,Maldives")]
+        [InlineData(48, "Hulhumalé,Male,Maldives")]
+        [InlineData(49, "Severodonetsk,Sjeverodonets'ka city council,Luhansk Oblast,Ukraine")]
         public async Task TestGuessMajorLocationParts(int file, string expected)
         {
             using var stream = File.OpenRead("Google/Files/response" + file + ".json");

@@ -1,5 +1,7 @@
 ﻿using Ae.Geocode.Google.Entities;
+using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 
 namespace Ae.Geocode.Google
@@ -36,7 +38,7 @@ namespace Ae.Geocode.Google
                     return;
                 }
 
-                if (components.Any(x => x.AddressComponents.FirstOrDefault().LongName == addressComponent.LongName))
+                if (components.Any(x => string.Compare(x.GetMostDescriptiveAddressComponent()?.LongName, addressComponent.LongName, CultureInfo.InvariantCulture, CompareOptions.IgnoreNonSpace) == 0))
                 {
                     return;
                 }
@@ -50,7 +52,8 @@ namespace Ae.Geocode.Google
             }
 
             var addressComponentsWithBounds = response.Results
-                .Where(x => x.Geometry?.Bounds != null && !_typesToExclude.Any(x.Types.Contains))
+                .Where(x => !_typesToExclude.Any(x.Types.Contains))
+                .Where(x => x.Geometry?.Bounds != null)
                 .OrderBy(x => x.Geometry?.Bounds?.AreaKilometers);
 
             foreach (var result in addressComponentsWithBounds)
